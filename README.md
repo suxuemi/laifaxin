@@ -1,41 +1,60 @@
-# 来发信使用文档
+# 来发信 (Laifaxin) - 外贸客户开发与邮件营销平台
 
-This website is built using [Docusaurus](https://docusaurus.io/zh-CN/docs), a modern static website generator.
+欢迎来到来发信 (Laifaxin) 的官方文档库。本项目包含了所有关于如何使用来发信平台进行高效外贸客户开发、邮件管理和营销的说明文档。
 
-## Installation
+- **官网**: [https://laifaxin.com](https://laifaxin.com)
+- **文档中心**: [https://laifa.xin](https://laifa.xin)
 
-```bash
-yarn
-```
+## 简介
 
-## Local Development
+来发信是一个专为外贸行业从业者设计的多功能平台。它旨在帮助用户快速、精准地找到潜在客户，自动化邮件营销流程，并高效管理客户关系，从而提升业务开发效率。
 
-```bash
-yarn start
-```
+## 核心功能
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+我们的文档详细介绍了平台的核心功能，主要分为以下几个部分：
 
-## Build
+### 客户搜索与开发 (`zhinan`)
 
-```bash
-yarn build
-```
+- **多渠道客户搜索**: 提供强大的客户搜索功能，支持通过公司名称、网站、社交媒体 (如 LinkedIn)、WhatsApp以及全球主流搜索引擎进行搜索。
+- **精准筛选**: 用户可以通过丰富的筛选条件和高级搜索语法（B2B语法、海关数据语法等）快速定位目标客户。
+- **客户背景调查**: 快速了解潜在客户的背景信息，为后续的沟通做准备。
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+### 邮件管理与营销 (`zhinan`)
 
-## Deployment
+- **邮件收发与管理**: 集成邮件客户端，支持邮件的撰写、批量发送、分类和归档。
+- **邮件追踪**: 实时追踪邮件的打开和点击情况，帮助您了解客户的意向。
+- **模板与签名**: 提供邮件模板和个性化签名功能，提升沟通效率和专业度。
+- **邮件验证**: 确保您的邮件列表的有效性，降低退信率。
 
-Using SSH:
+### 客户关系管理 (CRM) (`zhinan`)
 
-```bash
-USE_SSH=true yarn deploy
-```
+- **客户信息管理**: 集中管理客户和公司信息，支持自定义字段和标签。
+- **团队协作**: 支持部门、成员和权限管理，方便团队协同工作。
+- **数据同步与导出**: 方便地进行数据同步和导出联系人信息。
 
-Not using SSH:
+## 谷歌地图插件 (`chajian`)
 
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
+我们提供了一个强大的谷歌地图插件，专用于数据采集：
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- **商家信息提取**: 从谷歌地图中一键提取商家的详细信息，包括地址、电话、电子邮箱、经纬度等。
+- **客户开发**: 将谷歌地图作为客户开发的新渠道，快速建立潜在客户列表。
+- **高效筛选**: 在地图上快速筛选目标区域和行业的商家。
+
+## 邮箱集成 (`youxiang`)
+
+平台支持与市面上几乎所有的主流个人邮箱和企业邮箱服务集成。文档中包含了详细的配置和使用指南，涵盖：
+
+- **个人邮箱**: Gmail, Outlook, Yahoo, 163, QQ Mail 等。
+- **企业邮箱**: Google Workspace, Tencent Enterprise Mail, Alibaba Cloud Mail, Zoho Mail 等。
+
+## 实战分享与指南 (`share`)
+
+我们还提供了一系列的最佳实践、案例研究和操作指南，帮助您更好地利用平台和外贸技巧：
+
+- **成功案例**: 分享如何利用谷歌地图在30天内找到10个海外合作伙伴。
+- **邮件撰写技巧**: 如何使用AI工具（如腾讯元宝）撰写高回复率的开发信。
+- **实用工具指南**: 如何申请和使用免费的企业邮箱（如 Larksuite）。
+
+---
+
+我们致力于为用户提供最全面、最易懂的文档。如果您在使用过程中遇到任何问题，请随时查阅相关文档或通过 `contact-us.md` 中提供的方式与我们联系。
