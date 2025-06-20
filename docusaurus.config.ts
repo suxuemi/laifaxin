@@ -257,7 +257,7 @@ const config = {
           items: [
             {
               label: '1️⃣产品介绍',
-              href:  '../google-maps',
+              to:  '/google-maps',
             },
             {
               label: '2️⃣下载安装',
