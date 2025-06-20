@@ -25,13 +25,13 @@ function GoogleMapsHomepageHeader() {
             </p>
             <div className={styles.buttonsContainer}>
               {/* 更换跳转链接 */}
-              <Link className={styles.buttonPrimary} href="../chajian/how-to-use-google-maps-plugin">
+              <Link className={styles.buttonPrimary} href="/chajian/how-to-use-google-maps-plugin">
                 使用说明
               </Link>
-              <Link className={styles.buttonGeneral} href="../chajian/how-to-install-google-maps-plugin">
+              <Link className={styles.buttonGeneral} href="/chajian/how-to-install-google-maps-plugin">
                 下载安装
               </Link>
-              <Link className={styles.buttonGeneral} href="../chajian/google-maps-plugin-faq">
+              <Link className={styles.buttonGeneral} href="/chajian/google-maps-plugin-faq">
                 常见问题
               </Link>
             </div>
