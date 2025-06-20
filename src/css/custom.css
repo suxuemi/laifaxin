@@ -1,0 +1,46 @@
+/* src/css/custom.css */
+
+video {
+  max-width: 100%; /* 确保视频宽度不超过其容器 */
+  height: auto;    /* 高度自动调整以保持宽高比 */
+  display: block;  /* 确保视频作为块级元素，可以设置边距等 */
+  margin-bottom: 1rem; /* 在视频下方添加一些间距，可选 */
+}
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #2196f3;
+  --ifm-color-primary-dark: #1e88e5;
+  --ifm-color-primary-darker: #1976d2;
+  --ifm-color-primary-darkest: #1565c0;
+  --ifm-color-primary-light: #42a5f5;
+  --ifm-color-primary-lighter: #64b5f6;
+  --ifm-color-primary-lightest: #90caf9;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #64b5f6;
+  --ifm-color-primary-dark: #42a5f5;
+  --ifm-color-primary-darker: #2196f3;
+  --ifm-color-primary-darkest: #1e88e5;
+  --ifm-color-primary-light: #90caf9;
+  --ifm-color-primary-lighter: #bbdefb;
+  --ifm-color-primary-lightest: #e3f2fd;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.footer__copyright {
+  color: white;
+}
+
+.footer__copyright a {
+  color: white;
+  text-decoration: none; /* Remove underline */
+}
+
+.footer__copyright a:hover {
+  color: var(--ifm-color-primary); /* Change color to theme's primary blue on hover */
+}

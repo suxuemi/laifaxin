@@ -1,0 +1,231 @@
+/* src/pages/google-maps.module.css */
+
+/* --- Hero Section --- */
+.heroBanner {
+  padding: 4rem 0;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+[data-theme='dark'] .heroBanner {
+  background-color: #1a1c24;
+}
+
+.heroContainer {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3rem;
+}
+
+.heroText {
+  flex-basis: 55%;
+  max-width: 650px;
+}
+
+.heroTitle {
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 0.5rem;
+  background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.heroSubtitle {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.heroDescription {
+  font-size: 1.1rem;
+  color: var(--ifm-font-color-secondary);
+  margin-bottom: 2rem;
+}
+
+.buttons {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.buttonPrimary {
+  background-color: #5672CD;
+  color: white !important;
+  font-weight: 600;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+
+.buttonPrimary:hover {
+  background-color: #3A5CCC;
+  transform: translateY(-2px);
+  filter: brightness(1.05);
+}
+
+.buttonGeneral {
+  background-color: #EBEBEF;
+  color: #444950 !important;
+  font-weight: 600;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+
+.buttonGeneral:hover {
+  background-color: #D1D1D6;
+  transform: translateY(-2px);
+}
+
+.heroImageWrapper {
+  flex-basis: 40%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heroLogoText {
+  position: absolute;
+  z-index: 3;
+  bottom: -40px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: var(--ifm-font-color-base);
+}
+
+.blurryBackground {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 40%;
+  background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
+  filter: blur(100px);
+  z-index: 1;
+  transform: scale(0.8);
+}
+
+.heroImage {
+  position: relative;
+  z-index: 2;
+  width: 150px;
+}
+
+/* --- Features Section --- */
+.featuresSection {
+  padding: 5rem 0;
+  background-color: var(--ifm-background-color-secondary);
+}
+
+.featuresContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.featureCard {
+  background-color: var(--ifm-card-background-color);
+  border-radius: 8px;
+  padding: 2rem;
+  border: 1px solid var(--ifm-card-border-color);
+  text-align: left;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.featureCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px -8px rgba(0,0,0,0.1);
+}
+
+.featureIcon {
+  margin-bottom: 1rem;
+  background-color: var(--ifm-color-primary-lightest);
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+.featureIcon img {
+  width: 100%;
+  height: 100%;
+}
+
+.featureTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  gap: 0.5rem;
+}
+
+/* --- Guide Section --- */
+.guideSection {
+  padding: 3rem 0;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.guideTitle {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.guideNote {
+  background-color: #fffbe6;
+  border: 1px solid #ffe58f;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  font-size: 1.05rem;
+}
+
+[data-theme='dark'] .guideNote {
+  background-color: rgba(255, 229, 143, 0.1);
+  border-color: rgba(255, 229, 143, 0.2);
+}
+
+.guideNote p {
+  margin: 0;
+}
+
+.guideImage {
+  border-radius: 8px;
+  box-shadow: 0 10px 30px -10px rgba(0,0,0,0.2);
+  width: 100%;
+}
+
+@media (max-width: 996px) {
+  .heroContainer {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+  .buttons {
+    justify-content: center;
+  }
+  .heroText {
+    flex-basis: 100%;
+  }
+} 

@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "8f8d8a82e9f23b5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "113bad99eb0ef7f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78910004ce4d474c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/pages/markdown-page.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "markdown-page"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37b95cab4a41708c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d6b22eda8e7fe68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35316ee70a616cb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "44757876da5812ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "google-maps-plugin-welcome",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ddd984ceaa7d2ffe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64cfc46a0d7e3253",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e4f1dc48df2486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61ec72dced87e861",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/chajian/google-maps-plugin-welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "google-maps-plugin-welcome 的反向链接列表"
+            }
+          },
+          {
+            "id": "3fbb186801a6a4b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/chajian/google-maps-plugin-welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "google-maps-plugin-welcome 的出链列表"
+            }
+          },
+          {
+            "id": "e1ff9c23809b11bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8a21dbd80c000477",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/pages/markdown-page.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "markdown-page 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "78910004ce4d474c",
+  "lastOpenFiles": [
+    "docs/share/mailbox/从无人问津到30天斩获8个合作伙伴！.md",
+    "docs/share/mailbox/66",
+    "docs/share/mailbox/free-enterprise-email-larksuite.md",
+    "docs/share/tutorial/广交会数据的正确使用姿势.md",
+    "docs/share/mailbox/apply-for-free-email.md",
+    "docs/share/email/Optimize-Your-Cold-Emails-with-AI.md",
+    "docs/share/email/Create-High-Response-Foreign-Trade-Development-Letters-with-Tencent-Yuanbao.md",
+    "docs/share/email/national-day-holiday-push-orders-foreign-trade-peoples-emergency-action-guide.md",
+    "docs/share/mailbox/2大步骤，让你轻松获取谷歌地图会员.md",
+    "docs/share/tutorial",
+    "docs/share/mailbox",
+    "docs/share/30-day-transformation-cleverly-using-Google-Maps-to-secure-10-overseas-partners.md",
+    "docs/share/email",
+    "docs/share",
+    "node_modules/@fortawesome/free-solid-svg-icons/faWaveSquare.d.ts",
+    "node_modules/@fortawesome/free-solid-svg-icons/faWaterLadder.d.ts",
+    "node_modules/@fortawesome/free-solid-svg-icons/faWater.d.ts",
+    "node_modules/@fortawesome/free-solid-svg-icons/faWarning.d.ts",
+    "node_modules/@fortawesome/free-solid-svg-icons/faWarehouse.d.ts",
+    "node_modules/@fortawesome/free-solid-svg-icons/README.md",
+    "node_modules/@fortawesome/react-fontawesome/README.md",
+    "node_modules/@fortawesome/fontawesome-common-types/README.md",
+    "docs/chajian/google-maps-plugin-welcome.md",
+    "docs/chajian/how-to-extract-restaurant-list-in-new-york-area-from-google-maps.md",
+    "build/en/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg",
+    "build/en/svg/verification.svg",
+    "build/en/svg/user.svg",
+    "build/en/svg/trace.svg",
+    "build/en/svg/search.svg",
+    "build/en/svg/phone.svg",
+    "build/en/svg/market.svg",
+    "build/en/svg/people.svg",
+    "build/en/svg/mail.svg",
+    "build/en/svg/location.svg",
+    "docs/chajian/how-to-extract-phone-number-from-google-maps.md",
+    "docs/zhinan/add-contacts.md",
+    "docs/zhinan/add-company.md"
+  ]
+}

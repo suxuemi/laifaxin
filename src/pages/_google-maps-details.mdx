@@ -1,0 +1,156 @@
+## 💡 第一步：安装与固定
+
+**前置操作**：首先，请确保您已根据 📚 <a href="/chajian/how-to-install-google-maps-plugin">安装指南</a> 完成插件的下载与安装。
+
+<div style={{
+  display: 'flex',
+  alignItems: 'center', 
+  gap: 'var(--ifm-spacing-horizontal)',
+  marginBottom: 'var(--ifm-spacing-vertical)'
+}}>
+  <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}> 
+    <div style={{
+      backgroundColor: 'var(--ifm-color-primary-highlight)',
+      borderRadius: 'var(--ifm-global-radius)',
+      padding: 'var(--ifm-spacing-vertical) var(--ifm-spacing-horizontal)',
+      borderLeft: '4px solid var(--ifm-color-primary)',
+    }}>
+      <p style={{ margin: 0 }}>
+        <strong>📌 固定插件，方便访问</strong>
+      </p>
+      <p style={{ marginTop: '0.5rem', marginBottom: '0' }}>
+        为高效使用，建议将 <strong style={{color: '#3578e5'}}>“谷歌地图数据采集”</strong> 插件固定到浏览器工具栏：点击 <strong style={{color: '#e67c00'}}>扩展程序</strong> 图标，找到插件，点击 <strong>固定</strong> 图标即可。
+      </p>
+    </div>
+  </div>
+  <div style={{ flex: 1, textAlign: 'center' }}> 
+    ![将谷歌地图插件固定到浏览器工具栏的操作步骤示意图。](https://cos.files.maozhishi.com/data/web/web-files/img/20250619213651.png)
+  </div>
+</div>
+
+---
+
+## ⚡️ 第二步：执行采集 (二选一)
+插件提供两种核心采集模式，您可以根据需求任选其一。
+
+### **模式一：快速抓取当前页**
+<div style={{
+  display: 'flex',
+  alignItems: 'center',
+  gap: 'var(--ifm-spacing-horizontal)',
+  marginBottom: 'var(--ifm-spacing-vertical)'
+}}>
+  <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+    <div style={{
+      backgroundColor: 'var(--ifm-color-primary-highlight)',
+      borderRadius: 'var(--ifm-global-radius)',
+      padding: 'var(--ifm-spacing-vertical) var(--ifm-spacing-horizontal)',
+      borderLeft: '4px solid var(--ifm-color-primary)',
+    }}>
+      <p style={{ margin: 0 }}>
+        <strong>⚡️ 一键抓取</strong>
+      </p>
+      <p style={{ marginTop: '0.5rem', marginBottom: '0' }}>
+        此模式适用于快速获取当前地图视窗内的数据。在 <strong style={{color: '#e67c00'}}>谷歌地图</strong> 上完成搜索后，点击插件悬浮窗上的 <span style={{color: '#3578e5'}}>【搜索当前页面】</span> 按钮即可立即采集。
+      </p>
+    </div>
+  </div>
+  <div style={{ flex: 1, textAlign: 'center' }}>
+    ![谷歌地图搜索结果页面，突出显示"搜索当前页面"按钮](https://cos.files.maozhishi.com/data/web/web-files/img/20250619212302.png)
+  </div>
+</div>
+
+### **模式二：批量自动采集**
+此模式适用于大规模、自动化的数据采集，包含三个步骤。
+
+**1️⃣ 进入任务面板**
+<div style={{
+  display: 'flex',
+  alignItems: 'center',
+  gap: 'var(--ifm-spacing-horizontal)',
+  marginBottom: 'var(--ifm-spacing-vertical)'
+}}>
+  <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+    <div style={{
+      backgroundColor: 'var(--ifm-color-primary-highlight)',
+      borderRadius: 'var(--ifm-global-radius)',
+      padding: 'var(--ifm-spacing-vertical) var(--ifm-spacing-horizontal)',
+      borderLeft: '4px solid var(--ifm-color-primary)',
+    }}>
+      <p style={{ margin: 0 }}>
+        <strong>🚀 任务采集页面</strong>
+      </p>
+      <p style={{ marginTop: '0.5rem', marginBottom: '0' }}>
+        您可以通过点击浏览器工具栏或地图悬浮窗上的 <span style={{color: '#3578e5'}}>【进入搜索页面】</span> 按钮，打开批量采集任务面板。
+      </p>
+    </div>
+  </div>
+  <div style={{ flex: 1, textAlign: 'center' }}>
+    ![从浏览器右上角插件入口进入搜索界面](https://cos.files.maozhishi.com/data/web/web-files/img/20250619214345.png)
+  </div>
+</div>
+
+**2️⃣ 设置采集条件**
+<div style={{
+  display: 'flex',
+  alignItems: 'center',
+  gap: 'var(--ifm-spacing-horizontal)',
+  marginBottom: 'var(--ifm-spacing-vertical)'
+}}>
+  <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+    <div style={{
+      backgroundColor: 'var(--ifm-color-primary-highlight)',
+      borderRadius: 'var(--ifm-global-radius)',
+      padding: 'var(--ifm-spacing-vertical) var(--ifm-spacing-horizontal)',
+      borderLeft: '4px solid var(--ifm-color-primary)',
+    }}>
+      <p style={{ margin: 0 }}>
+        <strong>🎯 设置搜索目标</strong>
+      </p>
+      <p style={{ marginTop: '0.5rem', marginBottom: '0' }}>
+        成功的关键在于精确定义 <u><span style={{color: '#e67c00'}}>关键词</span></u> 与 <u><span style={{color: '#e67c00'}}>地区</span></u>。可参考 📚 <a href="/chajian/how-to-use-google-maps-for-customer-development">客户开发方法论</a> 与 <a href="/chajian/improve-google-maps-data-collection-efficiency-focus-on-popular-cities">热门城市策略</a>，或直接下载 👉 <a href="https://web-files.laifa.xin/cj-google-maps/cj-google-maps-categories.xlsx">官方分类列表</a>。
+      </p>
+    </div>
+  </div>
+  <div style={{ flex: 1, textAlign: 'center' }}>
+    ![谷歌地图数据采集插件的搜索主界面截图，显示了关键词输入框、地区选择等功能区域。](https://cos.files.maozhishi.com/data/web/web-files/img/20250620151216.png)
+    _在插件主界面输入关键词和地区，点击"搜索"开始采集。_
+  </div>
+</div>
+
+**3️⃣ 开启自动采集**
+<div style={{
+  backgroundColor: 'var(--ifm-color-primary-highlight)',
+  borderRadius: 'var(--ifm-global-radius)',
+  padding: 'var(--ifm-spacing-vertical) var(--ifm-spacing-horizontal)',
+  borderLeft: '4px solid var(--ifm-color-primary)',
+  marginBottom: 'var(--ifm-spacing-vertical)'
+}}>
+  <p style={{ margin: 0 }}>
+    <strong>⚙️ 全自动采集</strong>
+  </p>
+  <p style={{ marginTop: '0.5rem', marginBottom: '0' }}>
+    配置完成后，点击 <span style={{color: '#3578e5'}}>【开启搜索】</span>，插件将全自动执行采集任务，并实时展示进度与数据预览。
+  </p>
+  ![谷歌地图数据采集插件在自动抓取商家信息过程中的界面截图，展示了进度、状态和已采集数据列表。](https://cos.files.maozhishi.com/data/web/web-files/img/20240909022359.png)
+_图示：插件全自动采集中，实时展示进度与数据。_
+</div>
+
+
+---
+
+## 📦 第三步：管理与导出数据
+采集完成后，您可以在插件内或云端对数据进行高效管理。
+
+<div style={{
+  backgroundColor: 'var(--ifm-color-primary-highlight)',
+  borderRadius: 'var(--ifm-global-radius)',
+  padding: 'var(--ifm-spacing-vertical) var(--ifm-spacing-horizontal)',
+  borderLeft: '4px solid var(--ifm-color-primary)',
+  marginBottom: 'var(--ifm-spacing-vertical)'
+}}>
+    **📊 数据处理与应用**：使用 📚 <a href="/chajian/how-to-quickly-filter-target-google-maps-businesses">视图</a> 自动归类，勾选商家后点击 <span style={{color: '#3578e5'}}>【导出】</span> 可存为 <code>.csv</code> 文件。为确保数据安全，强烈建议开启 📚 <a href="/chajian/cloud-synchronize-merchants-and-centralized-data-management">云端同步</a> 功能。
+
+    ![在商家列表区进行筛选、搜索、勾选并导出数据](https://cos.files.maozhishi.com/data/web/web-files/img/1730029362788_d.png)
+</div>
+

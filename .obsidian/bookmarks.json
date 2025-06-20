@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1750227883822,
+      "items": [],
+      "title": "一、极速上手"
+    },
+    {
+      "type": "group",
+      "ctime": 1750227889872,
+      "items": [],
+      "title": "二、特色功能"
+    },
+    {
+      "type": "group",
+      "ctime": 1750227899291,
+      "items": [],
+      "title": "三、客户搜索"
+    },
+    {
+      "type": "group",
+      "ctime": 1750227916434,
+      "items": [],
+      "title": "四、客户管理"
+    },
+    {
+      "type": "group",
+      "ctime": 1750265330696,
+      "items": [],
+      "title": "插件-谷歌地图"
+    }
+  ]
+}
