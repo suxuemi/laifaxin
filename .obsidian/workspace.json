@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "src/pages/markdown-page.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -168,7 +168,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "78910004ce4d474c",
+  "active": "8a21dbd80c000477",
   "lastOpenFiles": [
     "node_modules/@fortawesome/free-solid-svg-icons/faZap.d.ts",
     "node_modules/@fortawesome/free-solid-svg-icons/faZ.d.ts",

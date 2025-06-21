@@ -44,7 +44,7 @@ keywords: ["种子客户分析", "业务特征提取", "页面特征提取", "�
 - 对，因此，我们要<u><span style={{color: '#e67c00'}}>搜集尽可能多的页面特征词</span></u>，比如<u><span style={{color: '#e67c00'}}>零件更换</span></u>等，通过提升覆盖面，不断拓展客户群。
 :::
 
-[![业务与页面特征分析图](https://cos.files.maozhishi.com/data/web/web-files/img/20240812013433.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240812013433.png)
+![业务与页面特征分析图](https://cos.files.maozhishi.com/data/web/web-files/img/20240812013433.png)
 
 _图示：业务特征与页面特征分析方法。_
 
@@ -56,7 +56,7 @@ _图示：业务特征与页面特征分析方法。_
 - **社媒信息**：包含<u><span style={{color: '#e67c00'}}>linkedin</span></u>/<u><span style={{color: '#e67c00'}}>facebook</span></u>/<u><span style={{color: '#e67c00'}}>zoominfo</span></u>/<u><span style={{color: '#e67c00'}}>twitter</span></u>等信息。
 - **公司总部**：一般通过LinkedIn进行确认，也可以去官网上查看。
 
-[![客户信息表截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240812010838.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240812010838.png)
+![客户信息表截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240812010838.png)
 
 _图示：客户营销数据表示例，记录客户基本信息。_
 
@@ -68,7 +68,7 @@ _图示：客户营销数据表示例，记录客户基本信息。_
 - 3️⃣ **词库管理**：如何高效管理这些特征？
 :::
 
-[![特征词库管理示意图](https://cos.files.maozhishi.com/data/web/web-files/img/20240814161351.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240814161351.png)
+![特征词库管理示意图](https://cos.files.maozhishi.com/data/web/web-files/img/20240814161351.png)
 
 _图示：特征词库管理，分类记录不同类型的业务和页面特征词。_
 
@@ -117,14 +117,14 @@ _图示：特征词库管理，分类记录不同类型的业务和页面特征�
 - **产品关键词**：<u><span style={{color: '#e67c00'}}>Kayaks</span></u>/<u><span style={{color: '#e67c00'}}>Paddle</span></u>/<u><span style={{color: '#e67c00'}}>Carbon Paddle</span></u>/<u><span style={{color: '#e67c00'}}>Fiberglass Paddle</span></u>/<u><span style={{color: '#e67c00'}}>Bilge Pump</span></u>
 - **服务关键词**：<u><span style={{color: '#e67c00'}}>Replacement Parts(更换零件)</span></u>
 
-[![Oru Kayak网站截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240814163131.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240814163131.png)
+![Oru Kayak网站截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240814163131.png)
 
 _图示：Oru Kayak网站菜单，展示产品词和服务词。_
 
 - 我们以这个网页为例：[**About Us – Bending Branches** ](https://bendingbranches.com/pages/about-us)
 - 在这个页面，我们可以看到客户对自己角色<u><span style={{color: '#e67c00'}}>manufacturer</span></u>的描述
 
-[![Bending Branches About Us页面截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240814171536.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240814171536.png)
+![Bending Branches About Us页面截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240814171536.png)
 
 _图示：Bending Branches网站的"About Us"页面，显示客户角色为制造商。_
 
@@ -144,47 +144,47 @@ _图示：Bending Branches网站的"About Us"页面，显示客户角色为制�
 - 2️⃣ **说明**：关于这个关键词的说明
 - 3️⃣ **特征类型**：下拉选择类型
 - :::note 👉 点此查看<u><span style={{color: '#e67c00'}}>特征类型</span></u>下拉选择的截图
-      [![特征类型下拉选择](https://cos.files.maozhishi.com/data/web/web-files/img/20240815225348.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240815225348.png)
+      ![特征类型下拉选择](https://cos.files.maozhishi.com/data/web/web-files/img/20240815225348.png)
       _图示：特征类型下拉选择示例。_
       :::
 - 4️⃣ **来源客户**：填写客户的域名，对应<u><span style={{color: '#e67c00'}}>2️⃣ 客户列表</span></u>中的<u><span style={{color: '#e67c00'}}>客户网站（website）</span></u>
 - :::note 👉 点此查看<u><span style={{color: '#e67c00'}}>来源客户</span></u>对应的<u><span style={{color: '#e67c00'}}>客户网站（website）</span></u>
-      [![客户列表中的客户网站](https://cos.files.maozhishi.com/data/web/web-files/img/20240815230144.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240815230144.png)
+      ![客户列表中的客户网站](https://cos.files.maozhishi.com/data/web/web-files/img/20240815230144.png)
       _图示：客户列表中对应的客户网站字段。_
       :::
 - 5️⃣ **语言**：这是一个公式，通过<u><span style={{color: '#e67c00'}}>来源客户</span></u>，在<u><span style={{color: '#e67c00'}}>2️⃣ 客户列表</span></u>中<u><span style={{color: '#e67c00'}}>查询对应语言</span></u>.
 - :::note 👉 点此查看<u><span style={{color: '#e67c00'}}>语言的</span></u>对应的<u><span style={{color: '#e67c00'}}>查询公式</span></u>
-      [![语言查询公式示例](https://cos.files.maozhishi.com/data/web/web-files/img/20240815230428.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240815230428.png)
+      ![语言查询公式示例](https://cos.files.maozhishi.com/data/web/web-files/img/20240815230428.png)
       _图示：表格中通过VLOOKUP查询语言的公式。_
 - 你可以直接复制这个公式进行研究。
       ```
       =VLOOKUP(D2,'2️⃣ 客户列表'!A:E,5,0)
       ```
 - 如果看不懂，可以直接问AI
-        [![AI解释VLOOKUP公式](https://cos.files.maozhishi.com/data/web/web-files/img/20240815231241.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240815231241.png)
+        ![AI解释VLOOKUP公式](https://cos.files.maozhishi.com/data/web/web-files/img/20240815231241.png)
         _图示：询问AI解释VLOOKUP公式。_
       :::
 - 6️⃣ **来源类型**：选择关键词的来源，<u><span style={{color: '#e67c00'}}>website</span></u>/<u><span style={{color: '#e67c00'}}>linkedin</span></u>/<u><span style={{color: '#e67c00'}}>zoominfo</span></u>/<u><span style={{color: '#e67c00'}}>facebook</span></u>
 - :::note 👉 点此查看<u><span style={{color: '#e67c00'}}>来源类型</span></u>下拉选择的截图
-      [![来源类型下拉选择](https://cos.files.maozhishi.com/data/web/web-files/img/20240815230606.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240815230606.png)
+      ![来源类型下拉选择](https://cos.files.maozhishi.com/data/web/web-files/img/20240815230606.png)
       _图示：来源类型下拉选择示例。_
       :::
 - 7️⃣ **来源链接**：来自哪个链接，贴入对应链接即可。
 - 8️⃣ **截图**：想截就截...
 - 9️⃣ **唯一标识**：<u><span style={{color: '#e67c00'}}>很重要</span></u>，去重用到。
 - :::note 👉 点此查看<u><span style={{color: '#e67c00'}}>唯一标识</span></u>的公式
-      [![唯一标识公式示例](https://cos.files.maozhishi.com/data/web/web-files/img/20240815230924.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240815230924.png)
+      ![唯一标识公式示例](https://cos.files.maozhishi.com/data/web/web-files/img/20240815230924.png)
       _图示：表格中生成唯一标识的CONCATENATE公式。_
 - 你也可以直接复制这个公式：
       ```
       =CONCATENATE(VLOOKUP(D2,'2️⃣ 客户列表'!A:B,2,0),"-",F2,"-",A2)
       ```
 - 如果你看不懂，可以直接让AI帮你解释这个公式
-        [![AI解释CONCATENATE公式](https://cos.files.maozhishi.com/data/web/web-files/img/20240815231146.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240815231146.png)
+        ![AI解释CONCATENATE公式](https://cos.files.maozhishi.com/data/web/web-files/img/20240815231146.png)
         _图示：询问AI解释CONCATENATE公式。_
       :::
 
-[![特征词信息记录表示例](https://cos.files.maozhishi.com/data/web/web-files/img/20240815224807.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240815224807.png)
+![特征词信息记录表示例](https://cos.files.maozhishi.com/data/web/web-files/img/20240815224807.png)
 
 _图示：客户营销数据表中关于特征词信息的记录方式。_
 
@@ -201,7 +201,7 @@ _图示：客户营销数据表中关于特征词信息的记录方式。_
 - **基础信息**：从客户的<u><span style={{color: '#e67c00'}}>简介</span></u>、<u><span style={{color: '#e67c00'}}>主营</span></u>等可以提取出<u><span style={{color: '#e67c00'}}>产品词</span></u>、<u><span style={{color: '#e67c00'}}>服务词</span></u>、<u><span style={{color: '#e67c00'}}>角色词</span></u>等信息。
 - **行业信息**：LinkedIn上是有行业信息的，此处一般是客户自己写的，定位也较准。
 
-[![Confluence Outdoor LinkedIn页面截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240815232306.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240815232306.png)
+![Confluence Outdoor LinkedIn页面截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240815232306.png)
 
 _图示：Confluence Outdoor公司在LinkedIn上的主页，展示其基础信息和行业信息。_
 
@@ -212,7 +212,7 @@ _图示：Confluence Outdoor公司在LinkedIn上的主页，展示其基础信�
 - 填写要求请参照上文的<u><span style={{color: '#e67c00'}}>客户网站-website</span></u>部分。
 - **样表参照**：👉 [**<u><span style={{color: '#e67c00'}}>客户营销数据表</span></u>**](https://kdocs.cn/l/clEQmGg41bxx)
 
-[![LinkedIn特征词信息记录表示例](https://cos.files.maozhishi.com/data/web/web-files/img/20240815232708.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240815232708.png)
+![LinkedIn特征词信息记录表示例](https://cos.files.maozhishi.com/data/web/web-files/img/20240815232708.png)
 
 _图示：客户营销数据表中记录从LinkedIn提取的特征词信息。_
 
@@ -227,7 +227,7 @@ _图示：客户营销数据表中记录从LinkedIn提取的特征词信息。_
 - 我们以  [Confluence Outdoor](https://www.zoominfo.com/c/confluence-outdoor/19383951)为例
 - 从该页面，我们很轻松提取出客户的<u><span style={{color: '#e67c00'}}>行业</span></u>/<u><span style={{color: '#e67c00'}}>产品</span></u>/<u><span style={{color: '#e67c00'}}>角色</span></u>等信息。
 
-[![Confluence Outdoor ZoomInfo页面截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240815224147.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240815224147.png)
+![Confluence Outdoor ZoomInfo页面截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240815224147.png)
 
 _图示：Confluence Outdoor公司在ZoomInfo上的信息页面，可提取行业、产品、角色等信息。_
 
@@ -238,7 +238,7 @@ _图示：Confluence Outdoor公司在ZoomInfo上的信息页面，可提取行�
 - 参照以上，我们可以提取到客户的<u><span style={{color: '#e67c00'}}>产品词</span></u>、<u><span style={{color: '#e67c00'}}>服务词</span></u>、<u><span style={{color: '#e67c00'}}>角色词</span></u>等信息。
 - **样表参照**：👉 [**<u><span style={{color: '#e67c00'}}>客户营销数据表</span></u>**](https://kdocs.cn/l/clEQmGg41bxx)
 
-[![ZoomInfo特征词信息记录表示例](https://cos.files.maozhishi.com/data/web/web-files/img/20240815232921.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240815232921.png)
+![ZoomInfo特征词信息记录表示例](https://cos.files.maozhishi.com/data/web/web-files/img/20240815232921.png)
 
 _图示：客户营销数据表中记录从ZoomInfo提取的特征词信息。_
 
@@ -353,7 +353,7 @@ https://www.orukayak.com/products/the-coast-xt
 
 - **样表参照**：👉 [**<u><span style={{color: '#e67c00'}}>客户营销数据表</span></u>**](https://kdocs.cn/l/clEQmGg41bxx)
 
-[![页面特征记录表示例](https://cos.files.maozhishi.com/data/web/web-files/img/20240816002947.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240816002947.png)
+![页面特征记录表示例](https://cos.files.maozhishi.com/data/web/web-files/img/20240816002947.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240816002947.png)
 
 _图示：客户营销数据表中关于页面特征的记录方式。_
 
