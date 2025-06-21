@@ -1,19 +1,19 @@
 ---
 id: 105-souhu-sohuyouxiang-sohu-personal-email
-title: '搜狐邮箱 (@sohu.com): IMAP/SMTP 与独立密码配置指南'
+title: "搜狐邮箱 (@sohu.com): IMAP/SMTP 与独立密码配置指南"
 description: 本文指导如何在第三方邮件客户端（如来发信）中设置搜狐邮箱（@sohu.com）。内容涵盖IMAP/SMTP服务器参数、如何在网页版邮箱中开启IMAP/SMTP服务并获取用于第三方登录的“独立密码”的详细步骤，以及IP白名单模式的说明。
-tags: ['搜狐邮箱', 'sohu邮箱', 'IMAP', 'SMTP', '独立密码', '邮箱配置']
+tags: ["搜狐邮箱", "sohu邮箱", "IMAP", "SMTP", "独立密码", "邮箱配置"]
 keywords:
   [
-    '搜狐邮箱',
-    'sohu.com',
-    'sohuVIP邮箱',
-    'IMAP',
-    'SMTP',
-    '独立密码',
-    '授权码',
-    'IP白名单',
-    '客户端配置',
+    "搜狐邮箱",
+    "sohu.com",
+    "sohuVIP邮箱",
+    "IMAP",
+    "SMTP",
+    "独立密码",
+    "授权码",
+    "IP白名单",
+    "客户端配置",
   ]
 ---
 

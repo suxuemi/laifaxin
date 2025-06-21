@@ -13,7 +13,7 @@ keywords: [标签管理, 联系人标签, 公司标签, 标签分组, 客户管�
   - 👉 通过 📚[联系人视图与标签](./contacts-tags-views) 快速了解标签的应用。
 - **界面预览**：标签管理界面预览
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20241028212111.png)
+![标签管理界面，展示了联系人标签和公司标签的目录结构](https://cos.files.maozhishi.com/data/web/web-files/img/20241028212111.png)
 
 _图示：标签管理界面，展示了联系人标签和公司标签的目录结构。_
 
@@ -30,7 +30,7 @@ _图示：标签管理界面，展示了联系人标签和公司标签的目录�
     - <span style={{color: '#3578e5'}}>标签颜色</span>：为标签设置背景色，方便快速识别。
     - <span style={{color: '#3578e5'}}>标签备注</span>：仅管理员可见的内部备注。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20241028212724.png)
+![新建或编辑标签时，填写名称、选择目录、颜色并添加备注](https://cos.files.maozhishi.com/data/web/web-files/img/20241028212724.png)
 
 _图示：新建或编辑标签时，填写名称、选择目录、颜色并添加备注。_
 
@@ -44,7 +44,7 @@ _图示：新建或编辑标签时，填写名称、选择目录、颜色并添�
   - <span style={{color: '#3578e5'}}>目录名称</span>：输入分组的名称。
   - <span style={{color: '#3578e5'}}>目录备注</span>：为分组添加内部备注。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20241028213245.png)
+![创建标签分组（目录）以更好地组织标签](https://cos.files.maozhishi.com/data/web/web-files/img/20241028213245.png)
 
 _图示：创建标签分组（目录）以更好地组织标签。_
 
@@ -52,7 +52,7 @@ _图示：创建标签分组（目录）以更好地组织标签。_
 
 - <u><span style={{color: '#e67c00'}}>公司标签</span></u> 的所有管理操作（新建、编辑、删除、分组）与联系人标签完全一致，只需切换到<span style={{color: '#3578e5'}}>【公司标签】</span>选项卡即可。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20241028220352.png)
+![在"公司标签"选项卡下管理公司相关的标签](https://cos.files.maozhishi.com/data/web/web-files/img/20241028220352.png)
 
 _图示：在"公司标签"选项卡下管理公司相关的标签。_
 
@@ -62,7 +62,7 @@ _图示：在"公司标签"选项卡下管理公司相关的标签。_
 
 - **功能**：在搜索框中输入关键词，快速查找特定的标签或分组。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20241028214519.png)
+![使用搜索功能快速定位标签或分组](https://cos.files.maozhishi.com/data/web/web-files/img/20241028214519.png)
 
 _图示：使用搜索功能快速定位标签或分组。_
 
@@ -70,7 +70,7 @@ _图示：使用搜索功能快速定位标签或分组。_
 
 - **功能**：点击右上角的<span style={{color: '#3578e5'}}>【统计】</span>按钮，系统将计算并显示每个标签或分组下包含的联系人/公司数量。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20241028214751.png)
+![标签统计功能，显示每个标签下的联系人数量](https://cos.files.maozhishi.com/data/web/web-files/img/20241028214751.png)
 
 _图示：标签统计功能，显示每个标签下的联系人数量。_
 
@@ -79,7 +79,7 @@ _图示：标签统计功能，显示每个标签下的联系人数量。_
 - **删除标签**：点击标签右侧的<span style={{color: '#3578e5'}}>【删除】</span>图标即可。
 - ⚠️ **重要提示**：删除标签本身 **不会** 删除该标签下的联系人或公司数据。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20241028215628.png)
+![删除标签的操作提示](https://cos.files.maozhishi.com/data/web/web-files/img/20241028215628.png)
 
 _图示：删除标签的操作提示。_
 

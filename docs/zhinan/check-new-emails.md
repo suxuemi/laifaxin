@@ -2,17 +2,27 @@
 id: check-new-emails
 title: ✨ 收新邮件
 description: 还在为错过来发信系统询盘或管理多个邮箱账号而烦恼吗？学习如何高效收取和统一管理您的所有邮件，确保每一个商机都不再错失！
-tags: ['收邮件', '系统邮箱', '绑定邮箱', 'IMAP', 'POP3', '邮件同步', '邮件通知', '来发信']
+tags:
+  [
+    "收邮件",
+    "系统邮箱",
+    "绑定邮箱",
+    "IMAP",
+    "POP3",
+    "邮件同步",
+    "邮件通知",
+    "来发信",
+  ]
 keywords:
   [
-    '收新邮件',
-    '邮件管理',
-    '系统收信',
-    '邮箱绑定',
-    'IMAP设置',
-    '邮件同步',
-    '新邮件通知',
-    '来发信邮箱',
+    "收新邮件",
+    "邮件管理",
+    "系统收信",
+    "邮箱绑定",
+    "IMAP设置",
+    "邮件同步",
+    "新邮件通知",
+    "来发信邮箱",
   ]
 date: 2024-07-30
 ---
@@ -30,7 +40,7 @@ date: 2024-07-30
 
 > - 回复到系统的邮件如下图所示，会集中显示在系统账号下的<span style={{color: '#3578e5'}}>收件箱</span>中，方便您及时处理。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20241021132737.png)
+![在来发信系统的"来发信"账号下查看收件箱的界面截图](https://cos.files.maozhishi.com/data/web/web-files/img/20241021132737.png)
 
 _图示：系统邮箱收件箱界面_
 
@@ -45,7 +55,7 @@ _图示：系统邮箱收件箱界面_
 - 务必确保 **<span style={{color: '#8e44ad'}}>IMAP</span>** 相关参数（如<span style={{color: '#3578e5'}}>服务器地址</span>、<span style={{color: '#3578e5'}}>端口</span>、<span style={{color: '#3578e5'}}>加密方式</span>等）正确无误，这是成功收信的关键。
 - 👉 ⚠️ **重要提示**：目前系统暂不支持 **<span style={{color: '#8e44ad'}}>POP3</span>** 协议收信，请选择 **<span style={{color: '#8e44ad'}}>IMAP</span>** 方式进行配置。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20241021140542.png)
+![在邮箱账号设置中配置IMAP收信服务器参数的界面截图](https://cos.files.maozhishi.com/data/web/web-files/img/20241021140542.png)
 
 _图示：邮箱IMAP配置界面_
 
@@ -53,10 +63,10 @@ _图示：邮箱IMAP配置界面_
 
 成功 👉 [**<span style={{color: '#e67c00'}}>绑定邮箱</span>**](./email-account) 后，您需要在 <span style={{color: '#3578e5'}}>【邮箱账号】</span> - <span style={{color: '#3578e5'}}>【来发信】</span> ([直达链接](https://web.laifaxin.com/settings/accounts)) 界面检查并开启邮件同步功能。
 
-> - ☑️ 请确保“<span style={{color: '#3578e5'}}>邮件同步</span>”选项已被勾选。
-> - 同时，合理设置“<span style={{color: '#3578e5'}}>同步时间</span>”（如同步频率），以平衡收信及时性与服务器压力。
+> - ☑️ 请确保"<span style={{color: '#3578e5'}}>邮件同步</span>"选项已被勾选。
+> - 同时，合理设置"<span style={{color: '#3578e5'}}>同步时间</span>"（如同步频率），以平衡收信及时性与服务器压力。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20241021140037.png)
+![在邮箱账号管理界面开启"邮件同步"并设置同步频率的截图](https://cos.files.maozhishi.com/data/web/web-files/img/20241021140037.png)
 
 _图示：开启邮件同步设置_
 
@@ -68,7 +78,7 @@ _图示：开启邮件同步设置_
 
 ### 4. 注意事项：避免收信困扰 {#attention-items}
 
-- 若在收取邮件时，系统反复提示要求输入密码，这可能是由于收信过于频繁，导致您的邮箱服务器暂时拒绝服务。您可以尝试将邮件的<span style={{color: '#3578e5'}}>收取间隔时间</span>设置得长一些（例如，在“<span style={{color: '#3578e5'}}>同步时间</span>”设置中调整）。
+- 若在收取邮件时，系统反复提示要求输入密码，这可能是由于收信过于频繁，导致您的邮箱服务器暂时拒绝服务。您可以尝试将邮件的<span style={{color: '#3578e5'}}>收取间隔时间</span>设置得长一些（例如，在"<span style={{color: '#3578e5'}}>同步时间</span>"设置中调整）。
 - 如果此问题持续影响您的正常使用，<u><span style={{color: '#d93025'}}>建议联系您的邮箱服务提供商的客服进行咨询或投诉</span></u>。
 
 ---
@@ -82,7 +92,7 @@ _图示：开启邮件同步设置_
 - **❓ 系统支持哪些类型的邮箱绑定？**
   > - 答：系统主要通过 **<span style={{color: '#8e44ad'}}>IMAP</span>** 协议绑定邮箱，理论上支持所有开启了IMAP服务的邮箱提供商，如Gmail, Outlook, QQ邮箱, 163邮箱等。
 - **❓ 收信频率可以自定义吗？**
-  > - 答：是的，您可以在[“同步时间”设置](#enable-sync)中调整邮件的同步频率。
+  > - 答：是的，您可以在["同步时间"设置](#enable-sync)中调整邮件的同步频率。
 
 ### 2. 学习建议 {#learning-suggestions}
 

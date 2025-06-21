@@ -49,19 +49,19 @@ _图示：阿磐微信二维码_
 - **<span style={{color: '#8e44ad'}}>推荐场景</span>** ：用户交流、经验分享、功能讨论、获取最新动态。
 - **微信公众号**：搜索“来发信”或扫描下方二维码获取最新动态和产品更新。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/1719314829483.png)
+![来发信官方微信公众号二维码](https://cos.files.maozhishi.com/data/web/web-files/img/1719314829483.png)
 
 _图示：来发信官方微信公众号二维码_
 
 - **谷歌地图交流群**：扫描下方二维码，加入社群，与其他用户交流谷歌地图使用技巧和经验。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/wx/qy-ggdt.png)
+![谷歌地图交流群微信二维码](https://cos.files.maozhishi.com/data/web/web-files/wx/qy-ggdt.png)
 
 _图示：谷歌地图交流群二维码_
 
 - **外贸客户开发🔥开单群**：扫描下方二维码，加入外贸精英社群，分享客户开发策略，共创佳绩！
 
-![](https://cos.files.maozhishi.com/data/web/web-files/wx/qy-khkf.png)
+![外贸客户开发开单群微信二维码](https://cos.files.maozhishi.com/data/web/web-files/wx/qy-khkf.png)
 
 _图示：外贸客户开发🔥开单群二维码_
 

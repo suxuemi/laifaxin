@@ -1,9 +1,9 @@
 ---
 id: 102-yahu-yahooyouxiang-yahoo-personal-mailbox
-title: '雅虎邮箱 (@yahoo.com): 生成并使用应用程式密码'
+title: "雅虎邮箱 (@yahoo.com): 生成并使用应用程式密码"
 description: 本文详细讲解如何在第三方客户端绑定雅虎邮箱（yahoo.com）进行邮件收发，包括生成应用程式密码的步骤。
-tags: ['雅虎邮箱', 'Yahoo Mail', '应用程式密码', '邮箱配置']
-keywords: ['雅虎邮箱', 'Yahoo', '应用程式密码', 'IMAP', 'SMTP', '第三方客户端']
+tags: ["雅虎邮箱", "Yahoo Mail", "应用程式密码", "邮箱配置"]
+keywords: ["雅虎邮箱", "Yahoo", "应用程式密码", "IMAP", "SMTP", "第三方客户端"]
 ---
 
 # 雅虎邮箱 (@yahoo.com): 生成并使用应用程式密码

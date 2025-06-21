@@ -18,7 +18,7 @@ keywords:
   - 邮件阅读率
   - 精准营销
   - 来发信
-date: '2024-07-16'
+date: "2024-07-16"
 ---
 
 # 精准发信：降本增效的智慧 {#precise-emailing-cost-reduction-efficiency}

@@ -1,21 +1,30 @@
 ---
 id: 115-yandex-yandexyouxiang-yandex-personal-email
-title: 'Yandex邮箱(yandex): 应用密码登录'
-description: '本文详细讲解如何在第三方客户端（如来发信）中设置 Yandex Mail (@yandex.com)。内容覆盖开启 IMAP/POP3 协议、登录 Yandex ID 管理页面、生成并使用“应用密码”（App Password）完成绑定的完整步骤。'
-tags: ['Yandex Mail', 'Yandex', '应用密码', 'App Password', 'IMAP', 'SMTP', '邮箱配置']
+title: "Yandex邮箱(yandex): 应用密码登录"
+description: "本文详细讲解如何在第三方客户端（如来发信）中设置 Yandex Mail (@yandex.com)。内容覆盖开启 IMAP/POP3 协议、登录 Yandex ID 管理页面、生成并使用“应用密码”（App Password）完成绑定的完整步骤。"
+tags:
+  [
+    "Yandex Mail",
+    "Yandex",
+    "应用密码",
+    "App Password",
+    "IMAP",
+    "SMTP",
+    "邮箱配置",
+  ]
 keywords:
   [
-    'Yandex Mail',
-    'Yandex',
-    'yandex.com',
-    'IMAP',
-    'SMTP',
-    'POP3',
-    '应用密码',
-    'App Password',
-    '两步验证',
-    '邮箱配置',
-    '俄罗斯邮箱',
+    "Yandex Mail",
+    "Yandex",
+    "yandex.com",
+    "IMAP",
+    "SMTP",
+    "POP3",
+    "应用密码",
+    "App Password",
+    "两步验证",
+    "邮箱配置",
+    "俄罗斯邮箱",
   ]
 ---
 

@@ -2,8 +2,17 @@
 id: 100-gerenyouxiang-personal-mailbox
 title: 个人邮箱
 description: 本文汇总了全球主流的个人电子邮箱服务商，并提供了每种邮箱的配置指南和密码验证方式，方便用户快速接入和使用。
-tags: ['邮箱配置', '个人邮箱', 'IMAP', 'SMTP']
-keywords: ['个人邮箱', '邮箱设置', 'Gmail', 'Outlook', 'Yahoo Mail', 'QQ邮箱', '网易邮箱']
+tags: ["邮箱配置", "个人邮箱", "IMAP", "SMTP"]
+keywords:
+  [
+    "个人邮箱",
+    "邮箱设置",
+    "Gmail",
+    "Outlook",
+    "Yahoo Mail",
+    "QQ邮箱",
+    "网易邮箱",
+  ]
 ---
 
 # 个人邮箱

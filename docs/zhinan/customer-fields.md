@@ -25,7 +25,7 @@ date: 2024-07-30
 - 系统入口：👉 [**<span style={{color: '#e67c00'}}>客户字段 - 来发信</span>**](https://web.laifaxin.com/settings/fields)
 - 功能说明：针对 [1️⃣ 联系人](https://web.laifaxin.com/contacts/contacts) 或 [2️⃣ 公司](https://web.laifaxin.com/contacts/companies) 列表显示的字段进行管理。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20241028220654.png)
+![在系统设置中进入字段管理功能的界面截图](https://cos.files.maozhishi.com/data/web/web-files/img/20241028220654.png)
 
 _图示：字段管理功能入口示意图_
 
@@ -68,7 +68,7 @@ _图示：点击新建按钮_
 2.  **字段归属** ：必选，这里请选择“联系人”（<u><span style={{color: '#d93025'}}>“公司”字段暂时是不生效的</span></u>）
 3.  **字段类型** ：国家是一个单行文本，所以此处选择的是“单行文本”。
 
-![新建字段设置弹窗：填写字段名称、选择归属（联系人）、选择类型（单行文本）](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199421.png)
+![新建字段的配置弹窗，展示了如何填写字段名称、归属和类型](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199421.png)
 
 _图示：设置字段信息_
 
@@ -85,7 +85,7 @@ _图示：字段类型选择_
 1.  你需要设置是否<span style={{color: '#3578e5'}}>允许选择多个选项</span>；
 2.  你需要设置<span style={{color: '#3578e5'}}>备选项</span>，即你的联系人可能来自哪些国家，就需要在这里设置对应的国家名称。
 
-![选择“选项”类型后的设置：是否多选、添加备选项](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199423.png)
+![当字段类型选择为“选项”时的详细设置界面，包括是否多选和添加备选项](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199423.png)
 
 _图示：选项类型设置详情_
 
@@ -109,7 +109,7 @@ _图示：自定义新增客户时的显示字段_
 
 在显示设置界面，从左侧列表中勾选“国家”，它就会出现在右侧的已显示字段列表中。然后点击 <span style={{color: '#3578e5'}}>【保存】</span>。
 
-![自定义显示字段设置弹窗：勾选左侧“国家”，使其出现在右侧已显示字段列表](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199426.png)
+![在自定义显示字段弹窗中，将“国家”字段从左侧勾选到右侧已显示列表](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199426.png)
 
 _图示：设置显示字段_
 
@@ -135,7 +135,7 @@ _图示：客户列表默认显示项_
 
 点击列表界面右上角的 <span style={{color: '#3578e5'}}>【数据操作】</span> 按钮，然后选择 <span style={{color: '#3578e5'}}>【编辑字段】</span>。
 
-![联系人列表界面，点击右上角“数据操作”并选择“编辑字段”](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199437.png)
+![在联系人列表右上角点击“数据操作”并选择“编辑字段”的截图](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199437.png)
 
 _图示：进入设置显示项界面_
 
@@ -163,7 +163,7 @@ _图示：保存后的列表显示效果_
 
 在左侧的可用字段列表中，勾选你想要新增的显示项（例如“星级”和“国家”），这些被勾选的项会自动添加到右侧的已显示字段列表中。
 
-![编辑列表显示字段弹窗：勾选左侧的“星级”和“国家”字段，添加到右侧](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199441.png)
+![在编辑列表显示字段弹窗中，从左侧可用字段勾选“星级”和“国家”添加到右侧显示列表](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199441.png)
 
 _图示：新增显示项_
 
@@ -171,13 +171,13 @@ _图示：新增显示项_
 
 如果你想把“星级”字段调整到“主页”字段的前面，只需按住“星级”字段，然后将其拖动到“主页”字段的上方即可。
 
-![编辑列表显示字段弹窗：拖动“星级”字段进行排序](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199442.png)
+![在编辑列表显示字段弹窗中，通过拖拽调整“星级”字段的顺序](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199442.png)
 
 _图示：排序显示项_
 
 拖动完成后，“星级”字段的位置已经更新。确认无误后，点击 <span style={{color: '#3578e5'}}>【保存】</span>。
 
-![“星级”字段已移动到“主页”字段上方](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199443.png)
+![确认“星级”字段已经成功移动到“主页”字段上方](https://cos.files.maozhishi.com/public/attachments/xsj/1664451199443.png)
 
 _图示：确认排序结果_
 

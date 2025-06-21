@@ -1,20 +1,20 @@
 ---
 id: 109-xinlang-sinayouxiang-sina-personal-email
-title: '新浪邮箱 (@sina.com/@sina.cn): 启用IMAP/SMTP服务与授权码'
+title: "新浪邮箱 (@sina.com/@sina.cn): 启用IMAP/SMTP服务与授权码"
 description: 本文指导如何在第三方邮件客户端（如来发信）设置新浪邮箱（@sina.com/@sina.cn）。内容包括IMAP/SMTP服务器参数、在网页版邮箱后台开启IMAP4/SMTP服务并通过手机验证获取“客户端授权码”的详细步骤，以及使用授权码登录第三方客户端的方法。
-tags: ['新浪邮箱', 'Sina Mail', 'IMAP', 'SMTP', '授权码']
+tags: ["新浪邮箱", "Sina Mail", "IMAP", "SMTP", "授权码"]
 keywords:
   [
-    '新浪邮箱',
-    'Sina',
-    'sina.com',
-    'sina.cn',
-    'IMAP',
-    'SMTP',
-    '授权码',
-    '客户端授权码',
-    'POP3',
-    '邮箱配置',
+    "新浪邮箱",
+    "Sina",
+    "sina.com",
+    "sina.cn",
+    "IMAP",
+    "SMTP",
+    "授权码",
+    "客户端授权码",
+    "POP3",
+    "邮箱配置",
   ]
 ---
 

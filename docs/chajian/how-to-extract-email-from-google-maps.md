@@ -1,5 +1,5 @@
 ---
-title: '✨ 如何利用谷歌地图提取邮箱？'
+title: "✨ 如何利用谷歌地图提取邮箱？"
 id: how-to-extract-email-from-google-maps
 description: 本文介绍如何通过谷歌地图获取商家网址，并利用来发信工具搜索和筛选邮箱，以便进行有效的邮件营销。
 tags: [谷歌地图, 提取邮箱, 邮件营销, 云端同步, 批量搜客]

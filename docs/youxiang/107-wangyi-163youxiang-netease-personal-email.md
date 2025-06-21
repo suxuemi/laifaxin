@@ -1,20 +1,30 @@
 ---
 id: 107-wangyi-163youxiang-netease-personal-email
-title: '网易邮箱 (@163.com): IMAP/SMTP 与授权码配置'
+title: "网易邮箱 (@163.com): IMAP/SMTP 与授权码配置"
 description: 本文详细讲解如何在第三方邮件客户端（如来发信）中设置网易个人邮箱（@163.com, @126.com, @yeah.net），并指导您一步步开启IMAP/SMTP服务、通过安全验证生成并使用“客户端授权码”完成登录。
-tags: ['网易邮箱', '163邮箱', '126邮箱', 'yeah.net', 'IMAP', 'SMTP', '授权码', '邮箱配置']
+tags:
+  [
+    "网易邮箱",
+    "163邮箱",
+    "126邮箱",
+    "yeah.net",
+    "IMAP",
+    "SMTP",
+    "授权码",
+    "邮箱配置",
+  ]
 keywords:
   [
-    '网易邮箱',
-    '163.com',
-    '126.com',
-    'yeah.net',
-    'IMAP',
-    'SMTP',
-    '授权码',
-    '客户端授权码',
-    'POP3',
-    '客户端配置',
+    "网易邮箱",
+    "163.com",
+    "126.com",
+    "yeah.net",
+    "IMAP",
+    "SMTP",
+    "授权码",
+    "客户端授权码",
+    "POP3",
+    "客户端配置",
   ]
 ---
 

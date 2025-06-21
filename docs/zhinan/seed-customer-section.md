@@ -3,7 +3,18 @@ title: 外贸客户开发4️⃣种子客户篇
 description: 本文为刚入行或准备推出新品的外贸新手提供寻找第一批精准客户的方法，包括寻找种子客户、客户分析归类和分析管理客群的详细步骤。
 id: seed-customer-section
 tags: [种子客户, 客户开发, 外贸新手, B2B]
-keywords: [种子客户, 精准客户, 客户分析, 客户归类, 同行分析, 海关数据, LinkedIn, Zoominfo, Kompass]
+keywords:
+  [
+    种子客户,
+    精准客户,
+    客户分析,
+    客户归类,
+    同行分析,
+    海关数据,
+    LinkedIn,
+    Zoominfo,
+    Kompass,
+  ]
 ---
 
 # 外贸客户开发4️⃣种子客户篇
@@ -155,7 +166,7 @@ _图示：通过公司名称直接搜索客户网站。_
 "led lighting" AND shenzhen AND inurl:about-us
 ```
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20240810181356.png)
+![使用Google搜索深圳地区生产LED照明的同行](https://cos.files.maozhishi.com/data/web/web-files/img/20240810181356.png)
 
 _图示：使用Google搜索深圳地区生产LED照明的同行。_
 
@@ -218,7 +229,7 @@ _图示：演示如何复制Google搜索公式并替换同行公司名称。_
   - **搜索引擎**：`https://www.google.com`
   - **客户名称**：在列表中，我们可以查询到大量的客户名称。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20240728171121.png)
+![利用同行名称在海关数据网站搜索其客户](https://cos.files.maozhishi.com/data/web/web-files/img/20240728171121.png)
 
 _图示：利用同行名称在海关数据网站搜索其客户。_
 
@@ -264,30 +275,28 @@ _图示：通过Google搜索客户名称来查找其官方网站和相关信息�
 
 - 在上文我们通过海关数据<u><span style={{color: '#e67c00'}}>已经找到进出口记录</span></u>，那么在记录中我们是可以看到<u><span style={{color: '#e67c00'}}>产品信息和编码</span></u>。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20240728175946.png)
+![分析客户网站，对客户业务进行初步了解](https://cos.files.maozhishi.com/data/web/web-files/img/20240728175946.png)
 
-_图示：在海关数据中找到产品的HS Code。_
+_图示：分析客户网站，对客户业务进行初步了解。_
 
-- **搜索公式**：
+- **记录业务信息**：
+  - **客户业务**：`Consumer electronics manufacturing services`
+  - **匹配业务**：客户提供`电子产品制造服务`，`CNC机加工`是其中一个环节，所以业务匹配。
 
-  - 我们借由以下公式进行客户的搜索和替换。
+![记录客户业务，并进行业务匹配](https://cos.files.maozhishi.com/data/web/web-files/img/20240728180103.png)
 
-  ```
-  "{产品海关编码}" (site:importgenius.com/importers/ | site:importyeti.com/company) -intitle:"Co., Ltd"
-  ```
+_图示：记录客户业务，并进行业务匹配。_
 
-  - 替换后的搜索公式为：
+- **确定客户类型**：
+  - 根据业务分析，可以把客户归类为`电子产品制造商`。
 
-  ```
-  "8479909090" (site:importgenius.com/importers/ | site:importyeti.com/company) -intitle:"Co., Ltd"
-  ```
+![根据客户业务，确定客户的类型](https://cos.files.maozhishi.com/data/web/web-files/img/20240728181532.png)
 
-- **搜索演示**：我们输入搜索公式搜索目标客户。
-  - **背调客户信息**：参考 📚[如何对客户进行背景调查](./customer-website-search)。
+_图示：根据客户业务，确定客户的类型。_
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20240728180103.png)
-
-_图示：使用HS Code进行客户搜索演示。_
+- **客户归类**：
+  - **目标群体**：`品牌商`、`经销商`、`制造商`
+  - **分析结果**：通过分析，可以确定客户是`制造商`。
 
 ### 4. 客户产品搜索客户 {#customer-product-search-customers}
 
@@ -299,7 +308,7 @@ _图示：使用HS Code进行客户搜索演示。_
 
 - 我们以上文搜索到的<u><span style={{color: '#e67c00'}}>Oru Kayak</span></u>这家主营业务是<u><span style={{color: '#e67c00'}}>Kayak</span></u>的客户为例。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20240728181532.png)
+![以Oru Kayak公司为例，其主营产品为皮划艇](https://cos.files.maozhishi.com/data/web/web-files/img/20240728181532.png)
 
 _图示：以Oru Kayak公司为例，其主营产品为皮划艇。_
 

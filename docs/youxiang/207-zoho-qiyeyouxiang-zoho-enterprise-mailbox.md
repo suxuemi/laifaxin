@@ -1,9 +1,19 @@
 ---
 id: 207-zoho-qiyeyouxiang-zoho-enterprise-mailbox
-title: 'Zoho企业邮箱：第三方客户端授权码登录指南'
-description: '本文详细讲解如何为 Zoho Mail 开启 IMAP 访问并生成应用专用密码，以便在第三方客户端（如来发信）中安全地收发邮件。'
-tags: ['Zoho Mail', '应用密码', 'IMAP', 'SMTP']
-keywords: ['Zoho Mail', 'Zoho', 'zoho.com', '应用密码', '专用密码', 'IMAP', 'SMTP', '来发信']
+title: "Zoho企业邮箱：第三方客户端授权码登录指南"
+description: "本文详细讲解如何为 Zoho Mail 开启 IMAP 访问并生成应用专用密码，以便在第三方客户端（如来发信）中安全地收发邮件。"
+tags: ["Zoho Mail", "应用密码", "IMAP", "SMTP"]
+keywords:
+  [
+    "Zoho Mail",
+    "Zoho",
+    "zoho.com",
+    "应用密码",
+    "专用密码",
+    "IMAP",
+    "SMTP",
+    "来发信",
+  ]
 ---
 
 # Zoho企业邮箱：应用密码登录

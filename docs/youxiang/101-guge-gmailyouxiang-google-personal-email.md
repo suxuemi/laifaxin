@@ -1,9 +1,18 @@
 ---
 id: 101-guge-gmailyouxiang-google-personal-email
-title: '谷歌邮箱 (@gmail.com): 启用两步验证与应用密码'
+title: "谷歌邮箱 (@gmail.com): 启用两步验证与应用密码"
 description: 本文详细讲解如何在第三方客户端绑定谷歌免费邮箱（Gmail）进行邮件收发，包括开启两步验证和生成应用专用密码的步骤。
-tags: ['谷歌邮箱', 'Gmail', '两步验证', '应用密码', '邮箱配置']
-keywords: ['谷歌邮箱', 'Gmail', '两步验证', '应用专用密码', 'IMAP', 'SMTP', '第三方客户端']
+tags: ["谷歌邮箱", "Gmail", "两步验证", "应用密码", "邮箱配置"]
+keywords:
+  [
+    "谷歌邮箱",
+    "Gmail",
+    "两步验证",
+    "应用专用密码",
+    "IMAP",
+    "SMTP",
+    "第三方客户端",
+  ]
 ---
 
 # 谷歌邮箱 (@gmail.com): 启用两步验证与应用密码

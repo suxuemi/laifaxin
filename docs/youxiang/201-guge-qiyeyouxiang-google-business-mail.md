@@ -1,21 +1,29 @@
 ---
 id: 201-guge-qiyeyouxiang-google-business-mail
-title: '谷歌企业套件（Google Workspace）：应用专用密码登录指南'
-description: '本文详细讲解如何为您的谷歌企业邮箱 (Google Workspace) 设置应用专用密码，以便在第三方客户端（如来发信）中安全地收发邮件。内容覆盖管理员启用两步验证的权限，以及用户生成和使用“应用密码”的完整步骤。'
+title: "谷歌企业套件（Google Workspace）：应用专用密码登录指南"
+description: "本文详细讲解如何为您的谷歌企业邮箱 (Google Workspace) 设置应用专用密码，以便在第三方客户端（如来发信）中安全地收发邮件。内容覆盖管理员启用两步验证的权限，以及用户生成和使用“应用密码”的完整步骤。"
 tags:
-  ['谷歌企业邮箱', 'Google Workspace', '应用专用密码', 'App Password', 'IMAP', 'SMTP', '两步验证']
+  [
+    "谷歌企业邮箱",
+    "Google Workspace",
+    "应用专用密码",
+    "App Password",
+    "IMAP",
+    "SMTP",
+    "两步验证",
+  ]
 keywords:
   [
-    '谷歌企业邮箱',
-    'Google Workspace',
-    'Gmail',
-    'IMAP',
-    'SMTP',
-    '应用专用密码',
-    'App Password',
-    '两步验证',
-    '2FA',
-    '安全性较低的应用',
+    "谷歌企业邮箱",
+    "Google Workspace",
+    "Gmail",
+    "IMAP",
+    "SMTP",
+    "应用专用密码",
+    "App Password",
+    "两步验证",
+    "2FA",
+    "安全性较低的应用",
   ]
 ---
 

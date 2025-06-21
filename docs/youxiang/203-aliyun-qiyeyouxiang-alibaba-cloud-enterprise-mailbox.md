@@ -1,18 +1,18 @@
 ---
 id: 203-aliyun-qiyeyouxiang-alibaba-cloud-enterprise-mailbox
-title: '阿里云企业邮箱：第三方客户端登录指南'
-description: '本文详细讲解如何为阿里云企业邮箱（含外贸邮）开启 IMAP 服务、生成客户端安全密码，并通过 IMAP/SMTP 协议在第三方客户端（如来发信）中安全收发邮件。'
-tags: ['阿里云企业邮箱', '外贸邮', '客户端安全密码', 'IMAP', 'SMTP']
+title: "阿里云企业邮箱：第三方客户端登录指南"
+description: "本文详细讲解如何为阿里云企业邮箱（含外贸邮）开启 IMAP 服务、生成客户端安全密码，并通过 IMAP/SMTP 协议在第三方客户端（如来发信）中安全收发邮件。"
+tags: ["阿里云企业邮箱", "外贸邮", "客户端安全密码", "IMAP", "SMTP"]
 keywords:
   [
-    '阿里云企业邮箱',
-    '外贸邮',
-    'qiye.aliyun.com',
-    'mail.alibaba.com',
-    '客户端安全密码',
-    'IMAP',
-    'SMTP',
-    '来发信',
+    "阿里云企业邮箱",
+    "外贸邮",
+    "qiye.aliyun.com",
+    "mail.alibaba.com",
+    "客户端安全密码",
+    "IMAP",
+    "SMTP",
+    "来发信",
   ]
 ---
 

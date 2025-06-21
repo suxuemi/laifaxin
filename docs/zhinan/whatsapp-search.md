@@ -2,8 +2,8 @@
 id: whatsapp-search
 title: ✨ WhatsApp 搜索
 description: 本文详细介绍企业版新增的 WhatsApp 搜索功能，包括直接搜索客户号码、批量任务创建及发送等操作。通过清晰的操作步骤，帮助用户高效获取客户 WhatsApp 号码并进行营销，拓展营销渠道。
-tags: ['WhatsApp', '客户搜索', '批量营销', '企业版']
-keywords: ['WhatsApp搜索', 'WhatsApp号码', '批量任务', '海外营销', '客户获取']
+tags: ["WhatsApp", "客户搜索", "批量营销", "企业版"]
+keywords: ["WhatsApp搜索", "WhatsApp号码", "批量任务", "海外营销", "客户获取"]
 ---
 
 # ✨ WhatsApp 搜索

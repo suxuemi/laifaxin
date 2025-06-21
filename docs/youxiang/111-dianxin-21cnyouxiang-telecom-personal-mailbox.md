@@ -1,20 +1,20 @@
 ---
 id: 111-dianxin-21cnyouxiang-telecom-personal-mailbox
-title: '电信21CN邮箱 (@21cn.com): IMAP/SMTP 与密码直连配置'
+title: "电信21CN邮箱 (@21cn.com): IMAP/SMTP 与密码直连配置"
 description: 本文介绍中国电信21CN邮箱（@21cn.com）的配置方法。其IMAP/SMTP服务默认开启，因此在来发信等第三方客户端中可直接使用邮箱登录密码完成绑定，无需额外生成授权码。
-tags: ['电信邮箱', '21CN', 'IMAP', 'SMTP', '直连登录']
+tags: ["电信邮箱", "21CN", "IMAP", "SMTP", "直连登录"]
 keywords:
   [
-    '电信邮箱',
-    '21CN',
-    '21cn.com',
-    '中国电信',
-    'IMAP',
-    'SMTP',
-    'POP3',
-    '邮箱配置',
-    '密码登录',
-    '直连',
+    "电信邮箱",
+    "21CN",
+    "21cn.com",
+    "中国电信",
+    "IMAP",
+    "SMTP",
+    "POP3",
+    "邮箱配置",
+    "密码登录",
+    "直连",
   ]
 ---
 

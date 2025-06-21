@@ -1,20 +1,29 @@
 ---
 id: 116-mailru-mailyouxiang-mail-personal-email
-title: 'Mail.ru邮箱(@mail.ru): 应用专用密码登录'
-description: '本文详细讲解如何在第三方客户端（如来发信）中设置 Mail.ru Mail (@mail.ru)。内容覆盖登录 Mail.ru 账户、开启两步验证、生成并使用“应用专用密码”（App Password）完成绑定的完整步骤。'
-tags: ['Mail.ru', '应用专用密码', 'App Password', 'IMAP', 'SMTP', '两步验证', '邮箱配置']
+title: "Mail.ru邮箱(@mail.ru): 应用专用密码登录"
+description: "本文详细讲解如何在第三方客户端（如来发信）中设置 Mail.ru Mail (@mail.ru)。内容覆盖登录 Mail.ru 账户、开启两步验证、生成并使用“应用专用密码”（App Password）完成绑定的完整步骤。"
+tags:
+  [
+    "Mail.ru",
+    "应用专用密码",
+    "App Password",
+    "IMAP",
+    "SMTP",
+    "两步验证",
+    "邮箱配置",
+  ]
 keywords:
   [
-    'Mail.ru',
-    'mail.ru',
-    'IMAP',
-    'SMTP',
-    '应用专用密码',
-    'App Password',
-    '两步验证',
-    '2FA',
-    '邮箱配置',
-    '俄罗斯邮箱',
+    "Mail.ru",
+    "mail.ru",
+    "IMAP",
+    "SMTP",
+    "应用专用密码",
+    "App Password",
+    "两步验证",
+    "2FA",
+    "邮箱配置",
+    "俄罗斯邮箱",
   ]
 ---
 

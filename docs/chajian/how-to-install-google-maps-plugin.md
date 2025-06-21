@@ -1,5 +1,5 @@
 ---
-title: '✨ 如何安装谷歌地图插件？'
+title: "✨ 如何安装谷歌地图插件？"
 id: how-to-install-google-maps-plugin
 description: 本文详细介绍了如何在Chrome内核浏览器中安装谷歌地图插件，包括下载插件、开启开发者模式以及具体的安装步骤。
 tags: [谷歌地图, 谷歌地图插件, 插件安装, 开发者模式, Chrome扩展]

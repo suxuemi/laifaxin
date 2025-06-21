@@ -4,7 +4,15 @@ id: how-to-display-google-maps-interface-language-as-english
 description: 本指南详细介绍了如何通过修改谷歌地图URL中的"hl"参数，将界面语言切换为英文或其他任何支持的语言，以辅助进行精准的客户特征分析。
 tags: [谷歌地图, 界面语言, 切换语言, 英文显示, hl参数, 数据分析]
 keywords:
-  [谷歌地图, 谷歌地图语言, hl参数, 切换英文, Google Maps language, host language, URL parameter]
+  [
+    谷歌地图,
+    谷歌地图语言,
+    hl参数,
+    切换英文,
+    Google Maps language,
+    host language,
+    URL parameter,
+  ]
 ---
 
 # ✨ 如何将谷歌地图界面语言设为英文？

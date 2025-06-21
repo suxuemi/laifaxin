@@ -1,20 +1,20 @@
 ---
 id: 108-weiruan-outlookyouxiang-microsoft-personal-email
-title: '微软邮箱 (@outlook.com): IMAP/SMTP 与应用密码配置'
+title: "微软邮箱 (@outlook.com): IMAP/SMTP 与应用密码配置"
 description: 本文详细讲解如何在第三方邮件客户端（如来发信）中设置微软个人邮箱（@outlook.com, @hotmail.com），并指导您一步步开启双重验证、生成并使用“应用密码”完成登录。
-tags: ['微软邮箱', 'Outlook', 'Hotmail', 'IMAP', 'SMTP', '应用密码', '双重验证']
+tags: ["微软邮箱", "Outlook", "Hotmail", "IMAP", "SMTP", "应用密码", "双重验证"]
 keywords:
   [
-    '微软邮箱',
-    'Outlook',
-    'Hotmail',
-    'office365',
-    'IMAP',
-    'SMTP',
-    '应用密码',
-    '双重验证',
-    '两步验证',
-    '客户端配置',
+    "微软邮箱",
+    "Outlook",
+    "Hotmail",
+    "office365",
+    "IMAP",
+    "SMTP",
+    "应用密码",
+    "双重验证",
+    "两步验证",
+    "客户端配置",
   ]
 ---
 

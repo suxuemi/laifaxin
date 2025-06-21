@@ -1,6 +1,6 @@
 ---
 id: what-are-the-benefits-of-inviting-friends-to-use-the-google-maps-plugin
-title: '🎁 邀请好友：享3日时长与20%佣金'
+title: "🎁 邀请好友：享3日时长与20%佣金"
 description: 了解如何通过邀请好友使用谷歌地图插件，轻松赚取3日免费使用时长和20%的消费佣金。本文详细介绍了获取专属推广包、分享及绑定、以及佣金提现的全过程。
 tags: [邀请好友, 推广奖励, 会员福利, 插件佣金]
 keywords: [邀请好友, 推广包, 佣金奖励, 使用时长, 会员福利, laifaxin]

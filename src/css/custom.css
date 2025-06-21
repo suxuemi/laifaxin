@@ -21,7 +21,7 @@ video {
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #64b5f6;
   --ifm-color-primary-dark: #42a5f5;
   --ifm-color-primary-darker: #2196f3;
@@ -42,5 +42,7 @@ video {
 }
 
 .footer__copyright a:hover {
-  color: var(--ifm-color-primary); /* Change color to theme's primary blue on hover */
+  color: var(
+    --ifm-color-primary
+  ); /* Change color to theme's primary blue on hover */
 }

@@ -60,7 +60,7 @@ _图示：通过"关于我们"页面，可以快速了解一个公司的基本�
 - **需求**：在 `lectricebikes.com` 网站内，查找标题为 "About Us" 的页面。
 - **语法**：
   `     site:lectricebikes.com intitle:"About Us"
-    `
+  `
   :::
 
 ![Lectric eBikes 关于我们页面搜索结果](https://cos.files.maozhishi.com/data/web/web-files/img/1721207311277.png)
@@ -113,8 +113,8 @@ _图示：使用双引号可大幅提升搜索结果的精确度。_
 
 - 使用以下语法，你可以直接搜索 **Lectric eBikes** 网站内所有标题中包含 "About Us" 的页面：
   ` 
-    site:**lectricebikes.com** intitle:"**About Us**"
-    `
+  site:**lectricebikes.com** intitle:"**About Us**"
+  `
   :::
 
 ![Lectric eBikes 关于我们页面搜索结果](https://cos.files.maozhishi.com/data/web/web-files/img/1721207311277.png)
@@ -123,8 +123,8 @@ _图示：使用双引号可大幅提升搜索结果的精确度。_
 
 - 通过以下语法，你可以轻松找到 **Lectric eBikes** 网站内所有URL中包含 "about-us" 的页面：
   ` 
-    site:**lectricebikes.com** inurl:**about-us**
-    `
+  site:**lectricebikes.com** inurl:**about-us**
+  `
   :::
 
 ![Lectric eBikes 关于我们页面链接搜索结果](https://cos.files.maozhishi.com/data/web/web-files/img/1721207311284.png)

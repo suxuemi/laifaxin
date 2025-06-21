@@ -1,20 +1,20 @@
 ---
 id: 112-wanmei-88youxiang-perfect-personal-mailbox
-title: '完美邮箱 (@88.com): IMAP/SMTP 与专用密码配置'
-description: '本文详细讲解如何在第三方客户端（如来发信）绑定完美邮箱（@88.com, @111.com, @email.cn），内容覆盖开启IMAP/SMTP服务、生成并使用“专用密码”完成登录的完整步骤。'
-tags: ['完美邮箱', '88.com', '111.com', 'email.cn', 'IMAP', 'SMTP', '专用密码']
+title: "完美邮箱 (@88.com): IMAP/SMTP 与专用密码配置"
+description: "本文详细讲解如何在第三方客户端（如来发信）绑定完美邮箱（@88.com, @111.com, @email.cn），内容覆盖开启IMAP/SMTP服务、生成并使用“专用密码”完成登录的完整步骤。"
+tags: ["完美邮箱", "88.com", "111.com", "email.cn", "IMAP", "SMTP", "专用密码"]
 keywords:
   [
-    '完美邮箱',
-    '88.com',
-    '111.com',
-    'email.cn',
-    'IMAP',
-    'SMTP',
-    'POP3',
-    '专用密码',
-    '邮箱配置',
-    '授权码',
+    "完美邮箱",
+    "88.com",
+    "111.com",
+    "email.cn",
+    "IMAP",
+    "SMTP",
+    "POP3",
+    "专用密码",
+    "邮箱配置",
+    "授权码",
   ]
 ---
 

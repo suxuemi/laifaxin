@@ -1,21 +1,21 @@
 ---
 id: 113-pingguo-icloudyouxiang-apple-personal-email
-title: '苹果iCloud邮箱 (@icloud.com): IMAP/SMTP 与 App 专用密码配置'
-description: '本文详细讲解如何在第三方客户端（如来发信）中设置苹果iCloud邮箱（@icloud.com）。内容覆盖开启双重认证、登录Apple ID官网生成并使用“App专用密码”完成绑定的完整步骤。'
-tags: ['苹果邮箱', 'iCloud', 'App专用密码', 'IMAP', 'SMTP', '双重认证']
+title: "苹果iCloud邮箱 (@icloud.com): IMAP/SMTP 与 App 专用密码配置"
+description: "本文详细讲解如何在第三方客户端（如来发信）中设置苹果iCloud邮箱（@icloud.com）。内容覆盖开启双重认证、登录Apple ID官网生成并使用“App专用密码”完成绑定的完整步骤。"
+tags: ["苹果邮箱", "iCloud", "App专用密码", "IMAP", "SMTP", "双重认证"]
 keywords:
   [
-    '苹果邮箱',
-    'iCloud',
-    'icloud.com',
-    'me.com',
-    'Apple ID',
-    'IMAP',
-    'SMTP',
-    'App专用密码',
-    '两步验证',
-    '双重认证',
-    '邮箱配置',
+    "苹果邮箱",
+    "iCloud",
+    "icloud.com",
+    "me.com",
+    "Apple ID",
+    "IMAP",
+    "SMTP",
+    "App专用密码",
+    "两步验证",
+    "双重认证",
+    "邮箱配置",
   ]
 ---
 

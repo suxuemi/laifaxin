@@ -3,7 +3,8 @@ id: global-search-engine
 title: 全球搜客引擎
 description: 全球搜客引擎依托谷歌搜索引擎，帮助用户快速搜索海量目标客户，完美支持Google语法，通过挖掘客户同行作为潜在客户，提高搜索效率和准确性。
 tags: [搜客, 谷歌语法, 潜在客户, 全球搜客]
-keywords: [全球搜客, Google搜索, LinkedIn搜索, 客户开发, 谷歌语法, 品牌搜索, 社媒搜索]
+keywords:
+  [全球搜客, Google搜索, LinkedIn搜索, 客户开发, 谷歌语法, 品牌搜索, 社媒搜索]
 ---
 
 # 全球搜客引擎
@@ -198,7 +199,7 @@ _图示：LinkedIn公司页面的信息结构。_
 
 - **关键词**：直接输入带英文双引号的关键词。
   ```yaml
-  'indoor lighting'
+  "indoor lighting"
   ```
 
 ````
@@ -352,7 +353,7 @@ _图示：在Facebook渠道进行组合搜索。_
 
 - **公式**：
   ```yaml
-  'indoor lighting'
+  "indoor lighting"
   ```
 
 ````

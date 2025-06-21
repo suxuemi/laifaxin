@@ -8,7 +8,7 @@
   background-color: #ffffff;
 }
 
-[data-theme='dark'] .heroBanner {
+[data-theme="dark"] .heroBanner {
   background-color: #1a1c24;
 }
 
@@ -204,7 +204,7 @@
   font-size: 1.05rem;
 }
 
-[data-theme='dark'] .guideNote {
+[data-theme="dark"] .guideNote {
   background-color: rgba(255, 229, 143, 0.1);
   border-color: rgba(255, 229, 143, 0.2);
 }

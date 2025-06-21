@@ -1,7 +1,7 @@
 ---
-title: '📞 如何使用谷歌地图商家电话号码？'
+title: "📞 如何使用谷歌地图商家电话号码？"
 id: how-to-extract-phone-number-from-google-maps
-description: '本教程介绍两种处理谷歌地图商家电话号码的方式：直接从插件导出，或同步到云端进行高级管理和导出。助您高效地将电话号码用于WhatsApp营销等多种场景。'
+description: "本教程介绍两种处理谷歌地图商家电话号码的方式：直接从插件导出，或同步到云端进行高级管理和导出。助您高效地将电话号码用于WhatsApp营销等多种场景。"
 tags: [谷歌地图, 电话号码, 导出数据, WhatsApp营销, 云端同步]
 keywords: [谷歌地图电话, 导出客户, 插件导出, 云端管理, WhatsApp, 来发信]
 ---

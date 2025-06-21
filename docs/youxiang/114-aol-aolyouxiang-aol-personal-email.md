@@ -1,20 +1,29 @@
 ---
 id: 114-aol-aolyouxiang-aol-personal-email
-title: 'AOL Mail (@aol.com): 应用程序密码登录'
-description: '本文详细讲解如何在第三方客户端（如来发信）中设置AOL Mail（@aol.com）。内容覆盖登录AOL账户、生成并使用“应用程序密码”（App Password）完成绑定的完整步骤。'
-tags: ['AOL Mail', 'AOL', '应用程序密码', 'App Password', 'IMAP', 'SMTP', '邮箱配置']
+title: "AOL Mail (@aol.com): 应用程序密码登录"
+description: "本文详细讲解如何在第三方客户端（如来发信）中设置AOL Mail（@aol.com）。内容覆盖登录AOL账户、生成并使用“应用程序密码”（App Password）完成绑定的完整步骤。"
+tags:
+  [
+    "AOL Mail",
+    "AOL",
+    "应用程序密码",
+    "App Password",
+    "IMAP",
+    "SMTP",
+    "邮箱配置",
+  ]
 keywords:
   [
-    'AOL Mail',
-    'AOL',
-    'aol.com',
-    'IMAP',
-    'SMTP',
-    '应用程序密码',
-    'App Password',
-    '邮箱配置',
-    '授权码',
-    '第三方客户端',
+    "AOL Mail",
+    "AOL",
+    "aol.com",
+    "IMAP",
+    "SMTP",
+    "应用程序密码",
+    "App Password",
+    "邮箱配置",
+    "授权码",
+    "第三方客户端",
   ]
 ---
 

@@ -1,9 +1,9 @@
 ---
 id: 103-ali-aliyunyouxiang-ali-personal-email
-title: '阿里邮箱 (@aliyun.com): IMAP/SMTP 配置指南'
+title: "阿里邮箱 (@aliyun.com): IMAP/SMTP 配置指南"
 description: 本文详细讲解如何在第三方客户端绑定阿里邮箱（aliyun.com）进行邮件收发，包括收发信配置和客户端密码设置。
-tags: ['阿里邮箱', 'Aliyun Mail', 'IMAP', 'SMTP', '邮箱配置']
-keywords: ['阿里邮箱', '阿里云', 'aliyun.com', 'IMAP', 'SMTP', '客户端配置']
+tags: ["阿里邮箱", "Aliyun Mail", "IMAP", "SMTP", "邮箱配置"]
+keywords: ["阿里邮箱", "阿里云", "aliyun.com", "IMAP", "SMTP", "客户端配置"]
 ---
 
 # 阿里邮箱 (@aliyun.com): IMAP/SMTP 配置指南

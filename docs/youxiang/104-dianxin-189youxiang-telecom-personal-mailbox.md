@@ -1,9 +1,9 @@
 ---
 id: 104-dianxin-189youxiang-telecom-personal-mailbox
-title: '电信邮箱 (@189.cn): IMAP/SMTP 配置指南'
+title: "电信邮箱 (@189.cn): IMAP/SMTP 配置指南"
 description: 本文指导如何在第三方邮件客户端（如来发信）中使用中国电信189邮箱（@189.cn）。介绍了其IMAP/SMTP服务器参数，并详细说明了如何在189邮箱网页版设置中开启“IMAP/SMTP服务”，以便直接使用邮箱登录密码进行第三方客户端登录。
-tags: ['电信邮箱', '189邮箱', 'IMAP', 'SMTP', '邮箱配置']
-keywords: ['电信邮箱', '189邮箱', '中国电信', 'IMAP', 'SMTP', '客户端配置']
+tags: ["电信邮箱", "189邮箱", "IMAP", "SMTP", "邮箱配置"]
+keywords: ["电信邮箱", "189邮箱", "中国电信", "IMAP", "SMTP", "客户端配置"]
 ---
 
 # 电信邮箱 (@189.cn): IMAP/SMTP 配置指南

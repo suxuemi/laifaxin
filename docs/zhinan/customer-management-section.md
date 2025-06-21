@@ -15,14 +15,14 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 - **3️⃣ 营销可持续**：便于分级周期营销客户；
 - **4️⃣ 成本更低廉**：让邮件营销的效果更好；
 - **5️⃣ 出错率更低**：降低各环节的错乱问题。
-:::
+  :::
 
 ## 一、管理痛点 {#management-pain-points}
 
 :::warning
 
 - 在营销中存在这些常见痛点，本文将围绕这些痛点讲解，帮助大家 **<font color="#C75C00"><u>高效开发与管理客户</u></font>**。
-:::
+  :::
 
 ### 1️⃣ 发错邮件模板 {#wrong-email-template}
 
@@ -73,7 +73,7 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 - **O：意向客户及时跟进**：🚀 <font color="#C75C00"><u>对有意向的客户必须立即跟进，避免丢失重要商机</u></font>。
   - 👉 **痛点**：不及时跟进，失去关键客户。
 - **P：异常客户不再发送**：明确要求移除或恶意回应的，🚫 <font color="#C75C00"><u>要拉入黑名单，避免骚扰影响营销效果</u></font>。
-  - 👉  **痛点**：继续发送会破坏品牌形象，浪费资源。
+  - 👉 **痛点**：继续发送会破坏品牌形象，浪费资源。
 
 ## 二、管理逻辑 {#management-logic}
 
@@ -93,20 +93,20 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 - 5️⃣ <u>**不发客户**</u>：💸 <font color="#C75C00"><u>同样不再发信，避免额度浪费</u></font>。
   - 👉什么是不发客户？发了无结果，如<font color="#C75C00"><u>support/noreply/hr/tick</u></font>，🔔 **`🈲不再营销`**
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20240908180837.png)
+![客户营销的可持续逻辑图，展示了从静默到意向客户的转化路径及相应的营销策略](https://cos.files.maozhishi.com/data/web/web-files/img/20240908180837.png)
 
 ### 2️⃣ 管理逻辑（精细化） {#management-logic-refined}
 
 - 围绕『**1️⃣ 营销逻辑**』，对客户 **精细化管理**。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20240908181349.png)
+![客户精细化管理的逻辑图，展示了如何通过营销、阅读、意向、风险和不发邮件五种标签进行客户分类管理](https://cos.files.maozhishi.com/data/web/web-files/img/20240908181349.png)
 
-### 3️⃣ 标签策略（不删+不撕）  {#tag-strategy-no-deletion-no-tearing}
+### 3️⃣ 标签策略（不删+不撕） {#tag-strategy-no-deletion-no-tearing}
 
 :::warning 🔔 非必要不删不撕标签
 
 - **标签原则** ：非必要 1️⃣ 不删 2️⃣ 不撕标签，否则**易导致标签管理混乱**。
-:::
+  :::
 
 - 1️⃣ <u>**静默客户**</u>：<font color="#C75C00"><u>30</u></font>批次
   - 🏷**贴新标签**：📥 <font color="#C75C00"><u>外部导入</u></font>或💾 <font color="#C75C00"><u>搜客保存</u></font>时贴标签。这些客户可以理解为**新客户**;
@@ -119,14 +119,13 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 - 3️⃣ <u>**意向客户**</u>与<u>**风险客户**</u>：贴上对应的标签即可；
   - **👉 注意**：无需移除营销或阅读标签，后续营销排除新的标签即可。
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20240908183750.png)
+![客户标签策略示意图，说明了在不同客户阶段（静默、阅读、意向/风险）如何追加标签而不删除旧标签](https://cos.files.maozhishi.com/data/web/web-files/img/20240908183750.png)
 
 ### 4️⃣ 视图策略（5个视图） {#view-strategies-five-views}
->
-> 视图是一个『**智能**』的客户管理方式，可以根据你设置的条件自动进行关联。
->
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20240908190322.png)
+> 视图是一个『**智能**』的客户管理方式，可以根据你设置的条件自动进行关联。
+
+![客户管理五大核心视图策略图，展示了如何通过静默、阅读、意向、风险和不发邮件五种视图动态管理客户群体](https://cos.files.maozhishi.com/data/web/web-files/img/20240908190322.png)
 
 ### 5️⃣ 排除策略（营销时排除） {#exclusion-strategy-in-marketing}
 
@@ -134,20 +133,20 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 
 - **🤔 面临问题**： 由于持续的营销，有些客户可能一天之内被营销多次，对客户造成困扰。
 - **👌 如何解决**：借用 [**邮件群发的排除对象**](../zhinan/email-mass-sending#select-customers) 功能，发送时排除掉非目标，🌟 **`当然一定要捋清思路！`**
-:::
+  :::
 
 - 👉 **批量营销**主要针对两类：**1️⃣ 🤫 <font color="#C75C00"><u>无阅读</u></font>客户** **2️⃣ 👀 <font color="#C75C00"><u>有阅读无回复</u></font>客户**
-- 1️⃣ <u>**静默客户**</u>：**低频营销（🗓️ <font color="#C75C00"><u>30天/轮</u></font>）**：  
+- 1️⃣ <u>**静默客户**</u>：**低频营销（🗓️ <font color="#C75C00"><u>30天/轮</u></font>）**：
   - **🤔 逻辑分析**：由于 **`非必要不删/不撕标签`** ，**<font color="#C75C00"><u>阅读</u></font>、<font color="#C75C00"><u>意向</u></font>、<font color="#C75C00"><u>风险</u></font>、<font color="#C75C00"><u>不发</u></font>等类型客户，也有<font color="#C75C00"><u>营销批次</u></font>的标签**。
   - **🚫 排除对象**：针对🤫 <font color="#C75C00"><u>静默</u></font>客户的营销，要排除 ② [👀 阅读客户](#reading-has-reading-email)、③ [💡 意向客户](#intention-potential-customers)、④ [🚫 风险群体](#risk-at-risk-groups) 和 ⑤ [🛑 不发邮箱](#no-sending-email)
-- 2️⃣ <u>**阅读客户**</u>：**高频营销（🗓️ <font color="#C75C00"><u>10天/轮</u></font>）**：  
+- 2️⃣ <u>**阅读客户**</u>：**高频营销（🗓️ <font color="#C75C00"><u>10天/轮</u></font>）**：
   - **🚫 排除对象**：针对👀 <font color="#C75C00"><u>阅读</u></font>客户的营销，要排除 ③ [💡 意向客户](#intention-potential-customers)、④ [🚫 风险群体](#risk-at-risk-groups) 和 ⑤ [🛑 不发邮箱](#no-sending-email)
     - 👉 **注意**： **相对🤫 <font color="#C75C00"><u>静默</u></font>客户的营销，少了👀 <font color="#C75C00"><u>阅读</u></font>客户的排除。**
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20240909211729.png)
+![邮件营销排除策略图，展示了在对静默客户和阅读客户进行营销时，应分别排除哪些客户群体](https://cos.files.maozhishi.com/data/web/web-files/img/20240909211729.png)
 
 ## 三、标签说明 {#tag-description}
->
+
 > - 👉 **完整标签说明**：参照 [《标签与视图》](../zhinan/contacts-tags-views) 中的[🏷**标签案例**](../zhinan/contacts-tags-views#practical-tag-system-example)
 
 :::tip ⬇️ 标签完整说明逻辑 👈
@@ -159,26 +158,26 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 :::tip
 
 - **4️⃣个<font color="#C75C00"><u>标签分组</u></font>**：按 **1️⃣<font color="#C75C00"><u>营销</u></font>**/**2️⃣<font color="#C75C00"><u>阅读</u></font>**/**3️⃣<font color="#C75C00"><u>意向</u></font>**/**4️⃣<font color="#C75C00"><u>风险</u></font>** 进行分组：👉 详见 [📁标签分组](../zhinan/contacts-tags-views#four-core-tag-groups)
-:::
+  :::
 
 > - **✍️ 创建分组**：进入 [来发信](https://web.laifaxin.com)，点击`设置`，进入`标签管理` （更多参见👉 [**标签管理**](../zhinan/tag-management) ）
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20240712222013.png)
+![在来发信系统中创建标签分组的界面截图，展示了营销、阅读、意向、风险四个核心分组](https://cos.files.maozhishi.com/data/web/web-files/img/20240712222013.png)
 
-### 1️⃣ 📣 营销标签  {#marketing-tags}
+### 1️⃣ 📣 营销标签 {#marketing-tags}
 
 :::tip 什么是营销标签？
 
 - **营销标签**：为便于营销而创建的标签，所有的客户都应该有对应的营销批次，也即营销标签。
 - **详细说明**：参见👉[**标签与视图**](../zhinan/contacts-tags-views) 下的 [**📣营销标签**](../zhinan/contacts-tags-views#marketing-tags) ，开始之前，务必要👉 [梳理你的客群](../zhinan/customer-profiling-section)。
-- **贴新标签**： [**1️⃣ 搜客保存邮箱**](#tagging-searcher-save-email)  、[**2️⃣ 批量导入邮箱**](#tagging-importing-customer-emails) 时，都会贴上 [**📣营销标签**](../zhinan/contacts-tags-views#marketing-tags)
+- **贴新标签**： [**1️⃣ 搜客保存邮箱**](#tagging-searcher-save-email) 、[**2️⃣ 批量导入邮箱**](#tagging-importing-customer-emails) 时，都会贴上 [**📣营销标签**](../zhinan/contacts-tags-views#marketing-tags)
 - **批次与营销**：每个客群都有🗓️ <font color="#C75C00"><u>30</u></font>个批次，对应每个月的<font color="#C75C00"><u>1~30</u></font>日，<font color="#C75C00"><u>30</u></font>天营销1️⃣轮.
 
 :::
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20240712235933.png)
+![营销标签体系示例截图，展示了按语言和客户群体分类的30天营销批次标签](https://cos.files.maozhishi.com/data/web/web-files/img/20240712235933.png)
 
-#### 🏷 贴标签-搜客保存邮箱  {#tagging-searcher-save-email}
+#### 🏷 贴标签-搜客保存邮箱 {#tagging-searcher-save-email}
 
 :::tip
 
@@ -186,37 +185,38 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 - **🏷 标签规则**：参照 [📣 1️⃣ 营销标签](../zhinan/contacts-tags-views#marketing-tags)。
 - 🔔 **控制数量**：保存邮箱要对应1️⃣ <font color="#C75C00"><u>日期</u></font>和2️⃣ <font color="#C75C00"><u>客群</u></font>，选择3️⃣ <font color="#C75C00"><u>标签</u></font>，且要控制4️⃣ <font color="#C75C00"><u>数量</u></font>.
 - 💡 **标签选项**：想**🌟去重** 👉 **🏷️ <font color="#C75C00"><u>标签选项</u></font>**选择 🌟**👌 <font color="#C75C00"><u>无操作</u></font>**
-:::
+  :::
 
-![](https://cos.files.maozhishi.com/data/web/web-files/img/20240917180515.png)
+![在搜客系统中保存客户时，选择对应营销标签并设置去重选项的界面截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240917180515.png)
 
-##### 🌟 对应日期标签  {#corresponding-date-tags}
+##### 🌟 对应日期标签 {#corresponding-date-tags}
 
 :::tip
 
 - **1️⃣ 对应日期🏷贴标签**：参照 [📣 1️⃣ 营销标签](../zhinan/contacts-tags-views#marketing-tags)，<font color="#C75C00"><u>营销批次</u></font>对应<font color="#C75C00"><u>当前日期</u></font>。
 - **2️⃣ 对应日期*📧*发邮件**：对应标签进行营销，如<font color="#C75C00"><u>9号</u></font>营销<font color="#C75C00"><u>营销09</u></font>相关的标签。
-:::
+  :::
 
-| 📣 营销标签  | 🏷 贴标签 🏷  | *📧* 发邮件 *📧* |
-|:---:|:---:|:---:|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销01</u></font>|每月<font color="#C75C00"><u>1号搜到的客户</u></font>|每月<font color="#C75C00"><u>1号营销</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销02</u></font>|每月<font color="#C75C00"><u>2号搜到的客户</u></font>|每月<font color="#C75C00"><u>2号营销</u></font>|
-|...|...|...|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销09</u></font>|每月<font color="#C75C00"><u>9号搜到的客户</u></font>|每月<font color="#C75C00"><u>9号营销</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销10</u></font>|每月<font color="#C75C00"><u>10号搜到的客户</u></font>|每月<font color="#C75C00"><u>10号营销</u></font>|
-|...|...|...|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销20</u></font>|每月<font color="#C75C00"><u>20号搜到的客户</u></font>|每月<font color="#C75C00"><u>20号营销</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销21</u></font>|每月<font color="#C75C00"><u>21号搜到的客户</u></font>|每月<font color="#C75C00"><u>21号营销</u></font>|
-|...|...|...|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销29</u></font>|每月<font color="#C75C00"><u>29号搜到的客户</u></font>|每月<font color="#C75C00"><u>29号营销</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销30</u></font>|每月<font color="#C75C00"><u>30号搜到的客户</u></font>|每月<font color="#C75C00"><u>30号营销</u></font>|
+|                          📣 营销标签                           |                      🏷 贴标签 🏷                      |                 _📧_ 发邮件 _📧_                 |
+| :------------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------: |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销01</u></font> | 每月<font color="#C75C00"><u>1号搜到的客户</u></font>  | 每月<font color="#C75C00"><u>1号营销</u></font>  |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销02</u></font> | 每月<font color="#C75C00"><u>2号搜到的客户</u></font>  | 每月<font color="#C75C00"><u>2号营销</u></font>  |
+|                              ...                               |                          ...                           |                       ...                        |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销09</u></font> | 每月<font color="#C75C00"><u>9号搜到的客户</u></font>  | 每月<font color="#C75C00"><u>9号营销</u></font>  |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销10</u></font> | 每月<font color="#C75C00"><u>10号搜到的客户</u></font> | 每月<font color="#C75C00"><u>10号营销</u></font> |
+|                              ...                               |                          ...                           |                       ...                        |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销20</u></font> | 每月<font color="#C75C00"><u>20号搜到的客户</u></font> | 每月<font color="#C75C00"><u>20号营销</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销21</u></font> | 每月<font color="#C75C00"><u>21号搜到的客户</u></font> | 每月<font color="#C75C00"><u>21号营销</u></font> |
+|                              ...                               |                          ...                           |                       ...                        |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销29</u></font> | 每月<font color="#C75C00"><u>29号搜到的客户</u></font> | 每月<font color="#C75C00"><u>29号营销</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销30</u></font> | 每月<font color="#C75C00"><u>30号搜到的客户</u></font> | 每月<font color="#C75C00"><u>30号营销</u></font> |
 
 ##### 🌟 分批保存邮箱 {#batch-saving-emails}
 
 :::warning 👉 发了很多开发信，但效果却很差！
 
 - 🤔 **问题分析**：
+
   - 1️⃣ 🚫 <font color="#C75C00"><u>垃圾邮件识别</u></font>：如果一天内向同一家公司发送大量邮件，系统可能会将这些邮件标记为垃圾邮件或恶意攻击，导致邮件被拦截或无法送达。
   - 2️⃣ 📈 <font color="#C75C00"><u>发信数量过多</u></font>：单日向同一家公司发送超过 <font color="#C75C00"><u>20 封</u></font>邮件，极易触发上述垃圾邮件识别，直接影响营销效果。
 
@@ -224,7 +224,7 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
   - 1️⃣ 📉 <font color="#C75C00"><u>控制发信数量</u></font>：确保每家公司每天的发信数量不超过 **<font color="#C75C00"><u>20 封</u></font>**，以避免垃圾邮件过滤。
   - 2️⃣ 🗂️ <font color="#C75C00"><u>分批管理邮箱</u></font>：每次保存的邮箱数量控制在 **<font color="#C75C00"><u>10 个以内</u></font>**，通过多个标签进行分批管理，确保邮件按计划有序发送。
 
-:::tip 💡两个要点  1️⃣ 邮箱排序  2️⃣ 自动去重
+:::tip 💡两个要点 1️⃣ 邮箱排序 2️⃣ 自动去重
 
 - **1️⃣ 邮箱序号**：每个域名下的邮箱，系统会按照域名进行标记顺序。
   - 👉 比如，在"<font color="#C75C00"><u>aaa.com</u></font>"下有<font color="#C75C00"><u>100个邮箱</u></font>，那么该域名下的邮箱会有<font color="#C75C00"><u>对应的 1 到 100 的编号</u></font>。
@@ -243,45 +243,45 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 :::
 
 - **🔍 演示案例**
->
-> **1️⃣ 目标客群**：搜索并保存 <font color="#C75C00"><u>法语区</u></font>的<font color="#C75C00"><u>工程设备经销商</u></font>客户。
-> **2️⃣ 邮箱数量**：任务中的<font color="#C75C00"><u>邮箱最多的客户</u></font>（同一域名）有 <font color="#C75C00"><u>58</u></font> 个邮箱。
-> **3️⃣ 操作日期**：假设当前日期为 <font color="#C75C00"><u>7月5日</u></font>。
->
+  > **1️⃣ 目标客群**：搜索并保存 <font color="#C75C00"><u>法语区</u></font>的<font color="#C75C00"><u>工程设备经销商</u></font>客户。
+  > **2️⃣ 邮箱数量**：任务中的<font color="#C75C00"><u>邮箱最多的客户</u></font>（同一域名）有 <font color="#C75C00"><u>58</u></font> 个邮箱。
+  > **3️⃣ 操作日期**：假设当前日期为 <font color="#C75C00"><u>7月5日</u></font>。
+
 ---
+
 **💡 思路梳理**
+
 > 我们以表格的形似进行梳理
 
-| **批次标签名称** | **保存邮箱数量** |保存上限|
-|:---:|:---:|:---:|
-| <font color="#C75C00"><u>法语-工程设备经销商-营销05</u></font>  | 排序<font color="#C75C00"><u>1~10</u></font>的<font color="#C75C00"><u>10</u></font>个邮箱 |<font color="#C75C00"><u>10</u></font>|
-| <font color="#C75C00"><u>法语-工程设备经销商-营销06</u></font>  | 排序<font color="#C75C00"><u>11~20</u></font>的<font color="#C75C00"><u>10</u></font>个邮箱 |<font color="#C75C00"><u>20</u></font>|
-| <font color="#C75C00"><u>法语-工程设备经销商-营销07</u></font>  | 排序<font color="#C75C00"><u>21~30</u></font>的<font color="#C75C00"><u>10</u></font>个邮箱 |<font color="#C75C00"><u>30</u></font>|
-| <font color="#C75C00"><u>法语-工程设备经销商-营销08</u></font>  | 排序<font color="#C75C00"><u>31~40</u></font>的<font color="#C75C00"><u>10</u></font>个邮箱 |<font color="#C75C00"><u>40</u></font>|
-| <font color="#C75C00"><u>法语-工程设备经销商-营销09</u></font>  | 排序<font color="#C75C00"><u>41~50</u></font>的<font color="#C75C00"><u>10</u></font>个邮箱 |<font color="#C75C00"><u>50</u></font>|
-| <font color="#C75C00"><u>法语-工程设备经销商-营销10</u></font>  | 排序<font color="#C75C00"><u>51~58</u></font>的<font color="#C75C00"><u>8</u></font>个邮箱 |<font color="#C75C00"><u>60</u></font>|
+|                        **批次标签名称**                        |                                      **保存邮箱数量**                                       |                保存上限                |
+| :------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :------------------------------------: |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销05</u></font> | 排序<font color="#C75C00"><u>1~10</u></font>的<font color="#C75C00"><u>10</u></font>个邮箱  | <font color="#C75C00"><u>10</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销06</u></font> | 排序<font color="#C75C00"><u>11~20</u></font>的<font color="#C75C00"><u>10</u></font>个邮箱 | <font color="#C75C00"><u>20</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销07</u></font> | 排序<font color="#C75C00"><u>21~30</u></font>的<font color="#C75C00"><u>10</u></font>个邮箱 | <font color="#C75C00"><u>30</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销08</u></font> | 排序<font color="#C75C00"><u>31~40</u></font>的<font color="#C75C00"><u>10</u></font>个邮箱 | <font color="#C75C00"><u>40</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销09</u></font> | 排序<font color="#C75C00"><u>41~50</u></font>的<font color="#C75C00"><u>10</u></font>个邮箱 | <font color="#C75C00"><u>50</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销10</u></font> | 排序<font color="#C75C00"><u>51~58</u></font>的<font color="#C75C00"><u>8</u></font>个邮箱  | <font color="#C75C00"><u>60</u></font> |
 
 - **💪 实操步骤**
-:::warning 👉 分批保存邮箱
- **1️⃣ 创建第①批次标签**
->
->- **任务**：在 <font color="#C75C00"><u>7月5日</u></font> 需保存<font color="#C75C00"><u>法语区</u></font>的<font color="#C75C00"><u>工程设备经销商</u></font>客户的邮箱。
->- **操作**：创建标签 **<font color="#C75C00"><u>法语-工程设备经销商-营销05</u></font>**，将**前10个邮箱**保存到此标签中。
+  :::warning 👉 分批保存邮箱
+  **1️⃣ 创建第①批次标签**
+  > - **任务**：在 <font color="#C75C00"><u>7月5日</u></font> 需保存<font color="#C75C00"><u>法语区</u></font>的<font color="#C75C00"><u>工程设备经销商</u></font>客户的邮箱。
+  > - **操作**：创建标签 **<font color="#C75C00"><u>法语-工程设备经销商-营销05</u></font>**，将**前10个邮箱**保存到此标签中。
 
 **2️⃣ 创建第②批次标签**
->
+
 > - **任务**：由于该客户的邮箱超过10个，需要继续保存剩余邮箱。
 > - **操作**：创建第二个标签 **<font color="#C75C00"><u>法语-工程设备经销商-营销06</u></font>**，保存**接下来的10个邮箱**。
 
 **3️⃣ 持续分批保存**
->
+
 > - **任务**：继续分批保存所有邮箱，直到58个邮箱全部保存完毕。
 > - **操作**：按以下批次操作：
 >   - **第③批次**：创建 **<font color="#C75C00"><u>法语-工程设备经销商-营销07</u></font>**，保存 **第21-30个邮箱**。
 >   - **第④批次**：创建 **<font color="#C75C00"><u>法语-工程设备经销商-营销08</u></font>**，保存 **第31-40个邮箱**。
 >   - **第⑤批次**：创建 **<font color="#C75C00"><u>法语-工程设备经销商-营销09</u></font>**，保存 **第41-50个邮箱**。
 >   - **第⑥批次**：创建 **<font color="#C75C00"><u>法语-工程设备经销商-营销10</u></font>**，保存 **最后8个邮箱**。
-:::
+>     :::
 
 #### 🏷 贴标签-导入客户邮箱 {#tagging-importing-customer-emails}
 
@@ -290,27 +290,27 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 - 👉 **导入教程**：参照 [批量导入](../zhinan/add-contacts#batch-import)，在导入时关联批次标签，🏷 **标签规则**参照 [📣 1️⃣ 营销标签](../zhinan/contacts-tags-views#marketing-tags)。
 - 🔔 **控制数量**：导入要对应1️⃣ <font color="#C75C00"><u>日期</u></font>、2️⃣ <font color="#C75C00"><u>客群</u></font>选择3️⃣ <font color="#C75C00"><u>标签</u></font>，且要控制4️⃣ <font color="#C75C00"><u>数量</u></font>.
 - 💡 **导入方式**：想**🌟去重** 👉 **<font color="#C75C00"><u>导入方式</u></font>**选择**<font color="#C75C00"><u>仅新增数据</u></font>**
-:::
+  :::
 
 ![](https://cos.files.maozhishi.com/data/web/web-files/img/20240916010720.png)
 
-#### *📧* 发邮件-营销标签 {#sending-emails-marketing-tags}
+#### _📧_ 发邮件-营销标签 {#sending-emails-marketing-tags}
 
 - 对应日期发送邮件，每个月<font color="#C75C00"><u>9号</u></font>发送<font color="#C75C00"><u>营销09</u></font>的标签。
 
-| 📣 营销标签  | *📧* 发邮件 *📧* |
-|:---:|:---:|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销01</u></font>|每月<font color="#C75C00"><u>1号营销</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销02</u></font>|每月<font color="#C75C00"><u>2号营销</u></font>|
-|...|...|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销09</u></font>|每月<font color="#C75C00"><u>9号营销</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销10</u></font>|每月<font color="#C75C00"><u>10号营销</u></font>|
-|...|...|...|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销20</u></font>|每月<font color="#C75C00"><u>20号营销</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销21</u></font>|每月<font color="#C75C00"><u>21号营销</u></font>|
-|...|...|...|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销29</u></font>|每月<font color="#C75C00"><u>29号营销</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-营销30</u></font>|每月<font color="#C75C00"><u>30号营销</u></font>|
+|                          📣 营销标签                           |                 _📧_ 发邮件 _📧_                 |
+| :------------------------------------------------------------: | :----------------------------------------------: | --- |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销01</u></font> | 每月<font color="#C75C00"><u>1号营销</u></font>  |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销02</u></font> | 每月<font color="#C75C00"><u>2号营销</u></font>  |
+|                              ...                               |                       ...                        |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销09</u></font> | 每月<font color="#C75C00"><u>9号营销</u></font>  |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销10</u></font> | 每月<font color="#C75C00"><u>10号营销</u></font> |
+|                              ...                               |                       ...                        | ... |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销20</u></font> | 每月<font color="#C75C00"><u>20号营销</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销21</u></font> | 每月<font color="#C75C00"><u>21号营销</u></font> |
+|                              ...                               |                       ...                        | ... |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销29</u></font> | 每月<font color="#C75C00"><u>29号营销</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-营销30</u></font> | 每月<font color="#C75C00"><u>30号营销</u></font> |
 
 ### 2️⃣ 👀 阅读标签 {#reading-tags}
 
@@ -319,9 +319,9 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 - **详细说明**：参见👉[**标签与视图**](../zhinan/contacts-tags-views) 下的 [**👀阅读标签**](../zhinan/contacts-tags-views#reading-tags)
 - **营销频率**：<font color="#C75C00"><u>10天/轮</u></font> （**区别于营销标签的30天/轮**）
 - **补充说明**：
-  - 1️⃣ **贴新标签**： [*📧* <font color="#C75C00"><u>邮件群发</u></font>](../zhinan/email-mass-sending) 后的**🗓次周**贴上 [**👀阅读标签**](../zhinan/contacts-tags-views#reading-tags)
+  - 1️⃣ **贴新标签**： [_📧_ <font color="#C75C00"><u>邮件群发</u></font>](../zhinan/email-mass-sending) 后的**🗓次周**贴上 [**👀阅读标签**](../zhinan/contacts-tags-views#reading-tags)
   - 2️⃣ **对应关系**：**阅读标签**对应**营销标签** 详细参照 👉 [《🌟阅读标签的对应关系》](../zhinan/contacts-tags-views#reading-tags)
-:::
+    :::
 
 ![](https://cos.files.maozhishi.com/data/web/web-files/img/20240713003518.png)
 
@@ -330,46 +330,45 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 :::tip 👉 对应`📣营销标签`贴`👀 阅读标签`
 
 - **1️⃣ 对应关系**：参见👉 [《阅读标签的对应关系》](../zhinan/contacts-tags-views#reading-tags)
-- **2️⃣ 查看阅读**：参照 [👀阅读客户](../zhinan/email-mass-sending#reading-customers-submenu) 在功能 👉 [*📧* 邮件群发](https://web.laifaxin.com/marketing/tasks)中进行查看。
-:::
+- **2️⃣ 查看阅读**：参照 [👀阅读客户](../zhinan/email-mass-sending#reading-customers-submenu) 在功能 👉 [_📧_ 邮件群发](https://web.laifaxin.com/marketing/tasks)中进行查看。
+  :::
 
 - **🔍 演示案例**
->
-> **1️⃣ 目标任务**：<font color="#C75C00"><u>2月1日</u></font>群发了<font color="#C75C00"><u>法语-工程设备经销商-营销01</u></font>批次，有<font color="#C75C00"><u>377</u></font>个阅读。
+  > **1️⃣ 目标任务**：<font color="#C75C00"><u>2月1日</u></font>群发了<font color="#C75C00"><u>法语-工程设备经销商-营销01</u></font>批次，有<font color="#C75C00"><u>377</u></font>个阅读。
 
 ![](https://cos.files.maozhishi.com/data/web/web-files/img/20240918023634.png)
 
 **💡 思路梳理**
+
 > **1️⃣ 对应关系**：参见👉 [《阅读标签的对应关系》](../zhinan/contacts-tags-views#reading-tags)，<font color="#C75C00"><u>法语-工程设备经销商-营销01</u></font>中有阅读的标签为<font color="#C75C00"><u>法语-工程设备经销商-阅读01</u></font>
 
 - **💪 实操步骤**
->
-> - 1️⃣ 全选👀 <font color="#C75C00"><u>有阅读</u></font>的邮箱，点击<font color="#C75C00"><u>批量标签</u></font>，选择要新增的标签<font color="#C75C00"><u>法语-工程设备经销商-阅读01</u></font>
+  > - 1️⃣ 全选👀 <font color="#C75C00"><u>有阅读</u></font>的邮箱，点击<font color="#C75C00"><u>批量标签</u></font>，选择要新增的标签<font color="#C75C00"><u>法语-工程设备经销商-阅读01</u></font>
 
 ![](https://cos.files.maozhishi.com/data/web/web-files/img/20240918024220.png)
->
+
 > - 2️⃣ 新增标签后，在邮箱的标签信息中可以看到新标签<font color="#C75C00"><u>法语-工程设备经销商-阅读01</u></font>
 
 ![](https://cos.files.maozhishi.com/data/web/web-files/img/20240918024354.png)
 
-#### *📧* 发邮件-阅读标签 {#sending-emails-reading-tags}
+#### _📧_ 发邮件-阅读标签 {#sending-emails-reading-tags}
 
 - **对应日期发送邮件**：每个月<font color="#C75C00"><u>9号</u></font>、<font color="#C75C00"><u>19号</u></font>、<font color="#C75C00"><u>29号</u></font>发送<font color="#C75C00"><u>阅读09</u></font>的标签。 🔟天/轮
 
-| 📣 阅读标签  |发邮件1️⃣上旬|发邮件2️⃣中旬|发邮件3️⃣下旬|
-|:---:|:---:|:---:|:---:|
-|<font color="#C75C00"><u>法语-工程设备经销商-阅读01</u></font>|每月<font color="#C75C00"><u>1号</u></font>|每月<font color="#C75C00"><u>11号</u></font>|每月<font color="#C75C00"><u>21号</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-阅读02</u></font>|每月<font color="#C75C00"><u>2号</u></font>|每月<font color="#C75C00"><u>12号</u></font>|每月<font color="#C75C00"><u>22号</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-阅读03</u></font>|每月<font color="#C75C00"><u>3号</u></font>|每月<font color="#C75C00"><u>13号</u></font>|每月<font color="#C75C00"><u>23号</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-阅读04</u></font>|每月<font color="#C75C00"><u>4号</u></font>|每月<font color="#C75C00"><u>14号</u></font>|每月<font color="#C75C00"><u>24号</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-阅读05</u></font>|每月<font color="#C75C00"><u>5号</u></font>|每月<font color="#C75C00"><u>15号</u></font>|每月<font color="#C75C00"><u>25号</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-阅读06</u></font>|每月<font color="#C75C00"><u>6号</u></font>|每月<font color="#C75C00"><u>16号</u></font>|每月<font color="#C75C00"><u>26号</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-阅读07</u></font>|每月<font color="#C75C00"><u>7号</u></font>|每月<font color="#C75C00"><u>17号</u></font>|每月<font color="#C75C00"><u>27号</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-阅读08</u></font>|每月<font color="#C75C00"><u>8号</u></font>|每月<font color="#C75C00"><u>18号</u></font>|每月<font color="#C75C00"><u>28号</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-阅读09</u></font>|每月<font color="#C75C00"><u>9号</u></font>|每月<font color="#C75C00"><u>19号</u></font>|每月<font color="#C75C00"><u>29号</u></font>|
-|<font color="#C75C00"><u>法语-工程设备经销商-阅读10</u></font>|每月<font color="#C75C00"><u>10号</u></font>|每月<font color="#C75C00"><u>20号</u></font>|每月<font color="#C75C00"><u>30号</u></font>|
+|                          📣 阅读标签                           |                 发邮件1️⃣上旬                 |                 发邮件2️⃣中旬                 |                 发邮件3️⃣下旬                 |
+| :------------------------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
+| <font color="#C75C00"><u>法语-工程设备经销商-阅读01</u></font> | 每月<font color="#C75C00"><u>1号</u></font>  | 每月<font color="#C75C00"><u>11号</u></font> | 每月<font color="#C75C00"><u>21号</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-阅读02</u></font> | 每月<font color="#C75C00"><u>2号</u></font>  | 每月<font color="#C75C00"><u>12号</u></font> | 每月<font color="#C75C00"><u>22号</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-阅读03</u></font> | 每月<font color="#C75C00"><u>3号</u></font>  | 每月<font color="#C75C00"><u>13号</u></font> | 每月<font color="#C75C00"><u>23号</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-阅读04</u></font> | 每月<font color="#C75C00"><u>4号</u></font>  | 每月<font color="#C75C00"><u>14号</u></font> | 每月<font color="#C75C00"><u>24号</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-阅读05</u></font> | 每月<font color="#C75C00"><u>5号</u></font>  | 每月<font color="#C75C00"><u>15号</u></font> | 每月<font color="#C75C00"><u>25号</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-阅读06</u></font> | 每月<font color="#C75C00"><u>6号</u></font>  | 每月<font color="#C75C00"><u>16号</u></font> | 每月<font color="#C75C00"><u>26号</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-阅读07</u></font> | 每月<font color="#C75C00"><u>7号</u></font>  | 每月<font color="#C75C00"><u>17号</u></font> | 每月<font color="#C75C00"><u>27号</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-阅读08</u></font> | 每月<font color="#C75C00"><u>8号</u></font>  | 每月<font color="#C75C00"><u>18号</u></font> | 每月<font color="#C75C00"><u>28号</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-阅读09</u></font> | 每月<font color="#C75C00"><u>9号</u></font>  | 每月<font color="#C75C00"><u>19号</u></font> | 每月<font color="#C75C00"><u>29号</u></font> |
+| <font color="#C75C00"><u>法语-工程设备经销商-阅读10</u></font> | 每月<font color="#C75C00"><u>10号</u></font> | 每月<font color="#C75C00"><u>20号</u></font> | 每月<font color="#C75C00"><u>30号</u></font> |
 
-### 3️⃣ 💡 意向标签  {#intention-tags}
+### 3️⃣ 💡 意向标签 {#intention-tags}
 
 :::tip
 
@@ -380,7 +379,7 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
   - **2️⃣ 📦 <font color="#C75C00"><u>样品</u></font>**：和你要了样品的客户，打上`📦样品`标签
   - **3️⃣ 💰 <font color="#C75C00"><u>成交</u></font>**：已经付款成单的客户，打上`💰成交`标签
 - **贴新标签**：根据实际情况贴标签即可
-:::
+  :::
 
 ![3个意向标签](https://cos.files.maozhishi.com/data/web/web-files/img/20240713184839.png)
 
@@ -400,18 +399,18 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
   - **1️⃣ ❌ <font color="#C75C00"><u>同行</u></font>**：便于营销时进行排除
   - **2️⃣ 🚫 <font color="#C75C00"><u>退订</u></font>**：回邮件明确告知不要再营销的。
   - **3️⃣ ⛔ <font color="#C75C00"><u>其他</u></font>**：其他有风险的联系人
-:::
+    :::
 
 ![有风险的联系人](https://cos.files.maozhishi.com/data/web/web-files/img/20240713185517.png)
 
-## 四、视图说明  {#view-description}
+## 四、视图说明 {#view-description}
 
 :::warning 🔔 应用场景
 
 - 1️⃣ **自动筛选**：视图自动筛选目标，教程参照 👉 [联系人视图](../zhinan/contacts-tags-views#using-contact-views)
 - 2️⃣ **快速排除**：视图一般与👉[**邮件群发**](./email-mass-sending) 配合视图，能实现快速排除。
-:::
-![4个视图策略](https://cos.files.maozhishi.com/data/web/web-files/img/20240908190322.png)
+  :::
+  ![4个视图策略](https://cos.files.maozhishi.com/data/web/web-files/img/20240908190322.png)
 
 ### 1️⃣ 👀 阅读-有阅读邮箱 {#reading-has-reading-email}
 
@@ -425,12 +424,12 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 🔔 **用途**：群发<font color="#C75C00"><u>营销批次</u></font>的客户，要排除<font color="#C75C00"><u>已打阅读标签</u></font>的客户，避免有阅读客户一天被营销多次！
 :::
 
-
 **操作流程**：
->- 1️⃣ **进入设置**：点击视图左上角的`筛选`进入条件设置
->- 2️⃣ **新增条件**：点击`新增筛选条件`
->- 3️⃣ **选择字段**：`字段`选择`标签`
->- 4️⃣ **逻辑条件**：选择<font color="#C75C00"><u>任意包含</u></font>，并选择[**📁 <font color="#C75C00"><u>阅读标签分组</u></font>**](#reading-tags) 下的标签。
+
+> - 1️⃣ **进入设置**：点击视图左上角的`筛选`进入条件设置
+> - 2️⃣ **新增条件**：点击`新增筛选条件`
+> - 3️⃣ **选择字段**：`字段`选择`标签`
+> - 4️⃣ **逻辑条件**：选择<font color="#C75C00"><u>任意包含</u></font>，并选择[**📁 <font color="#C75C00"><u>阅读标签分组</u></font>**](#reading-tags) 下的标签。
 
 ![字段选择标签，并设置任意包含，选择阅读标签分组下的所有标签](https://cos.files.maozhishi.com/data/web/web-files/img/20240713225710.png)
 
@@ -438,7 +437,7 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 
 :::tip
 
-- **条件说明**：汇总 [**📁 <font color="#C75C00"><u>意向标签分组</u></font>**](#intention-tags)  下的 **<font color="#C75C00"><u>3</u></font>** 个标签
+- **条件说明**：汇总 [**📁 <font color="#C75C00"><u>意向标签分组</u></font>**](#intention-tags) 下的 **<font color="#C75C00"><u>3</u></font>** 个标签
 
 🔔 **用途**：营销时要排除<font color="#C75C00"><u>有意向</u></font>客户，避免造成骚扰。
 :::
@@ -449,7 +448,7 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 
 :::tip
 
-- **条件说明**：汇总 [**📁 <font color="#C75C00"><u>风险标签分组</u></font>**](#risk-tags)  下的 **<font color="#C75C00"><u>3</u></font>** 个标签
+- **条件说明**：汇总 [**📁 <font color="#C75C00"><u>风险标签分组</u></font>**](#risk-tags) 下的 **<font color="#C75C00"><u>3</u></font>** 个标签
 
 🔔 **用途**：营销时要排除<font color="#C75C00"><u>有风险</u></font>客户，避免浪费和举报！
 :::
@@ -470,9 +469,9 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 - **🔑4️⃣ 特定机构**：邮箱**包含**：`.gov`/`.org`/`.edu`
   - 这些一般是公益机构、政府部门、教育部门的邮箱，如果不需要可以排除
 - **🎯条件逻辑**：🔗 <font color="#C75C00"><u>符合任一条件即可关联</u></font>，所以选择 👉 **<font color="#C75C00"><u>或者</u></font>**
-:::
-:::tip 👉 以上条件的代码点击此处复制
-**🔑1️⃣ 职能邮箱**：邮箱**开头是**
+  :::
+  :::tip 👉 以上条件的代码点击此处复制
+  **🔑1️⃣ 职能邮箱**：邮箱**开头是**
 
 ```
 hr@;noreply@;marketing@;jobs@;customerservice@
@@ -496,7 +495,7 @@ qq.com;163.com;aliyun.com;263.com;88.com;188.com
 .gov;.org;.edu
 ```
 
->👉 参照下图，在代码上点`复制`，直接复制使用
+> 👉 参照下图，在代码上点`复制`，直接复制使用
 
 ![直接复制代码使用](https://cos.files.maozhishi.com/data/web/web-files/img/20240713224212.png)
 
@@ -506,27 +505,27 @@ qq.com;163.com;aliyun.com;263.com;88.com;188.com
 
 ## 五、营销说明
 
-- 🔔借用 [*📧* 群发邮件](../zhinan/email-mass-sending) 中的 [选择客户](../zhinan/email-mass-sending#select-customers)功能，快速排除非目标客户。
+- 🔔借用 [_📧_ 群发邮件](../zhinan/email-mass-sending) 中的 [选择客户](../zhinan/email-mass-sending#select-customers)功能，快速排除非目标客户。
 
 ### 1️⃣ 静默客户-低频营销-30天/轮 {#silent-customers-low-frequency-marketing-30days-per-round}
 
-:::tip *📧* 针对`👉🤫 <font color="#C75C00"><u>静默客户</u></font>`的营销
+:::tip _📧_ 针对`👉🤫 <font color="#C75C00"><u>静默客户</u></font>`的营销
 
 - ☑️**选择目标**：1️⃣ [📣营销标签](#marketing-tags)
 - ⛔**排除对象**：② [👀 阅读客户](#reading-has-reading-email)、③ [💡 意向客户](#intention-potential-customers)、④ [🚫 风险群体](#risk-at-risk-groups) 和 ⑤ [🛑 不发邮箱](#no-sending-email)
-:::
+  :::
 
 ![营销静默客户-思维导图](https://cos.files.maozhishi.com/data/web/web-files/img/20240918034947.png)
 
 - **实操演示**：<font color="#C75C00"><u>2024年9月1日</u></font>营销<font color="#C75C00"><u>英语</u></font>区域的<font color="#C75C00"><u>工程设备经销商</u></font>中<font color="#C75C00"><u>静默客户</u></font>为例
-  - *📧* **发送目标**：1️⃣ <font color="#C75C00"><u>英语-工程设备经销商-营销01</u></font>
+  - _📧_ **发送目标**：1️⃣ <font color="#C75C00"><u>英语-工程设备经销商-营销01</u></font>
   - ⛔ **排除对象**：② [👀 阅读客户](#reading-has-reading-email)、③ [💡 意向客户](#intention-potential-customers)、④ [🚫 风险群体](#risk-at-risk-groups) 和 ⑤ [🛑 不发邮箱](#no-sending-email)
 
 ![营销静默客户-群发界面](https://cos.files.maozhishi.com/data/web/web-files/img/20240918040504.png)
 
-### 2️⃣ 阅读客户-高频营销-10天/轮  {#reading-customers-high-frequency-marketing-10days-per-round}
+### 2️⃣ 阅读客户-高频营销-10天/轮 {#reading-customers-high-frequency-marketing-10days-per-round}
 
-:::tip *📧* 针对`👀 <font color="#C75C00"><u>阅读客户</u></font>`的营销
+:::tip _📧_ 针对`👀 <font color="#C75C00"><u>阅读客户</u></font>`的营销
 
 - ☑️**选择目标**：1️⃣ [👀阅读标签](#reading-tags)
 - ⛔**排除对象**：③ [💡 意向客户](#intention-potential-customers)、④ [🚫 风险群体](#risk-at-risk-groups) 和 ⑤ [🛑 不发邮箱](#no-sending-email)
@@ -538,19 +537,18 @@ qq.com;163.com;aliyun.com;263.com;88.com;188.com
 ![营销阅读客户-思维导图](https://cos.files.maozhishi.com/data/web/web-files/img/20240918035012.png)
 
 - **实操演示**：<font color="#C75C00"><u>2024年9月1日</u></font>营销<font color="#C75C00"><u>英语</u></font>区域的<font color="#C75C00"><u>工程设备经销商</u></font>中<font color="#C75C00"><u>阅读客户</u></font>为例
-  - *📧* **发送目标**：1️⃣ <font color="#C75C00"><u>英语-工程设备经销商-阅读01</u></font>
+  - _📧_ **发送目标**：1️⃣ <font color="#C75C00"><u>英语-工程设备经销商-阅读01</u></font>
   - ⛔ **排除对象**：③ [💡 意向客户](#intention-potential-customers)、④ [🚫 风险群体](#risk-at-risk-groups) 和 ⑤ [🛑 不发邮箱](#no-sending-email)
 
 ![营销阅读客户-群发界面](https://cos.files.maozhishi.com/data/web/web-files/img/20240918041355.png)
 
-### 3️⃣ 意向客户-及时跟进  {#intention-customers-timely-follow-up}
+### 3️⃣ 意向客户-及时跟进 {#intention-customers-timely-follow-up}
 
 - <u>及时跟进</u>，略过！
 
 ### 4️⃣ 风险客户-不再营销 {#risk-customers-no-marketing}
 
 - ~~不再营销~~，略过！
-
 
 ## 六、拓展与资源 {#expansion-and-resources}
 
@@ -582,6 +580,7 @@ qq.com;163.com;aliyun.com;263.com;88.com;188.com
   > **回答**：**通常不建议排除**这类邮箱。原因如下：
   >
   > - **关键联系人**：在许多中小型企业中，`info@`或`sales@`这类通用邮箱往往由老板或核心业务人员直接管理，是重要的沟通渠道。
+
   - **免费资源**：来发信系统**不会对这类常见前缀的邮箱计费**，发送它们不会消耗您的额度。您可以放心将其納入营销范围。详见《[免计费邮箱列表](https://cos.files.maozhishi.com/data/img/free-email-list.jpg)》。
 
 - **❓ 问题：域名提取上限**
@@ -615,7 +614,7 @@ qq.com;163.com;aliyun.com;263.com;88.com;188.com
 - **❓ 问题：排除"视图"与"标签"区别是？**
 
   > **回答**：排除"视图"比排除"标签"更高效、更智能。可以这样理解：
-  >
+
   - **排除标签**：像是一个手动的"黑名单"。每次群发，您都需要手动勾选所有不想发送的标签（如`风险-同行`、`风险-退订`等），操作繁琐且容易遗漏。
   - **排除视图**：像是一个自动更新的"智能分组"。您只需创建一次"风险客户"视图，并设置好规则（例如，包含所有风险分组下的标签）。之后每次群发，只需排除这一个视图即可。当您给某个客户打上新的风险标签时，他会自动进入该视图，无需您再手动操作。这正是 [视图](#view-description) 的强大之处。
 

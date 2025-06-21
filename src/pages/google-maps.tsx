@@ -25,13 +25,22 @@ function GoogleMapsHomepageHeader() {
             </p>
             <div className={styles.buttonsContainer}>
               {/* 更换跳转链接 */}
-              <Link className={styles.buttonPrimary} href="/chajian/how-to-use-google-maps-plugin">
+              <Link
+                className={styles.buttonPrimary}
+                href="/chajian/how-to-use-google-maps-plugin"
+              >
                 使用说明
               </Link>
-              <Link className={styles.buttonGeneral} href="/chajian/how-to-install-google-maps-plugin">
+              <Link
+                className={styles.buttonGeneral}
+                href="/chajian/how-to-install-google-maps-plugin"
+              >
                 下载安装
               </Link>
-              <Link className={styles.buttonGeneral} href="/chajian/google-maps-plugin-faq">
+              <Link
+                className={styles.buttonGeneral}
+                href="/chajian/google-maps-plugin-faq"
+              >
                 常见问题
               </Link>
             </div>
@@ -55,9 +64,9 @@ function GoogleMapsHomepageHeader() {
 export default function PluginsHome(): ReactNode {
   return (
     <Layout
-    title={`谷歌地图数据采集专业版`}
-    description=" 欢迎使用谷歌地图数据采集专业版。本页面将引导您快速上手，了解核心功能，并开始您的第一次商家信息采集任务，助力外贸业务拓展。<head />"
-  >
+      title={`谷歌地图数据采集专业版`}
+      description=" 欢迎使用谷歌地图数据采集专业版。本页面将引导您快速上手，了解核心功能，并开始您的第一次商家信息采集任务，助力外贸业务拓展。<head />"
+    >
       <GoogleMapsHomepageHeader />
       <main>
         <GoogleMapsHomepageFeatures />
@@ -65,4 +74,3 @@ export default function PluginsHome(): ReactNode {
     </Layout>
   );
 }
-

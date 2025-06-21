@@ -3,7 +3,8 @@ id: improve-google-maps-data-collection-efficiency-focus-on-popular-cities
 title: 🎯 集火热门城市，快速采集商家列表！
 description: 本文介绍了如何针对日本等城市数量庞大的国家，通过AI工具（如腾讯元宝）获取人口排名前列的城市列表，并将其应用于谷歌地图数据采集中，从而显著提升采集效率。学习如何精确生成所需格式的城市列表，优化您的地图数据采集流程。
 tags: [谷歌地图, 数据采集, 效率提升, 城市筛选, AI工具]
-keywords: [谷歌地图, 数据采集, 热门城市, AI助手, 腾讯元宝, 城市列表, 采集效率, laifaxin]
+keywords:
+  [谷歌地图, 数据采集, 热门城市, AI助手, 腾讯元宝, 城市列表, 采集效率, laifaxin]
 ---
 
 # 🎯 集火热门城市，快速采集商家列表！

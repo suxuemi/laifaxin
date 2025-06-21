@@ -3,7 +3,8 @@ id: meet-laifaxin
 title: ✨ 初识来发信
 description: 1分钟了解来发信 (Laifaxin.com)——您的一站式智能外贸客户开发与营销SaaS平台。发掘全球商机，提升询盘转化，管理百万客户，外贸新手也能轻松出海，业绩倍增！
 tags: [来发信, 产品介绍, 外贸SaaS, 客户开发, 邮件营销]
-keywords: [来发信, Laifaxin, 外贸软件, 客户开发平台, 智能拓客, 邮件营销, CRM, B2B]
+keywords:
+  [来发信, Laifaxin, 外贸软件, 客户开发平台, 智能拓客, 邮件营销, CRM, B2B]
 ---
 
 # ✨ 初识来发信

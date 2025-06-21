@@ -1,26 +1,31 @@
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
-import styles from './styles.module.css';
-import './styles.css';
+import clsx from "clsx";
+import Heading from "@theme/Heading";
+import styles from "./styles.module.css";
+import "./styles.css";
 
 const FeatureList = [
   {
-    title: '全球客户搜索',
-    Svg: require('@site/static/svg/search.svg').default,
+    title: "全球客户搜索",
+    Svg: require("@site/static/svg/search.svg").default,
     description: (
-      <>Google、LinkedIn、Facebook、Twitter、WhatsApp、Zoominfo等一键获取姓名、职位、社媒、官网等</>
+      <>
+        Google、LinkedIn、Facebook、Twitter、WhatsApp、Zoominfo等一键获取姓名、职位、社媒、官网等
+      </>
     ),
   },
   {
-    title: '邮箱批量验证',
-    Svg: require('@site/static/svg/verification.svg').default,
+    title: "邮箱批量验证",
+    Svg: require("@site/static/svg/verification.svg").default,
     description: (
-      <>免费：邮箱验证服务完全免费 批量：单日可验证上百万邮箱 准确：全球邮箱验证准确率99%+</>
+      <>
+        免费：邮箱验证服务完全免费 批量：单日可验证上百万邮箱
+        准确：全球邮箱验证准确率99%+
+      </>
     ),
   },
   {
-    title: '海量邮件营销',
-    Svg: require('@site/static/svg/market.svg').default,
+    title: "海量邮件营销",
+    Svg: require("@site/static/svg/market.svg").default,
     description: (
       <>
         支持邮件追踪，随时客户最新动态 支持数据统计，一图了解发送效果
@@ -29,8 +34,8 @@ const FeatureList = [
     ),
   },
   {
-    title: '邮件实时追踪',
-    Svg: require('@site/static/svg/trace.svg').default,
+    title: "邮件实时追踪",
+    Svg: require("@site/static/svg/trace.svg").default,
     description: (
       <>
         实时了解客户阅读、点击、下载状态 及时跟进客户情况，客户开发更高效
@@ -42,8 +47,8 @@ const FeatureList = [
 
 function Feature({ Svg, title, description }) {
   return (
-    <div className={clsx('col col--3')}>
-      <div className={clsx('text--center', styles.customFeatureSvg)}>
+    <div className={clsx("col col--3")}>
+      <div className={clsx("text--center", styles.customFeatureSvg)}>
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
@@ -64,7 +69,7 @@ export default function HomepageFeatures() {
           ))}
         </div>
 
-        <section className={clsx('section ud-features', styles.section)}>
+        <section className={clsx("section ud-features", styles.section)}>
           <div className="left-content">
             <span className="features-btn">特色功能</span>
             <h1 className="features-title">全球搜索，精准获客</h1>
@@ -107,7 +112,9 @@ export default function HomepageFeatures() {
               <span className="faq-title">
                 👉 可以做到群发每封邮件不一样?如:邮件中含有每个客户的昵称?
               </span>
-              <p>导入联系人时,导入联系人的昵称,创建主题或邮件正文时,插入昵称变量即可实现。</p>
+              <p>
+                导入联系人时,导入联系人的昵称,创建主题或邮件正文时,插入昵称变量即可实现。
+              </p>
             </div>
           </div>
           <div className="faq-row">
@@ -118,7 +125,9 @@ export default function HomepageFeatures() {
               </p>
             </div>
             <div className="faq-item">
-              <span className="faq-title">👉 进垃圾箱的因素有哪些?怎么处理?</span>
+              <span className="faq-title">
+                👉 进垃圾箱的因素有哪些?怎么处理?
+              </span>
               <p>
                 进垃圾箱最大的因素是邮件内容,我们建议:内容尽可能简短、尽量不要带链接、尽量不要带明显的拦截词,比如折扣/价格/优惠等。
               </p>
@@ -127,7 +136,9 @@ export default function HomepageFeatures() {
           <div className="faq-row">
             <div className="faq-item">
               <span className="faq-title">👉 内容是否有特别限制?</span>
-              <p>只要不违法/不违规/非金融类/非情趣类/非无版权产品,皆可提交发送。</p>
+              <p>
+                只要不违法/不违规/非金融类/非情趣类/非无版权产品,皆可提交发送。
+              </p>
             </div>
             <div className="faq-item">
               <span className="faq-title">👉 怎么搜索容易找到对应的客户？</span>
@@ -226,7 +237,11 @@ export default function HomepageFeatures() {
             </div>
           </div>
           <div className="team-button">
-            <a href="https://web.laifaxin.com" className="ud-main-btn" target="_blank">
+            <a
+              href="https://web.laifaxin.com"
+              className="ud-main-btn"
+              target="_blank"
+            >
               开始使用
             </a>
           </div>
@@ -264,13 +279,19 @@ export default function HomepageFeatures() {
                 <h4 className="contact-title">咨询邮箱</h4>
                 <div className="contact-text">
                   客服：
-                  <a className="contact-contact" href="mailto:help@zhijixinxi.com">
+                  <a
+                    className="contact-contact"
+                    href="mailto:help@zhijixinxi.com"
+                  >
                     help@zhijixinxi.com
                   </a>
                 </div>
                 <div className="contact-text">
                   合作：
-                  <a className="contact-contact" href="mailto:bd@zhijixinxi.com">
+                  <a
+                    className="contact-contact"
+                    href="mailto:bd@zhijixinxi.com"
+                  >
                     bd@zhijixinxi.com
                   </a>
                 </div>

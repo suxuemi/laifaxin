@@ -1,10 +1,20 @@
 ---
 id: 106-tengxun-qqyouxiang-tencent-personal-email
-title: '腾讯邮箱 (@qq.com): IMAP/SMTP 与授权码配置'
+title: "腾讯邮箱 (@qq.com): IMAP/SMTP 与授权码配置"
 description: 本文详细讲解如何在第三方邮件客户端（如来发信）中设置腾讯个人邮箱（@qq.com, @foxmail.com），并指导您一步步开启IMAP/SMTP服务、通过安全验证生成并使用“授权码”完成登录。
-tags: ['腾讯邮箱', 'QQ邮箱', 'Foxmail', 'IMAP', 'SMTP', '授权码', '邮箱配置']
+tags: ["腾讯邮箱", "QQ邮箱", "Foxmail", "IMAP", "SMTP", "授权码", "邮箱配置"]
 keywords:
-  ['腾讯邮箱', 'QQ邮箱', 'foxmail.com', 'IMAP', 'SMTP', '授权码', 'POP3', '客户端配置', '安全设置']
+  [
+    "腾讯邮箱",
+    "QQ邮箱",
+    "foxmail.com",
+    "IMAP",
+    "SMTP",
+    "授权码",
+    "POP3",
+    "客户端配置",
+    "安全设置",
+  ]
 ---
 
 # 腾讯邮箱 (@qq.com): IMAP/SMTP 与授权码配置
