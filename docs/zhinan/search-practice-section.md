@@ -46,7 +46,7 @@ keywords:
 
 :::note 搜索前的准备工作
 
-> 在 📚[**《特征分析篇》**](./feature-analysis-section#customer-website-website) 中，我们已梳理了客户的<u><span style={{color: '#e67c00'}}>产品词</span></u>、<u><span style={{color: '#e67c00'}}>服务词</span></u>、<u><span style={{color: '#e67c00'}}>行业词</span></u>、<u><span style={{color: '#e67c00'}}>角色词</span></u>等信息，并整理到了 📝[**《客户营销数据表》**](https://url.laifa.xin/xly/khyxsjb.html)。
+> 在 📚[**《特征分析篇》**](./feature-analysis-section#customer-website-feature-extraction) 中，我们已梳理了客户的<u><span style={{color: '#e67c00'}}>产品词</span></u>、<u><span style={{color: '#e67c00'}}>服务词</span></u>、<u><span style={{color: '#e67c00'}}>行业词</span></u>、<u><span style={{color: '#e67c00'}}>角色词</span></u>等信息，并整理到了 📝[**《客户营销数据表》**](https://url.laifa.xin/xly/khyxsjb.html)。
 
 ![客户网站特征词收集](https://cos.files.maozhishi.com/data/web/web-files/img/20240815224807.png)
 
@@ -186,7 +186,7 @@ _图示：使用 OR 放宽页面限制，结果数略有增加但仍然不多。
 
 :::note 社媒搜索前的准备
 
-> 在 📚[**《特征分析篇》**](./feature-analysis-section#social-media-linkedin)中，我们已梳理并记录了客户在社媒上的各类特征词。
+> 在 📚[**《特征分析篇》**](./feature-analysis-section#social-media-linkedin-feature-extraction)中，我们已梳理并记录了客户在社媒上的各类特征词。
 
 ![客户社媒特征词收集](https://cos.files.maozhishi.com/data/web/web-files/img/20240820005533.png)
 

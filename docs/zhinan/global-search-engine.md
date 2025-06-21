@@ -60,7 +60,7 @@ _图示：全球搜客引擎的功能界面概览。_
 :::tip 🌟 Google渠道直接搜客户产品
 
 - **💡 关键词**：👉 **客户产品** <u><span style={{color: '#e67c00'}}>led lighting</span></u>，关键词直接输入 <u><span style={{color: '#e67c00'}}>"led lighting"</span></u> (注意英文双引号)。
-- 🔔 **特别提醒**：是 <u><span style={{color: '#d93025'}}>客户的产品关键词</span></u>，不是你的产品关键词！（关键词参照 📚[**特征分析篇**](./feature-analysis-section#customer-website-website)）
+- 🔔 **特别提醒**：是 <u><span style={{color: '#d93025'}}>客户的产品关键词</span></u>，不是你的产品关键词！（关键词参照 📚[**特征分析篇**](./feature-analysis-section#customer-website-feature-extraction)）
   :::
 
 :::note 👉 点此详细了解 “结果优化” 与 “精准匹配”
@@ -71,7 +71,7 @@ _图示：全球搜客引擎的功能界面概览。_
 (intitle:"about us" | intitle:"contact us") -"alibaba.*" -"amazon.*" -"*.gov" -"*.edu" -"*.org" -"news" -"blogs" -"magazine"
 ```
 
-- **精准匹配**：勾选后，你输入的关键词会自动加上 <u><span style={{color: '#e67c00'}}>英文双引号</span></u>。用法参照 📚[**双引号**](./basic-grammar-section#precise-search-results-double-quotes)。
+- **精准匹配**：勾选后，你输入的关键词会自动加上 <u><span style={{color: '#e67c00'}}>英文双引号</span></u>。用法参照 📚[**双引号**](./basic-grammar-section#double-quotes-for-exact-match)。
   :::
 
 ![Google搜索演示搜索 "led lighting"](https://cos.files.maozhishi.com/data/web/web-files/img/20240714194307.png)
@@ -87,7 +87,7 @@ _图示：在Google渠道使用单个产品词进行搜索。_
 :::tip 🌟 多关键词搜索
 
 - **- 客户产品**：<u><span style={{color: '#e67c00'}}>indoor lighting</span></u>、 <u><span style={{color: '#e67c00'}}>outdoor lighting</span></u>。
-- **- 搜索逻辑**：使用 <u><span style={{color: '#e67c00'}}>AND</span></u> 语法 (详情参照 📚[**语法篇**](./basic-grammar-section#satisfy-all-conditions-and)) 连接多个关键词，确保结果同时包含它们。
+- **- 搜索逻辑**：使用 <u><span style={{color: '#e67c00'}}>AND</span></u> 语法 (详情参照 📚[**语法篇**](./basic-grammar-section#and-satisfy-all-conditions)) 连接多个关键词，确保结果同时包含它们。
 - **- 严格匹配**：为每个词组加上双引号，以提高搜索精度。
 
 ```yaml

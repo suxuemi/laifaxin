@@ -154,7 +154,7 @@ _图示：页面上清晰可见 "US Customs records" 字样。_
 
 <br/>
 
-> - 找到这个特征后，咱们就可以在搜索公式里，用 📚[**AND 搜索语法**](./basic-grammar-section#satisfy-all-conditions-and) 把这个国家特征加上去，进行限定搜索。
+> - 找到这个特征后，咱们就可以在搜索公式里，用 📚[**AND 搜索语法**](./basic-grammar-section#and-satisfy-all-conditions) 把这个国家特征加上去，进行限定搜索。
 
 ```
 site:importgenius.com/importers AND "US Customs records" {产品名称}
@@ -293,7 +293,7 @@ _图示：通过来发信公司域名搜客，输入网址即可获取客户详�
 - 👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com) 有专门的工具帮你搞定！
   :::
 
-> - 详细的操作教程，可以去看咱们的 📚[批量公司名称搜客](./company-name-search#batch-name-search) 这篇指南。
+> - 详细的操作教程，可以去看咱们的 📚[批量公司名称搜客](./company-name-search#batch-company-name-search) 这篇指南。
 
 ## 二、换个网站 importyeti 试试！ {#importyeti}
 

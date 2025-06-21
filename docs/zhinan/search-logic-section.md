@@ -60,7 +60,7 @@ _图示：外贸客户开发的核心流程，从明确方向到最终触达。_
 #### ① 品牌搜索渠道
 
 - 研究同行的品牌，可以帮助您找到他们的 **<span style={{color: '#8e44ad'}}>渠道商</span>** 和客户。
-- **行动点**：分析同行品牌的市场影响力，并参考 📚[搜索竞品渠道](./global-search-engine#brand-search-customers) 的方法，寻找潜在客户资源。
+- **行动点**：分析同行品牌的市场影响力，并参考 📚[搜索竞品渠道](./global-search-engine#brand-based-search) 的方法，寻找潜在客户资源。
 
 #### ② 图片搜索客户
 
@@ -96,7 +96,7 @@ _图示：分析图片搜索结果，可以发现大量销售该产品的渠道�
 #### ① 找客户同行
 
 - 通过搜索客户销售的产品，可以找到他们的同行。
-- **行动点**：参考 📚[全球搜客引擎-Google](./global-search-engine#google)，使用产品关键词，结合 <u><span style={{color: '#e67c00'}}>谷歌高级搜索语法</span></u>，找到相关的公司网站。
+- **行动点**：参考 📚[全球搜客引擎-Google](./global-search-engine#google-search)，使用产品关键词，结合 <u><span style={{color: '#e67c00'}}>谷歌高级搜索语法</span></u>，找到相关的公司网站。
 
 #### ② 找品牌渠道
 
@@ -114,12 +114,12 @@ _图示：组合使用品牌名、产品和渠道关键词，精确查找友商�
 ### 2. 社交渠道 {#social-channels}
 
 - LinkedIn、Facebook 等社交媒体是获取客户信息和建立联系的宝贵渠道。
-- **行动点**：参考 📚[全球搜客引擎-LinkedIn](./global-search-engine#linkedin)，使用产品或行业关键词，在平台上搜索目标公司和关键决策人。
+- **行动点**：参考 📚[全球搜客引擎-LinkedIn](./global-search-engine#linkedin-search)，使用产品或行业关键词，在平台上搜索目标公司和关键决策人。
 
 ### 3. 商业数据 {#business-data}
 
 - 通过 ZoomInfo、D&B Hoovers 等专业的商业数据平台，可以获取详尽的公司信息。
-- **行动点**：参考 📚[全球搜客引擎-ZoomInfo](./global-search-engine#zoominfo)，使用产品关键词或行业分类进行搜索，并注意不同平台的行业定义以确保结果准确性。
+- **行动点**：参考 📚[全球搜客引擎-ZoomInfo](./global-search-engine#zoominfo-search)，使用产品关键词或行业分类进行搜索，并注意不同平台的行业定义以确保结果准确性。
 
 ### 4. 海关数据 {#customs-data}
 

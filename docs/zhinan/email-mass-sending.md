@@ -229,7 +229,7 @@ _图示：对任务中的客户进行批量打标签或再次发送邮件操作�
 
 - 如未设置回信邮箱，可在<u><span style={{color: '#e67c00'}}>系统中直接查看回信</span></u>。
   - 📧 **<span style={{color: '#e67c00'}}>查看邮件</span>** ：点击<span style={{color: '#3578e5'}}>【电子邮件】</span>，在<span style={{color: '#3578e5'}}>【收件箱】</span>中可以查看到<u><span style={{color: '#e67c00'}}>客户回信</span></u>，更多参照 👉 📚[**邮件列表**](./email-list)。
-  - 🔔 **<span style={{color: '#e67c00'}}>接收通知</span>** ：为能<u><span style={{color: '#e67c00'}}>及时收到邮件提醒</span></u>，参照 👉 📚[**开启通知**](./quick-start#enable-notifications)，开启 **<span style={{color: '#e67c00'}}>浏览器、邮件、微信通知</span>** 。
+  - 🔔 **<span style={{color: '#e67c00'}}>接收通知</span>** ：为能<u><span style={{color: '#e67c00'}}>及时收到邮件提醒</span></u>，参照 👉 📚[**开启通知**](./quick-start#enable-notifications-setup)，开启 **<span style={{color: '#e67c00'}}>浏览器、邮件、微信通知</span>** 。
 
 ![系统收信](https://cos.files.maozhishi.com/data/web/web-files/img/20240708235713.png)
 
@@ -475,7 +475,7 @@ _图示：预览邮件，检查变量替换是否正确。_
 #### ❓ 不设置回信邮箱客户回信去哪？ {#receive-emails-without-reply-email}
 
 > - 答：如果不设置回信邮箱，客户回信将如何处理？
-> - **<span style={{color: '#e67c00'}}>系统接收回信</span>** ：客户的回信将直接发送到我们的系统，并通过<u><span style={{color: '#e67c00'}}>邮件和微信通知您</span></u>，确保您能及时响应客户。 通知开启参照 👉 📚[快速开启 > **开启通知**](./quick-start#enable-notifications)。
+> - **<span style={{color: '#e67c00'}}>系统接收回信</span>** ：客户的回信将直接发送到我们的系统，并通过<u><span style={{color: '#e67c00'}}>邮件和微信通知您</span></u>，确保您能及时响应客户。 通知开启参照 👉 📚[快速开启 > **开启通知**](./quick-start#enable-notifications-setup)。
 > - **<span style={{color: '#e67c00'}}>提高到达率</span>** ：不设置回信邮箱减少了被识别的特征，从而提高了邮件的到达率，避免因特征明显而被拦截。
 > - **<span style={{color: '#e67c00'}}>保护个人邮箱</span>** ：这种方式还能有效保护您的个人邮箱，避免因频繁回信导致的封禁、列入spam黑名单或降权等问题。
 > - **<span style={{color: '#e67c00'}}>询盘率更高</span>** ：由于反垃圾邮件机制，使用<u><span style={{color: '#e67c00'}}>自己邮箱接收回信</span></u>时，客户<u><span style={{color: '#e67c00'}}>回信中包含的群发内容很容易被您的邮局拦截</span></u>，而我们的系统不会拦截这些回信，从而提高了询盘率。

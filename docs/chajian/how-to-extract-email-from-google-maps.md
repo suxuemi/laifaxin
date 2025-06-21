@@ -21,7 +21,7 @@ keywords: [谷歌地图, 谷歌地图邮箱, 提取邮箱, 批量搜客, 来发�
 
 ## 一、开启云端数据同步 {#enable-cloud-data-synchronization}
 
-- 📚 教程详见：[《云端同步与管理地图商家》- 开启云端数据同步](./cloud-synchronize-merchants-and-centralized-data-management#enable-cloud-data-synchronization)
+- 📚 教程详见：[《云端同步与管理地图商家》- 开启云端数据同步](./cloud-synchronize-merchants-and-centralized-data-management#view-cloud-data)
 
 ---
 
@@ -29,7 +29,7 @@ keywords: [谷歌地图, 谷歌地图邮箱, 提取邮箱, 批量搜客, 来发�
 
 ### 1. 查看地图云端数据 {#view-map-cloud-data}
 
-- 📚 教程详见：[《云端同步与管理地图商家》- 查看地图云端数据](./cloud-synchronize-merchants-and-centralized-data-management#view-map-cloud-data)
+- 📚 教程详见：[《云端同步与管理地图商家》- 查看地图云端数据](./cloud-synchronize-merchants-and-centralized-data-management#view-cloud-data)
 - **系统入口**：👉 [**<span style={{color: '#e67c00'}}>谷歌地图搜客</span>**](https://web.laifaxin.com/search/google-map)
 
 ### 2. 快速筛选目标商家 {#filter-target-businesses}

@@ -125,7 +125,7 @@ _图示："并且"与"或者"的筛选逻辑关系示意图。_
 
 ### 1. 排除特定地区 {#exclude-specific-areas}
 
-- **完整教程** 👉 📚[❌ 1️⃣ 排除特定地区](./efficient-filtering-section#exclude-specific-regions)
+- **完整教程** 👉 📚[❌ 1️⃣ 排除特定地区](./efficient-filtering-section#how-to-exclude-unwanted-regions)
 - 排除<u><span style={{color: '#e67c00'}}>中国</span></u>、<u><span style={{color: '#e67c00'}}>中国香港</span></u>、<u><span style={{color: '#e67c00'}}>中国台湾</span></u>、<u><span style={{color: '#e67c00'}}>中国澳门</span></u>、<u><span style={{color: '#e67c00'}}>印度</span></u>
 
 [![排除特定地区的筛选设置](https://cos.files.maozhishi.com/data/web/web-files/img/20240923164145.png)](https://cos.files.maozhishi.com/data/web/web-files/img/20240923164145.png)
@@ -134,7 +134,7 @@ _图示：筛选条件配置，用于排除多个指定国家或地区。_
 
 ### 2. 排除特定网站 {#exclude-specific-websites}
 
-- <u><span style={{color: '#e67c00'}}>网站标题</span></u>和<u><span style={{color: '#e67c00'}}>网站描述</span></u>不包含以下关键词，详解见 👉 📚[❌ 2⃣ 排除特定网站](./efficient-filtering-section#exclude-specific-websites)
+- <u><span style={{color: '#e67c00'}}>网站标题</span></u>和<u><span style={{color: '#e67c00'}}>网站描述</span></u>不包含以下关键词，详解见 👉 📚[❌ 2⃣ 排除特定网站](./efficient-filtering-section#how-to-exclude-irrelevant-website-types)
 
 ```
 news;videos;blog;B2B Database;business data;B2B data;digital marketing;trade databases;global trade;

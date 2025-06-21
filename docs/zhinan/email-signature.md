@@ -22,7 +22,7 @@ _图示：邮件签名功能主界面概览。_
 
 - 1️⃣ **<span style={{color: '#e67c00'}}>进入新建</span>**：点击右上角的 <span style={{color: '#3578e5'}}>【新建】</span> 打开 <u><span style={{color: '#e67c00'}}>新建个性签名</span></u> 弹窗。
 - 2️⃣ **<span style={{color: '#e67c00'}}>签名名称</span>**：针对签名的备注信息，方便您自己识别。
-- 3️⃣ **<span style={{color: '#e67c00'}}>默认签名</span>**：设置后，在 📚[写新邮件](./compose-new-email) 或 📚[回复/转发邮件](./email-list#reply-forward) 时将自动插入此签名。
+- 3️⃣ **<span style={{color: '#e67c00'}}>默认签名</span>**：设置后，在 📚[写新邮件](./compose-new-email) 或 📚[回复/转发邮件](./email-list#replying-and-forwarding-emails) 时将自动插入此签名。
 - 4️⃣ **<span style={{color: '#e67c00'}}>签名内容</span>**：和 📚[编辑邮件](./email-editing) 一样，您可以使用富文本编辑器正常进行内容编辑。
 
 ![新建个性签名弹窗](https://cos.files.maozhishi.com/data/web/web-files/img/20241025135654.png)
@@ -39,7 +39,7 @@ _图示：新建个性签名弹窗及各项设置。_
   > - 🌟 **<span style={{color: '#e67c00'}}>设置默认签名</span>**：您可以在 [<u><span style={{color: '#e67c00'}}>新建签名</span></u>](#create-signature) / [<u><span style={{color: '#e67c00'}}>编辑签名</span></u>](#edit-signature) 的弹窗中，或直接在 <u><span style={{color: '#e67c00'}}>签名列表</span></u> 中进行设置。
   > - 🌟 **<span style={{color: '#e67c00'}}>默认签名类型</span>**：
   >   - 1️⃣ **<span style={{color: '#e67c00'}}>新邮件签名</span>**：当您 📚[写新邮件](./compose-new-email) 时，系统会自动插入这个签名。
-  >   - 2️⃣ **<span style={{color: '#e67c00'}}>转发/回复签名</span>**：当您 📚[回复/转发邮件](./email-list#reply-forward) 时，系统会自动插入这个签名。
+  >   - 2️⃣ **<span style={{color: '#e67c00'}}>转发/回复签名</span>**：当您 📚[回复/转发邮件](./email-list#replying-and-forwarding-emails) 时，系统会自动插入这个签名。
 
 ![设置默认签名](https://cos.files.maozhishi.com/data/web/web-files/img/20241025141714.png)
 
@@ -66,6 +66,6 @@ _图示：设置不同类型的默认签名。_
 
 - 📚[邮件模板](./email-templates): 了解如何创建和使用<u><span style={{color: '#e67c00'}}>可重用</span></u>的邮件模板，结合<u><span style={{color: '#e67c00'}}>个性化签名</span></u>，极大提升邮件撰写效率。
 - 📚[撰写新邮件](./compose-new-email): 探索在撰写新邮件时，除了手动选择签名外，系统如何根据设置<u><span style={{color: '#e67c00'}}>自动应用默认签名</span></u>的完整流程。
-- 📚[邮件列表与操作](./email-list#reply-forward): 学习在回复或转发邮件时，<u><span style={{color: '#e67c00'}}>转发/回复签名</span></u>是如何被应用的，以及如何<u><span style={{color: '#e67c00'}}>快速切换</span></u>或<u><span style={{color: '#e67c00'}}>移除签名</span></u>。
+- 📚[邮件列表与操作](./email-list#replying-and-forwarding-emails): 学习在回复或转发邮件时，<u><span style={{color: '#e67c00'}}>转发/回复签名</span></u>是如何被应用的，以及如何<u><span style={{color: '#e67c00'}}>快速切换</span></u>或<u><span style={{color: '#e67c00'}}>移除签名</span></u>。
 
 🔗 **本文永久链接：** https://laifa.xin/zhinan/email-signature

@@ -40,7 +40,7 @@ _图示：种子客户开发流程图。_
 #### ① LinkedIn {#linkedin}
 
 :::tip
-我们通过 **LinkedIn** 渠道搜索种子客户，可参考 📚[全球搜客引擎使用指南](./global-search-engine#linkedin)。
+我们通过 **LinkedIn** 渠道搜索种子客户，可参考 📚[全球搜客引擎使用指南](./global-search-engine#linkedin-search)。
 
 - 1️⃣ 进入👉 [**<span style={{color: '#e67c00'}}>全球搜客引擎</span>**](https://web.laifaxin.com/search/domain-engine)，并选择渠道<u><span style={{color: '#e67c00'}}>LinkedIn</span></u>。
 - 2️⃣ 输入关键词<u><span style={{color: '#e67c00'}}>solar panel</span></u>，并勾选<u><span style={{color: '#e67c00'}}>精准搜客</span></u>。
@@ -54,7 +54,7 @@ _图示：使用LinkedIn搜索"solar panel"关键词的客户结果。_
 #### ② Zoominfo {#zoominfo}
 
 :::tip
-我们用过 **Zoominfo** 渠道搜索种子客户，可参考 📚[全球搜客引擎使用指南](./global-search-engine#zoominfo)。
+我们用过 **Zoominfo** 渠道搜索种子客户，可参考 📚[全球搜客引擎使用指南](./global-search-engine#zoominfo-search)。
 
 - 1️⃣ 进入👉 [**<span style={{color: '#e67c00'}}>全球搜客引擎</span>**](https://web.laifaxin.com/search/domain-engine)，并选择渠道<u><span style={{color: '#e67c00'}}>zoominfo</span></u>。
 - 2️⃣ 输入关键词<u><span style={{color: '#e67c00'}}>solar panel</span></u>，并勾选<u><span style={{color: '#e67c00'}}>精准搜客</span></u>。

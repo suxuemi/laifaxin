@@ -173,7 +173,7 @@ _图示：筛选结果。_
 - 👉 **怎样才能提高任务的初始准确率呢？**
   > 你可以看看我们另一篇更详细的指南 📚[**《6️⃣ 搜客实战》**](./search-practice-section)，里面有很多实用的技巧。简单来说，就是通过不断增加和优化你的搜索限制条件，让找到的客户越来越精准。这里有几个小要点提醒你：
   >
-  > - 1️⃣ **多用“并且”** ：在设置搜索条件时，多用 📚[**AND（且）** ](./basic-grammar-section#satisfy-all-conditions-and)逻辑 （意思是所有条件都要满足），少用 📚[**OR（或）**](./basic-grammar-section#satisfy-any-condition-or)逻辑 （意思是满足一个条件就行），这样范围更聚焦。
+  > - 1️⃣ **多用“并且”** ：在设置搜索条件时，多用 📚[**AND（且）** ](./basic-grammar-section#and-satisfy-all-conditions)逻辑 （意思是所有条件都要满足），少用 📚[**OR（或）**](./basic-grammar-section#or-satisfy-any-condition)逻辑 （意思是满足一个条件就行），这样范围更聚焦。
   > - 2️⃣ **语言要对应**：如果你要找<u><span style={{color: '#e67c00'}}>小语种国家的客户</span></u>，记得用他们当地的语言去搜索，并且最好不要用系统的<u><span style={{color: '#e67c00'}}>结果优化</span></u>功能，以免影响准确性。
   > - 3️⃣ **搜索时别用排除**：在创建搜索任务设置关键词的时候， **`千万不要用排除语法`** (比如在关键词前面加<u><span style={{color: '#e67c00'}}>-</span></u>号)。
   >   - 👉 **举个例子**：如果你搜产品词的时候写了<u><span style={{color: '#e67c00'}}>-news</span></u>，那么只要一个公司的网站里出现了<u><span style={{color: '#e67c00'}}>news</span></u>这个词（很多公司网站都有新闻版块），这个公司就可能被整个排除掉，太可惜了！所以，搜索的时候不要用排除。筛选归筛选，搜索归搜索。
@@ -459,7 +459,7 @@ _图示：网站描述排除设置。_
 _图示：域名后缀排除设置。_
 <br/>
 
-### 3. 如何排除不想干的网站类型？ {#how-to-exclude-irrelevant-website-types}
+### 3. 如何排除不相关的网站类型？ {#how-to-exclude-irrelevant-website-types}
 
 - **🤔 想一想**：有哪些类型的网站，虽然经常出现在搜索结果里，但它们肯定不是我们想要找的客户，而且它们通常有一些比较明显的特征词？
 

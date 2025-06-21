@@ -266,7 +266,7 @@ _图示：客户营销数据表中记录从ZoomInfo提取的特征词信息。_
 
 **例一：常规搜索 `Kayaks` (未限定页面)**
 
-在 Google 中搜索<u><span style={{color: '#e67c00'}}>Kayaks</span></u>时，<u><span style={{color: '#e67c00'}}>seabirddesigns.com</span></u>中会有**多个页面被关联**。 （可运用📚[site](./basic-grammar-section#search-specific-website-site)语法）
+在 Google 中搜索<u><span style={{color: '#e67c00'}}>Kayaks</span></u>时，<u><span style={{color: '#e67c00'}}>seabirddesigns.com</span></u>中会有**多个页面被关联**。 （可运用📚[site](./basic-grammar-section#site-specify-search-site)语法）
 ```
 <u><span style={{color: '#e67c00'}}>site:seabirddesigns.com</span></u> <u><span style={{color: '#e67c00'}}>Kayaks</span></u>
 ```
@@ -275,7 +275,7 @@ _图示：Google搜索 `site:seabirddesigns.com Kayaks` 的结果，显示多个
 
 **例二：限定 `about us` 页面搜索 `Kayaks`**
 
-如果我们限制只出现<u><span style={{color: '#e67c00'}}>about us</span></u>页面，写出新的语法 （可运用📚[intitle](./basic-grammar-section#precise-search-title-intitle) 和 📚[""](./basic-grammar-section#precise-search-results-double-quotes)语法）
+如果我们限制只出现<u><span style={{color: '#e67c00'}}>about us</span></u>页面，写出新的语法 （可运用📚[intitle](./basic-grammar-section#intitle-precise-search-title) 和 📚[""](./basic-grammar-section#double-quotes-for-exact-match)语法）
 ```
 <u><span style={{color: '#e67c00'}}>site:seabirddesigns.com</span></u> <u><span style={{color: '#e67c00'}}>Kayaks</span></u> <u><span style={{color: '#e67c00'}}>AND</span></u> <u><span style={{color: '#e67c00'}}>intitle:"about us"</span></u>
 ```
@@ -305,7 +305,7 @@ _图示：Google搜索 `site:seabirddesigns.com Kayaks AND intitle:"about us"` �
 _图示：Google直接搜索"Datenkabel"的结果，显示亚马逊等高权重网站多次出现。_
 
 **错误尝试：使用中文页面特征词**
-限制只出现中文的"关于我们"页面进行搜索（运用📚[intitle](./basic-grammar-section#precise-search-title-intitle)、📚[AND](./basic-grammar-section#satisfy-all-conditions-and)、📚[""](./basic-grammar-section#precise-search-results-double-quotes)语法）：
+限制只出现中文的"关于我们"页面进行搜索（运用📚[intitle](./basic-grammar-section#intitle-precise-search-title)、📚[AND](./basic-grammar-section#and-satisfy-all-conditions)、📚[""](./basic-grammar-section#double-quotes-for-exact-match)语法）：
 ```
 <u><span style={{color: '#e67c00'}}>Datenkabel</span></u> <u><span style={{color: '#e67c00'}}>AND</span></u> <u><span style={{color: '#e67c00'}}>intitle:"关于我们"</span></u>
 ```
@@ -315,7 +315,7 @@ _图示：Google直接搜索"Datenkabel"的结果，显示亚马逊等高权重�
 _图示：Google搜索 `Datenkabel AND intitle:"关于我们"` 的结果，因语言不匹配无结果。_
 
 **正确示例：使用德语页面特征词**
-将页面特征词换成德文 "Über uns"（同样运用📚[intitle](./basic-grammar-section#precise-search-title-intitle)、📚[AND](./basic-grammar-section#satisfy-all-conditions-and)、📚[""](./basic-grammar-section#precise-search-results-double-quotes)语法）：
+将页面特征词换成德文 "Über uns"（同样运用📚[intitle](./basic-grammar-section#intitle-precise-search-title)、📚[AND](./basic-grammar-section#and-satisfy-all-conditions)、📚[""](./basic-grammar-section#double-quotes-for-exact-match)语法）：
 ```
 <u><span style={{color: '#e67c00'}}>Datenkabel</span></u> <u><span style={{color: '#e67c00'}}>AND</span></u> <u><span style={{color: '#e67c00'}}>intitle:"Über uns"</span></u>
 ```
@@ -367,7 +367,7 @@ _图示：客户营销数据表中关于页面特征的记录方式。_
 _图示：页面特征信息的来源、标题和部分链接示例。_
  :::
  > - 5️⃣ **截图**：页面特征的截图,便于后续的快速查看。
-  >- 6️⃣ **页面公式**： 涉及5个语法： 📚[1️⃣ 标题包含（intitle）](./basic-grammar-section#precise-search-title-intitle)、📚[2️⃣ 链接包含（inurl）](./basic-grammar-section#precise-search-url-inurl)、📚[3️⃣ 且（AND）](./basic-grammar-section#satisfy-all-conditions-and)、📚[4️⃣ 或（OR / |）](./basic-grammar-section#satisfy-any-condition-or)、📚[5️⃣ 精确匹配（"")](./basic-grammar-section#precise-search-results-double-quotes)） 👉 根据情况确定使用 <u><span style={{color: '#e67c00'}}>AND</span></u>还是<u><span style={{color: '#e67c00'}}>OR</span></u>
+  >- 6️⃣ **页面公式**： 涉及5个语法： 📚[1️⃣ 标题包含（intitle）](./basic-grammar-section#intitle-precise-search-title)、📚[2️⃣ 链接包含（inurl）](./basic-grammar-section#inurl-precise-url-targeting)、📚[3️⃣ 且（AND）](./basic-grammar-section#and-satisfy-all-conditions)、📚[4️⃣ 或（OR / |）](./basic-grammar-section#or-satisfy-any-condition)、📚[5️⃣ 精确匹配（"")](./basic-grammar-section#double-quotes-for-exact-match)） 👉 根据情况确定使用 <u><span style={{color: '#e67c00'}}>AND</span></u>还是<u><span style={{color: '#e67c00'}}>OR</span></u>
 >>   - 🌟 <u><span style={{color: '#e67c00'}}>inurl:about-us | intitle:"About Us"</span></u> 为什么用OR？
  >>>  - 链接出现"about-us"或者页面标题是"about us",出现任一个都可确认是"关于我们"页面。
 >>  - 🌟 <u><span style={{color: '#e67c00'}}>inurl:experience AND intitle:"Experience"</span></u> 为什么要用AND?

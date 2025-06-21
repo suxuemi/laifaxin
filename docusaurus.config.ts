@@ -107,6 +107,10 @@ const config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+    tableOfContents: {
+      minHeadingLevel: 2,
+      maxHeadingLevel: 4,
+    },
     zoom: { // 添加 zoom 配置
       selector: '.markdown img', //  CSS 选择器，用于指定哪些图片应用缩放效果
       background: {
@@ -278,9 +282,11 @@ const config = {
         },
         // {to: '/blog', label: 'Blog', position: 'left'}, // 注释掉博客链接
         {
-          href: 'https://web.laifaxin.com/',
+          href: '/reg',
           label: '注册',
           position: 'right',
+          target: '_blank',
+          rel: 'noopener noreferrer',
         },
         {
           type: 'dropdown',
