@@ -3,7 +3,8 @@ title: ✨ 如何将谷歌地图界面语言显示为英文？
 id: how-to-display-google-maps-interface-language-as-english
 description: 本指南详细介绍了如何通过修改谷歌地图URL中的"hl"参数，将界面语言切换为英文或其他任何支持的语言，以辅助进行精准的客户特征分析。
 tags: [谷歌地图, 界面语言, 切换语言, 英文显示, hl参数, 数据分析]
-keywords: [谷歌地图, 谷歌地图语言, hl参数, 切换英文, Google Maps language, host language, URL parameter]
+keywords:
+  [谷歌地图, 谷歌地图语言, hl参数, 切换英文, Google Maps language, host language, URL parameter]
 ---
 
 # ✨ 如何将谷歌地图界面语言设为英文？
@@ -30,58 +31,58 @@ keywords: [谷歌地图, 谷歌地图语言, hl参数, 切换英文, Google Maps
 
 **<span style={{color: '#e67c00'}}>谷歌地图</span>** 支持超过70种语言。下表列出了部分常用语言及其对应的 <u><span style={{color: '#e67c00'}}>hl</span></u> 参数值。
 
-| 显示语言 | hl 参数值 |
-|:---:|:---:|
+|   显示语言   |                      hl 参数值                       |
+| :----------: | :--------------------------------------------------: |
 | 中文（简体） | <u><span style={{color: '#e67c00'}}>zh-CN</span></u> |
-| 英文 | <u><span style={{color: '#e67c00'}}>en</span></u> |
-| 法语 | <u><span style={{color: '#e67c00'}}>fr</span></u> |
-| 德语 | <u><span style={{color: '#e67c00'}}>de</span></u> |
-| 日语 | <u><span style={{color: '#e67c00'}}>ja</span></u> |
-| 西班牙语 | <u><span style={{color: '#e67c00'}}>es</span></u> |
-| 俄语 | <u><span style={{color: '#e67c00'}}>ru</span></u> |
-| 阿拉伯语 | <u><span style={{color: '#e67c00'}}>ar</span></u> |
+|     英文     |  <u><span style={{color: '#e67c00'}}>en</span></u>   |
+|     法语     |  <u><span style={{color: '#e67c00'}}>fr</span></u>   |
+|     德语     |  <u><span style={{color: '#e67c00'}}>de</span></u>   |
+|     日语     |  <u><span style={{color: '#e67c00'}}>ja</span></u>   |
+|   西班牙语   |  <u><span style={{color: '#e67c00'}}>es</span></u>   |
+|     俄语     |  <u><span style={{color: '#e67c00'}}>ru</span></u>   |
+|   阿拉伯语   |  <u><span style={{color: '#e67c00'}}>ar</span></u>   |
 
 💡 **查看完整语言列表**
 
-| 显示语言 | hl参数值 | 显示语言 | hl参数值 |
-|:---|:---|:---|:---|
-| 南非荷兰语 | <u><span style={{color: '#e67c00'}}>af</span></u> | 阿尔巴尼亚语 | <u><span style={{color: '#e67c00'}}>sq</span></u> |
-| 阿姆哈拉语 | <u><span style={{color: '#e67c00'}}>am</span></u> | 阿拉伯语 | <u><span style={{color: '#e67c00'}}>ar</span></u> |
-| 亚美尼亚语 | <u><span style={{color: '#e67c00'}}>hy</span></u> | 阿塞拜疆语 | <u><span style={{color: '#e67c00'}}>az</span></u> |
-| 孟加拉语 | <u><span style={{color: '#e67c00'}}>bn</span></u> | 保加利亚语 | <u><span style={{color: '#e67c00'}}>bg</span></u> |
-| 缅甸语 | <u><span style={{color: '#e67c00'}}>my</span></u> | 加泰罗尼亚语 | <u><span style={{color: '#e67c00'}}>ca</span></u> |
-| 中文（简体） | <u><span style={{color: '#e67c00'}}>zh-CN</span></u> | 中文（繁体） | <u><span style={{color: '#e67c00'}}>zh-TW</span></u> |
-| 捷克语 | <u><span style={{color: '#e67c00'}}>cs</span></u> | 丹麦语 | <u><span style={{color: '#e67c00'}}>da</span></u> |
-| 荷兰语 | <u><span style={{color: '#e67c00'}}>nl</span></u> | 英语（英国） | <u><span style={{color: '#e67c00'}}>en-GB</span></u> |
-| 英语 | <u><span style={{color: '#e67c00'}}>en</span></u> | 爱沙尼亚语 | <u><span style={{color: '#e67c00'}}>et</span></u> |
-| 菲律宾语 | <u><span style={{color: '#e67c00'}}>fil</span></u> | 芬兰语 | <u><span style={{color: '#e67c00'}}>fi</span></u> |
-| 法语（加拿大） | <u><span style={{color: '#e67c00'}}>fr-CA</span></u> | 法语 | <u><span style={{color: '#e67c00'}}>fr</span></u> |
-| 格鲁吉亚语 | <u><span style={{color: '#e67c00'}}>ka</span></u> | 德语 | <u><span style={{color: '#e67c00'}}>de</span></u> |
-| 希腊语 | <u><span style={{color: '#e67c00'}}>el</span></u> | 古吉拉特语 | <u><span style={{color: '#e67c00'}}>gu</span></u> |
-| 希伯来语 | <u><span style={{color: '#e67c00'}}>iw</span></u> | 印地语 | <u><span style={{color: '#e67c00'}}>hi</span></u> |
-| 匈牙利语 | <u><span style={{color: '#e67c00'}}>hu</span></u> | 冰岛语 | <u><span style={{color: '#e67c00'}}>is</span></u> |
-| 印度尼西亚语 | <u><span style={{color: '#e67c00'}}>id</span></u> | 意大利语 | <u><span style={{color: '#e67c00'}}>it</span></u> |
-| 日语 | <u><span style={{color: '#e67c00'}}>ja</span></u> | 卡纳达语 | <u><span style={{color: '#e67c00'}}>kn</span></u> |
-| 哈萨克语 | <u><span style={{color: '#e67c00'}}>kk</span></u> | 高棉语 | <u><span style={{color: '#e67c00'}}>km</span></u> |
-| 韩语 | <u><span style={{color: '#e67c00'}}>ko</span></u> | 吉尔吉斯语 | <u><span style={{color: '#e67c00'}}>ky</span></u> |
-| 老挝语 | <u><span style={{color: '#e67c00'}}>lo</span></u> | 拉脱维亚语 | <u><span style={{color: '#e67c00'}}>lv</span></u> |
-| 立陶宛语 | <u><span style={{color: '#e67c00'}}>lt</span></u> | 马其顿语 | <u><span style={{color: '#e67c00'}}>mk</span></u> |
-| 马来语 | <u><span style={{color: '#e67c00'}}>ms</span></u> | 马拉雅拉姆语 | <u><span style={{color: '#e67c00'}}>ml</span></u> |
-| 马拉地语 | <u><span style={{color: '#e67c00'}}>mr</span></u> | 蒙古语 | <u><span style={{color: '#e67c00'}}>mn</span></u> |
-| 尼泊尔语 | <u><span style={{color: '#e67c00'}}>ne</span></u> | 挪威语 | <u><span style={{color: '#e67c00'}}>no</span></u> |
-| 波斯语 | <u><span style={{color: '#e67c00'}}>fa</span></u> | 波兰语 | <u><span style={{color: '#e67c00'}}>pl</span></u> |
-| 葡萄牙语（巴西） | <u><span style={{color: '#e67c00'}}>pt-BR</span></u> | 葡萄牙语（葡萄牙） | <u><span style={{color: '#e67c00'}}>pt-PT</span></u> |
-| 旁遮普语 | <u><span style={{color: '#e67c00'}}>pa</span></u> | 罗马尼亚语 | <u><span style={{color: '#e67c00'}}>ro</span></u> |
-| 俄语 | <u><span style={{color: '#e67c00'}}>ru</span></u> | 塞尔维亚语 | <u><span style={{color: '#e67c00'}}>sr</span></u> |
-| 塞尔维亚语 (拉丁) | <u><span style={{color: '#e67c00'}}>sr-Latn</span></u> | 僧伽罗语 | <u><span style={{color: '#e67c00'}}>si</span></u> |
-| 斯洛伐克语 | <u><span style={{color: '#e67c00'}}>sk</span></u> | 斯洛文尼亚语 | <u><span style={{color: '#e67c00'}}>sl</span></u> |
-| 西班牙语 | <u><span style={{color: '#e67c00'}}>es</span></u> | 西班牙语 (拉丁美洲) | <u><span style={{color: '#e67c00'}}>es-419</span></u> |
-| 斯瓦希里语 | <u><span style={{color: '#e67c00'}}>sw</span></u> | 瑞典语 | <u><span style={{color: '#e67c00'}}>sv</span></u> |
-| 泰米尔语 | <u><span style={{color: '#e67c00'}}>ta</span></u> | 泰卢固语 | <u><span style={{color: '#e67c00'}}>te</span></u> |
-| 泰语 | <u><span style={{color: '#e67c00'}}>th</span></u> | 土耳其语 | <u><span style={{color: '#e67c00'}}>tr</span></u> |
-| 乌克兰语 | <u><span style={{color: '#e67c00'}}>uk</span></u> | 乌尔都语 | <u><span style={{color: '#e67c00'}}>ur</span></u> |
-| 乌兹别克语 | <u><span style={{color: '#e67c00'}}>uz</span></u> | 越南语 | <u><span style={{color: '#e67c00'}}>vi</span></u> |
-| 威尔士语 | <u><span style={{color: '#e67c00'}}>cy</span></u> | | |
+| 显示语言          | hl参数值                                               | 显示语言            | hl参数值                                              |
+| :---------------- | :----------------------------------------------------- | :------------------ | :---------------------------------------------------- |
+| 南非荷兰语        | <u><span style={{color: '#e67c00'}}>af</span></u>      | 阿尔巴尼亚语        | <u><span style={{color: '#e67c00'}}>sq</span></u>     |
+| 阿姆哈拉语        | <u><span style={{color: '#e67c00'}}>am</span></u>      | 阿拉伯语            | <u><span style={{color: '#e67c00'}}>ar</span></u>     |
+| 亚美尼亚语        | <u><span style={{color: '#e67c00'}}>hy</span></u>      | 阿塞拜疆语          | <u><span style={{color: '#e67c00'}}>az</span></u>     |
+| 孟加拉语          | <u><span style={{color: '#e67c00'}}>bn</span></u>      | 保加利亚语          | <u><span style={{color: '#e67c00'}}>bg</span></u>     |
+| 缅甸语            | <u><span style={{color: '#e67c00'}}>my</span></u>      | 加泰罗尼亚语        | <u><span style={{color: '#e67c00'}}>ca</span></u>     |
+| 中文（简体）      | <u><span style={{color: '#e67c00'}}>zh-CN</span></u>   | 中文（繁体）        | <u><span style={{color: '#e67c00'}}>zh-TW</span></u>  |
+| 捷克语            | <u><span style={{color: '#e67c00'}}>cs</span></u>      | 丹麦语              | <u><span style={{color: '#e67c00'}}>da</span></u>     |
+| 荷兰语            | <u><span style={{color: '#e67c00'}}>nl</span></u>      | 英语（英国）        | <u><span style={{color: '#e67c00'}}>en-GB</span></u>  |
+| 英语              | <u><span style={{color: '#e67c00'}}>en</span></u>      | 爱沙尼亚语          | <u><span style={{color: '#e67c00'}}>et</span></u>     |
+| 菲律宾语          | <u><span style={{color: '#e67c00'}}>fil</span></u>     | 芬兰语              | <u><span style={{color: '#e67c00'}}>fi</span></u>     |
+| 法语（加拿大）    | <u><span style={{color: '#e67c00'}}>fr-CA</span></u>   | 法语                | <u><span style={{color: '#e67c00'}}>fr</span></u>     |
+| 格鲁吉亚语        | <u><span style={{color: '#e67c00'}}>ka</span></u>      | 德语                | <u><span style={{color: '#e67c00'}}>de</span></u>     |
+| 希腊语            | <u><span style={{color: '#e67c00'}}>el</span></u>      | 古吉拉特语          | <u><span style={{color: '#e67c00'}}>gu</span></u>     |
+| 希伯来语          | <u><span style={{color: '#e67c00'}}>iw</span></u>      | 印地语              | <u><span style={{color: '#e67c00'}}>hi</span></u>     |
+| 匈牙利语          | <u><span style={{color: '#e67c00'}}>hu</span></u>      | 冰岛语              | <u><span style={{color: '#e67c00'}}>is</span></u>     |
+| 印度尼西亚语      | <u><span style={{color: '#e67c00'}}>id</span></u>      | 意大利语            | <u><span style={{color: '#e67c00'}}>it</span></u>     |
+| 日语              | <u><span style={{color: '#e67c00'}}>ja</span></u>      | 卡纳达语            | <u><span style={{color: '#e67c00'}}>kn</span></u>     |
+| 哈萨克语          | <u><span style={{color: '#e67c00'}}>kk</span></u>      | 高棉语              | <u><span style={{color: '#e67c00'}}>km</span></u>     |
+| 韩语              | <u><span style={{color: '#e67c00'}}>ko</span></u>      | 吉尔吉斯语          | <u><span style={{color: '#e67c00'}}>ky</span></u>     |
+| 老挝语            | <u><span style={{color: '#e67c00'}}>lo</span></u>      | 拉脱维亚语          | <u><span style={{color: '#e67c00'}}>lv</span></u>     |
+| 立陶宛语          | <u><span style={{color: '#e67c00'}}>lt</span></u>      | 马其顿语            | <u><span style={{color: '#e67c00'}}>mk</span></u>     |
+| 马来语            | <u><span style={{color: '#e67c00'}}>ms</span></u>      | 马拉雅拉姆语        | <u><span style={{color: '#e67c00'}}>ml</span></u>     |
+| 马拉地语          | <u><span style={{color: '#e67c00'}}>mr</span></u>      | 蒙古语              | <u><span style={{color: '#e67c00'}}>mn</span></u>     |
+| 尼泊尔语          | <u><span style={{color: '#e67c00'}}>ne</span></u>      | 挪威语              | <u><span style={{color: '#e67c00'}}>no</span></u>     |
+| 波斯语            | <u><span style={{color: '#e67c00'}}>fa</span></u>      | 波兰语              | <u><span style={{color: '#e67c00'}}>pl</span></u>     |
+| 葡萄牙语（巴西）  | <u><span style={{color: '#e67c00'}}>pt-BR</span></u>   | 葡萄牙语（葡萄牙）  | <u><span style={{color: '#e67c00'}}>pt-PT</span></u>  |
+| 旁遮普语          | <u><span style={{color: '#e67c00'}}>pa</span></u>      | 罗马尼亚语          | <u><span style={{color: '#e67c00'}}>ro</span></u>     |
+| 俄语              | <u><span style={{color: '#e67c00'}}>ru</span></u>      | 塞尔维亚语          | <u><span style={{color: '#e67c00'}}>sr</span></u>     |
+| 塞尔维亚语 (拉丁) | <u><span style={{color: '#e67c00'}}>sr-Latn</span></u> | 僧伽罗语            | <u><span style={{color: '#e67c00'}}>si</span></u>     |
+| 斯洛伐克语        | <u><span style={{color: '#e67c00'}}>sk</span></u>      | 斯洛文尼亚语        | <u><span style={{color: '#e67c00'}}>sl</span></u>     |
+| 西班牙语          | <u><span style={{color: '#e67c00'}}>es</span></u>      | 西班牙语 (拉丁美洲) | <u><span style={{color: '#e67c00'}}>es-419</span></u> |
+| 斯瓦希里语        | <u><span style={{color: '#e67c00'}}>sw</span></u>      | 瑞典语              | <u><span style={{color: '#e67c00'}}>sv</span></u>     |
+| 泰米尔语          | <u><span style={{color: '#e67c00'}}>ta</span></u>      | 泰卢固语            | <u><span style={{color: '#e67c00'}}>te</span></u>     |
+| 泰语              | <u><span style={{color: '#e67c00'}}>th</span></u>      | 土耳其语            | <u><span style={{color: '#e67c00'}}>tr</span></u>     |
+| 乌克兰语          | <u><span style={{color: '#e67c00'}}>uk</span></u>      | 乌尔都语            | <u><span style={{color: '#e67c00'}}>ur</span></u>     |
+| 乌兹别克语        | <u><span style={{color: '#e67c00'}}>uz</span></u>      | 越南语              | <u><span style={{color: '#e67c00'}}>vi</span></u>     |
+| 威尔士语          | <u><span style={{color: '#e67c00'}}>cy</span></u>      |                     |                                                       |
 
 ---
 
@@ -137,10 +138,11 @@ _图示：切换到英文界面后，获得更原生的分类名称。_
 ### 1. 常见问题
 
 - **❓ 为什么要切换到英文或其他当地语言？**
-> - 答：为了更准确地分析客户在其本地市场中的 **<span style={{color: '#8e44ad'}}>商家名称</span>** 和 **<span style={{color: '#8e44ad'}}>分类</span>** 特征。使用客户的母语或通用的英语可以避免翻译误差，发现更地道的关键词。
+
+  > - 答：为了更准确地分析客户在其本地市场中的 **<span style={{color: '#8e44ad'}}>商家名称</span>** 和 **<span style={{color: '#8e44ad'}}>分类</span>** 特征。使用客户的母语或通用的英语可以避免翻译误差，发现更地道的关键词。
 
 - **❓ 修改语言会影响搜索到的商家列表吗？**
-> - 答：通常不会影响搜索到的商家本身，但会改变商家 **<span style={{color: '#8e44ad'}}>分类</span>**、**<span style={{color: '#8e44ad'}}>界面按钮</span>** 和 **<span style={{color: '#8e44ad'}}>提示信息</span>** 的显示语言，这对于理解和分析数据至关重要。
+  > - 答：通常不会影响搜索到的商家本身，但会改变商家 **<span style={{color: '#8e44ad'}}>分类</span>**、**<span style={{color: '#8e44ad'}}>界面按钮</span>** 和 **<span style={{color: '#8e44ad'}}>提示信息</span>** 的显示语言，这对于理解和分析数据至关重要。
 
 ### 2. 学习建议
 

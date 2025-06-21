@@ -16,24 +16,24 @@ keywords: ['个人邮箱', '邮箱设置', 'Gmail', 'Outlook', 'Yahoo Mail', 'QQ
 
 下表列出了支持的邮箱服务商。请特别留意 **<span style={{color: '#8e44ad'}}>密码类型</span>** 一列，它是成功配置的关键。不同邮箱的要求不同，有的需要您在邮箱官网生成专用的“授权码”或“应用密码”。
 
-| **邮箱服务商** | **配置指南** | **密码类型** |
-| --- | --- | --- |
-| [谷歌邮箱（@gmail.com）](https://mail.google.com/) | 📚[进入查看](/youxiang/101-guge-gmailyouxiang-google-personal-email) | 应用专用密码 |
-| [雅虎邮箱（@yahoo.com）](https://mail.yahoo.com/) | 📚[进入查看](/youxiang/102-yahu-yahooyouxiang-yahoo-personal-mailbox) | 应用程式密码 |
-| [阿里邮箱（@aliyun.com）](https://mail.aliyun.com/) | 📚[进入查看](/youxiang/103-ali-aliyunyouxiang-ali-personal-email) | 登录密码 |
-| [电信邮箱（@189.cn）](https://webmail30.189.cn/w2/) | 📚[进入查看](/youxiang/104-dianxin-189youxiang-telecom-personal-mailbox) | 登录密码 |
-| [搜狐邮箱（@sohu.com）](https://mail.sohu.com/) | 📚[进入查看](/youxiang/105-souhu-sohuyouxiang-sohu-personal-email) | 独立密码 |
-| [腾讯邮箱（@qq.com/@foxmail.com）](http://mail.qq.com/) | 📚[进入查看](/youxiang/106-tengxun-qqyouxiang-tencent-personal-email) | 授权码 |
-| [网易邮箱（@163.com/@126.com/@yeah.net/@188.com）](https://mail.163.com/) | 📚[进入查看](/youxiang/107-wangyi-163youxiang-netease-personal-email) | 授权码 |
-| [微软邮箱（@outlook.com/@hotmail.com）](https://outlook.com/) | 📚[进入查看](/youxiang/108-weiruan-outlookyouxiang-microsoft-personal-email) | 应用密码 |
-| [新浪邮箱（@sina.com/@sina.cn）](https://mail.sina.com.cn/) | 📚[进入查看](/youxiang/109-xinlang-sinayouxiang-sina-personal-email) | 授权码 |
-| [移动邮箱（@139.com）](http://mail.10086.cn/) | 📚[进入查看](/youxiang/110-yidong-139youxiang-china-mobile-personal-email) | 授权码 |
-| [电信邮箱（@21cn.com）](https://mail.21cn.com/w2/) | 📚[进入查看](/youxiang/111-dianxin-21cnyouxiang-telecom-personal-mailbox) | 登录密码 |
-| [完美邮箱（@88.com/@111.com/email.cn）](https://mail.88.com/) | 📚[进入查看](/youxiang/112-wanmei-88youxiang-perfect-personal-mailbox) | 专用密码 |
-| [苹果邮箱（@icloud.com）](https://www.icloud.com/mail) | 📚[进入查看](/youxiang/113-pingguo-icloudyouxiang-apple-personal-email) | 专用密码 |
-| [AOL邮箱（@aol.com）](https://mail.aol.com/) | 📚[进入查看](/youxiang/114-aol-aolyouxiang-aol-personal-email) | app密码 |
-| [Yandex邮箱（@yandex.com）](https://mail.yandex.com/) | 📚[进入查看](/youxiang/115-yandex-yandexyouxiang-yandex-personal-email) | 应用密码 |
-| [mail.ru邮箱(@mail.ru)](https://mail.ru/) | 📚[进入查看](/youxiang/116-mailru-mailyouxiang-mail-personal-email) | 应用程序密码 |
+| **邮箱服务商**                                                            | **配置指南**                                                                 | **密码类型** |
+| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------ |
+| [谷歌邮箱（@gmail.com）](https://mail.google.com/)                        | 📚[进入查看](/youxiang/101-guge-gmailyouxiang-google-personal-email)         | 应用专用密码 |
+| [雅虎邮箱（@yahoo.com）](https://mail.yahoo.com/)                         | 📚[进入查看](/youxiang/102-yahu-yahooyouxiang-yahoo-personal-mailbox)        | 应用程式密码 |
+| [阿里邮箱（@aliyun.com）](https://mail.aliyun.com/)                       | 📚[进入查看](/youxiang/103-ali-aliyunyouxiang-ali-personal-email)            | 登录密码     |
+| [电信邮箱（@189.cn）](https://webmail30.189.cn/w2/)                       | 📚[进入查看](/youxiang/104-dianxin-189youxiang-telecom-personal-mailbox)     | 登录密码     |
+| [搜狐邮箱（@sohu.com）](https://mail.sohu.com/)                           | 📚[进入查看](/youxiang/105-souhu-sohuyouxiang-sohu-personal-email)           | 独立密码     |
+| [腾讯邮箱（@qq.com/@foxmail.com）](http://mail.qq.com/)                   | 📚[进入查看](/youxiang/106-tengxun-qqyouxiang-tencent-personal-email)        | 授权码       |
+| [网易邮箱（@163.com/@126.com/@yeah.net/@188.com）](https://mail.163.com/) | 📚[进入查看](/youxiang/107-wangyi-163youxiang-netease-personal-email)        | 授权码       |
+| [微软邮箱（@outlook.com/@hotmail.com）](https://outlook.com/)             | 📚[进入查看](/youxiang/108-weiruan-outlookyouxiang-microsoft-personal-email) | 应用密码     |
+| [新浪邮箱（@sina.com/@sina.cn）](https://mail.sina.com.cn/)               | 📚[进入查看](/youxiang/109-xinlang-sinayouxiang-sina-personal-email)         | 授权码       |
+| [移动邮箱（@139.com）](http://mail.10086.cn/)                             | 📚[进入查看](/youxiang/110-yidong-139youxiang-china-mobile-personal-email)   | 授权码       |
+| [电信邮箱（@21cn.com）](https://mail.21cn.com/w2/)                        | 📚[进入查看](/youxiang/111-dianxin-21cnyouxiang-telecom-personal-mailbox)    | 登录密码     |
+| [完美邮箱（@88.com/@111.com/email.cn）](https://mail.88.com/)             | 📚[进入查看](/youxiang/112-wanmei-88youxiang-perfect-personal-mailbox)       | 专用密码     |
+| [苹果邮箱（@icloud.com）](https://www.icloud.com/mail)                    | 📚[进入查看](/youxiang/113-pingguo-icloudyouxiang-apple-personal-email)      | 专用密码     |
+| [AOL邮箱（@aol.com）](https://mail.aol.com/)                              | 📚[进入查看](/youxiang/114-aol-aolyouxiang-aol-personal-email)               | app密码      |
+| [Yandex邮箱（@yandex.com）](https://mail.yandex.com/)                     | 📚[进入查看](/youxiang/115-yandex-yandexyouxiang-yandex-personal-email)      | 应用密码     |
+| [mail.ru邮箱(@mail.ru)](https://mail.ru/)                                 | 📚[进入查看](/youxiang/116-mailru-mailyouxiang-mail-personal-email)          | 应用程序密码 |
 
 ---
 
@@ -41,14 +41,16 @@ keywords: ['个人邮箱', '邮箱设置', 'Gmail', 'Outlook', 'Yahoo Mail', 'QQ
 
 ### 常见问题 {#faq}
 
-- **❓ 我需要提供邮箱密码吗？“来发信”如何保证我的账户安全？** 
-> - 答：是的，连接邮箱需要提供密码或授权码。👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com) **高度重视您的账户安全** 。您的密码信息在传输和存储过程中均经过 **高强度加密** ，且仅用于邮箱的同步和收发，绝不会泄露或用于其他目的。对于支持的服务商，我们强烈建议使用 <u><span style={{color: '#e67c00'}}>授权码</span></u> 或 <u><span style={{color: '#e67c00'}}>应用密码</span></u>，这比直接使用登录密码更安全。
+- **❓ 我需要提供邮箱密码吗？“来发信”如何保证我的账户安全？**
 
-- **❓ 什么是“应用专用密码”或“授权码”？** 
-> - 答：这是一种安全增强措施。它不是您的主登录密码，而是一个您在邮箱官方网站为 👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com) 这类第三方应用生成的 **<span style={{color: '#8e44ad'}}>独立密码</span>**。使用它，您无需透露自己的主密码，既能保证账户安全，又能让应用正常访问您的邮箱。
+  > - 答：是的，连接邮箱需要提供密码或授权码。👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com) **高度重视您的账户安全** 。您的密码信息在传输和存储过程中均经过 **高强度加密** ，且仅用于邮箱的同步和收发，绝不会泄露或用于其他目的。对于支持的服务商，我们强烈建议使用 <u><span style={{color: '#e67c00'}}>授权码</span></u> 或 <u><span style={{color: '#e67c00'}}>应用密码</span></u>，这比直接使用登录密码更安全。
 
-- **❓ 如果我的邮箱服务商不在此列表中怎么办？** 
-> - 答：别担心！您可以尝试使用通用的 <u><span style={{color: '#e67c00'}}>IMAP/SMTP</span></u> 方式手动配置。这是一种允许邮件应用（如 👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com)）与您的邮箱服务器通信的 **<span style={{color: '#8e44ad'}}>标准协议</span>**。如果配置失败，请随时 📚[联系我们](../zhinan/contact-us)，我们很乐意为您提供帮助。
+- **❓ 什么是“应用专用密码”或“授权码”？**
+
+  > - 答：这是一种安全增强措施。它不是您的主登录密码，而是一个您在邮箱官方网站为 👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com) 这类第三方应用生成的 **<span style={{color: '#8e44ad'}}>独立密码</span>**。使用它，您无需透露自己的主密码，既能保证账户安全，又能让应用正常访问您的邮箱。
+
+- **❓ 如果我的邮箱服务商不在此列表中怎么办？**
+  > - 答：别担心！您可以尝试使用通用的 <u><span style={{color: '#e67c00'}}>IMAP/SMTP</span></u> 方式手动配置。这是一种允许邮件应用（如 👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com)）与您的邮箱服务器通信的 **<span style={{color: '#8e44ad'}}>标准协议</span>**。如果配置失败，请随时 📚[联系我们](../zhinan/contact-us)，我们很乐意为您提供帮助。
 
 ### 学习建议 {#learning-suggestions}
 
@@ -64,4 +66,3 @@ keywords: ['个人邮箱', '邮箱设置', 'Gmail', 'Outlook', 'Yahoo Mail', 'QQ
   - 了解如何管理已连接邮箱的 **<span style={{color: '#8e44ad'}}>邮件同步</span>** 状态，包括暂停、编辑和删除邮箱账号，确保您的收件箱始终保持最新。
 
 🔗 **本文永久链接：** https://laifa.xin/youxiang/100-gerenyouxiang-personal-mailbox
-

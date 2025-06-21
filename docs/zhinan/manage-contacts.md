@@ -13,11 +13,12 @@ keywords: [联系人, 客户管理, CRM, 标签, 视图, 邮件群发, 数据分
 > **功能入口**：[https://web.laifaxin.com/contacts/contacts](https://web.laifaxin.com/contacts/contacts)
 
 :::tip
+
 - **重要提醒**：
   - 1️⃣ 开始之前，建议先了解 📚[**标签与视图**](./contacts-tags-views)，它将帮助您有序地管理海量客户。
   - 2️⃣ 联系人依赖外部导入或搜客保存，请参照 📚[**客户搜索**](./customer-search) 与 📚[**添加联系人**](./add-contacts)。
   - 3️⃣ 想要 **营销您的客户**，请参照 📚[**邮件群发**](./email-mass-sending)。
-:::
+    :::
 
 ## 一、界面概览 {#interface-preview}
 
@@ -155,10 +156,11 @@ _图示：联系人详情面板下方的多功能标签页，包括写跟进、�
 
 :::tip
 批量管理通常遵循三步流程：
+
 - 1️⃣ **筛选**：通过条件筛选出目标客户群体，例如 <span style={{color: '#3578e5'}}>邮箱有效</span> 的客户。
 - 2️⃣ **选择**：勾选希望操作的联系人。
 - 3️⃣ **操作**：执行批量操作，如 <span style={{color: '#3578e5'}}>【验证】</span>、<span style={{color: '#3578e5'}}>【群发】</span> 等。
-:::
+  :::
 
 ### 1. 筛选联系人 {#filter-contacts}
 

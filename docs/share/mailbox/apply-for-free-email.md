@@ -33,17 +33,22 @@ keywords:
 
 我们为你推荐以下几个主流的选择：
 
--   **🎯 谷歌邮箱 (Gmail)** 
-    > 全球通用，功能强大，与众多外贸工具无缝集成，是外贸人的 **<span style={{color: '#e67c00'}}>首选</span>** 。
-    > - 📚 [申请教程](../../youxiang/101-guge-gmailyouxiang-google-personal-email)
+- **🎯 谷歌邮箱 (Gmail)**
 
--   **🎯 微软邮箱 (Outlook)** 
-    > 界面简洁，商务感强，收发邮件稳定可靠，是另一个非常不错的专业选择。
-    > - 📚 [申请教程](../../youxiang/108-weiruan-outlookyouxiang-microsoft-personal-email)
+  > 全球通用，功能强大，与众多外贸工具无缝集成，是外贸人的 **<span style={{color: '#e67c00'}}>首选</span>** 。
+  >
+  > - 📚 [申请教程](../../youxiang/101-guge-gmailyouxiang-google-personal-email)
 
--   **🎯 雅虎邮箱 (Yahoo Mail)** 
-    > 经典的老牌邮箱，拥有海量用户，功能和服务都非常成熟。
-    > - 📚 [申请教程](../../youxiang/102-yahu-yahooyouxiang-yahoo-personal-mailbox)
+- **🎯 微软邮箱 (Outlook)**
+
+  > 界面简洁，商务感强，收发邮件稳定可靠，是另一个非常不错的专业选择。
+  >
+  > - 📚 [申请教程](../../youxiang/108-weiruan-outlookyouxiang-microsoft-personal-email)
+
+- **🎯 雅虎邮箱 (Yahoo Mail)**
+  > 经典的老牌邮箱，拥有海量用户，功能和服务都非常成熟。
+  >
+  > - 📚 [申请教程](../../youxiang/102-yahu-yahooyouxiang-yahoo-personal-mailbox)
 
 ---
 
@@ -55,10 +60,10 @@ keywords:
 
 ### 1. Lark (飞书海外版) {#lark-free-enterprise-email}
 
--   **💡 核心优势**：特别适合刚起步的SOHO或小团队，不仅邮箱免费，还带一些简单的客户管理功能，性价比超高。
--   **✅ 免费福利**：100G 超大容量、每天 450 封发信额度、20 个共享邮箱。
--   **🔗 官网地址**：[https://www.larksuite.com](https://www.larksuite.com)
--   📚 [**手把手教你申请（附详细图文）**](./free-enterprise-email-larksuite)
+- **💡 核心优势**：特别适合刚起步的SOHO或小团队，不仅邮箱免费，还带一些简单的客户管理功能，性价比超高。
+- **✅ 免费福利**：100G 超大容量、每天 450 封发信额度、20 个共享邮箱。
+- **🔗 官网地址**：[https://www.larksuite.com](https://www.larksuite.com)
+- 📚 [**手把手教你申请（附详细图文）**](./free-enterprise-email-larksuite)
 
 ---
 
@@ -66,16 +71,16 @@ keywords:
 
 ### 常见问题 {#faq}
 
--   **❓ 个人邮箱和企业邮箱有什么区别？我应该怎么选？**
-    > -   答：简单来说， **<span style={{color: '#8e44ad'}}>个人邮箱</span>** 归你个人所有，方便灵活； **<span style={{color: '#8e44ad'}}>企业邮箱</span>** 归公司所有，显得更专业，也方便团队管理。刚入行时可以用个人邮箱起步，一旦开始正式和客户接触，我们强烈建议你尽快切换到企业邮箱。
+- **❓ 个人邮箱和企业邮箱有什么区别？我应该怎么选？**
 
--   **❓ 用免费企业邮箱会不会显得不专业？**
-    > -   答：完全不会！像 Lark 这样的服务商，提供的功能非常稳定强大。只要你绑定的是自己公司的域名，客户看到的就是一个非常专业的邮箱地址，根本看不出你是免费还是付费的。
+  > - 答：简单来说， **<span style={{color: '#8e44ad'}}>个人邮箱</span>** 归你个人所有，方便灵活； **<span style={{color: '#8e44ad'}}>企业邮箱</span>** 归公司所有，显得更专业，也方便团队管理。刚入行时可以用个人邮箱起步，一旦开始正式和客户接触，我们强烈建议你尽快切换到企业邮箱。
+
+- **❓ 用免费企业邮箱会不会显得不专业？**
+  > - 答：完全不会！像 Lark 这样的服务商，提供的功能非常稳定强大。只要你绑定的是自己公司的域名，客户看到的就是一个非常专业的邮箱地址，根本看不出你是免费还是付费的。
 
 ### 学习建议 {#learning-suggestions}
 
--   **🎯 域名是关键**：申请企业邮箱前，记得一定要先去买一个属于你自己的域名。这是你专业形象的基石。
--   **✅ 备用邮箱**：建议可以同时注册一个 Gmail 和一个 Outlook 邮箱作为备用，因为有些国外平台或客户可能对特定的邮箱服务商有偏好。
-
+- **🎯 域名是关键**：申请企业邮箱前，记得一定要先去买一个属于你自己的域名。这是你专业形象的基石。
+- **✅ 备用邮箱**：建议可以同时注册一个 Gmail 和一个 Outlook 邮箱作为备用，因为有些国外平台或客户可能对特定的邮箱服务商有偏好。
 
 🔗 **本文永久链接：** https://laifa.xin/share/mailbox/apply-for-free-email

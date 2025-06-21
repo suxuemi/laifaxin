@@ -2,8 +2,19 @@
 id: email-list
 title: ✨ 邮件列表
 description: 本文介绍了邮件列表界面预览、搜索邮件、邮件分类、邮箱标签、已读/未读、回复/转发等常用操作。通过学习本文，您将了解如何快速搜索邮件、对邮件进行分类、创建邮箱标签、管理已读/未读状态以及进行回复/转发操作。
-tags: ["邮件管理", "收件箱", "邮件搜索", "邮件分类", "邮箱标签", "邮件操作", "来发信"]
-keywords: ["邮件列表功能", "搜索邮件技巧", "邮件分类方法", "邮箱标签使用", "已读未读管理", "回复转发邮件", "批量处理邮件", "来发信教程", "收件箱管理"]
+tags: ['邮件管理', '收件箱', '邮件搜索', '邮件分类', '邮箱标签', '邮件操作', '来发信']
+keywords:
+  [
+    '邮件列表功能',
+    '搜索邮件技巧',
+    '邮件分类方法',
+    '邮箱标签使用',
+    '已读未读管理',
+    '回复转发邮件',
+    '批量处理邮件',
+    '来发信教程',
+    '收件箱管理',
+  ]
 ---
 
 # ✨ 邮件列表
@@ -23,7 +34,7 @@ _图示：展示了来发信邮件列表的主要区域和布局。_
 快速定位邮件，信息检索不再是难题。
 
 - **<span style={{color: '#8e44ad'}}>搜索邮件</span>** ：通过<u><span style={{color: '#e67c00'}}>关键词</span></u>可以快速关联相关的邮件。
-    - 点击界面上的<span style={{color: '#3578e5'}}>搜索框</span>。
+  - 点击界面上的<span style={{color: '#3578e5'}}>搜索框</span>。
 
 ![邮件列表中的搜索框](https://cos.files.maozhishi.com/data/web/web-files/img/1729503346567_d.png)
 
@@ -40,7 +51,7 @@ _图示：在搜索框中输入关键词"测试"后，系统筛选并展示了�
 为邮件打上分类，管理更有条理。
 
 - **<span style={{color: '#8e44ad'}}>邮件分类</span>** ：针对邮件的分类管理。
-    - **<span style={{color: '#3578e5'}}>新建分类</span>** ：点击<u><span style={{color: '#e67c00'}}>+</span></u>按钮，在弹出的输入框输入<u><span style={{color: '#e67c00'}}>分类名称</span></u>，以及设置<u><span style={{color: '#e67c00'}}>分类颜色</span></u>。
+  - **<span style={{color: '#3578e5'}}>新建分类</span>** ：点击<u><span style={{color: '#e67c00'}}>+</span></u>按钮，在弹出的输入框输入<u><span style={{color: '#e67c00'}}>分类名称</span></u>，以及设置<u><span style={{color: '#e67c00'}}>分类颜色</span></u>。
 
 ![新建邮件分类的界面](https://cos.files.maozhishi.com/data/web/web-files/img/1729503810341_d.png)
 
@@ -70,8 +81,8 @@ _图示：演示了如何为邮件关联已有的邮箱标签。_
 轻松标记邮件阅读状态，重要信息不错过。
 
 - **<span style={{color: '#8e44ad'}}>阅读状态</span>** ：邮件可以在<u><span style={{color: '#e67c00'}}>已读</span></u>与<u><span style={{color: '#e67c00'}}>未读</span></u>之间自由切换。
-    - **<span style={{color: '#3578e5'}}>标记未读</span>** ：<u><span style={{color: '#e67c00'}}>已读</span></u>的状态下，点击<span style={{color: '#3578e5'}}>【标记未读】</span>，可以把邮件状态修改为<u><span style={{color: '#e67c00'}}>未读</span></u>。
-    - **<span style={{color: '#3578e5'}}>标记已读</span>** ：同上，在<u><span style={{color: '#e67c00'}}>未读</span></u>的状态下操作。
+  - **<span style={{color: '#3578e5'}}>标记未读</span>** ：<u><span style={{color: '#e67c00'}}>已读</span></u>的状态下，点击<span style={{color: '#3578e5'}}>【标记未读】</span>，可以把邮件状态修改为<u><span style={{color: '#e67c00'}}>未读</span></u>。
+  - **<span style={{color: '#3578e5'}}>标记已读</span>** ：同上，在<u><span style={{color: '#e67c00'}}>未读</span></u>的状态下操作。
 
 <video src='https://cos.files.maozhishi.com/data/web/web-files/mp4/yjlb-ydwd.mp4' controls></video>
 
@@ -82,15 +93,15 @@ _图示：演示了如何将邮件标记为已读或未读状态。_
 快速响应，高效沟通。
 
 - **<span style={{color: '#8e44ad'}}>回复邮件</span>** ：邮件界面右上角点击对应的<span style={{color: '#3578e5'}}>图标</span>。
-    - **<span style={{color: '#3578e5'}}>回复</span>** ：仅回复给<u><span style={{color: '#e67c00'}}>发信人</span></u>。
-    - **<span style={{color: '#3578e5'}}>回复所有</span>** ：不仅回复<u><span style={{color: '#e67c00'}}>发信人</span></u>，也回复给其他<u><span style={{color: '#e67c00'}}>收信人</span></u>。
+  - **<span style={{color: '#3578e5'}}>回复</span>** ：仅回复给<u><span style={{color: '#e67c00'}}>发信人</span></u>。
+  - **<span style={{color: '#3578e5'}}>回复所有</span>** ：不仅回复<u><span style={{color: '#e67c00'}}>发信人</span></u>，也回复给其他<u><span style={{color: '#e67c00'}}>收信人</span></u>。
 
 <video src='https://cos.files.maozhishi.com/data/web/web-files/mp4/yjlb-hfyj.mp4' controls></video>
 
 _图示：演示了邮件的回复和全部回复操作。_
 
 - **<span style={{color: '#8e44ad'}}>转发邮件</span>** ：把邮件转给其他人。
-    - **<span style={{color: '#3578e5'}}>操作路径</span>** ：邮件的右上角点击<span style={{color: '#3578e5'}}>【转发】</span>。
+  - **<span style={{color: '#3578e5'}}>操作路径</span>** ：邮件的右上角点击<span style={{color: '#3578e5'}}>【转发】</span>。
 
 ![转发邮件操作按钮](https://cos.files.maozhishi.com/data/web/web-files/img/1729506965041_d.png)
 
@@ -101,21 +112,21 @@ _图示：邮件详情页面右上角的转发按钮。_
 保持收件箱整洁有序。
 
 - **<span style={{color: '#8e44ad'}}>移动邮件</span>** ：把邮件移动到其他的<u><span style={{color: '#e67c00'}}>邮件夹</span></u>（文件夹）。
-    - **<span style={{color: '#3578e5'}}>路径</span>** ：在邮件的右上角点击<span style={{color: '#3578e5'}}>【更多】</span>，选择<span style={{color: '#3578e5'}}>【移动到】</span>，在下级菜单中选择要移动的<u><span style={{color: '#e67c00'}}>文件夹</span></u>。
+  - **<span style={{color: '#3578e5'}}>路径</span>** ：在邮件的右上角点击<span style={{color: '#3578e5'}}>【更多】</span>，选择<span style={{color: '#3578e5'}}>【移动到】</span>，在下级菜单中选择要移动的<u><span style={{color: '#e67c00'}}>文件夹</span></u>。
 
 ![移动邮件到其他文件夹的操作示意](https://cos.files.maozhishi.com/data/web/web-files/img/1729510836490_d.png)
 
 _图示：展示了通过"更多"菜单将邮件移动到指定文件夹的操作流程。_
 
 - **<span style={{color: '#8e44ad'}}>删除邮件</span>** ：把邮件移动到<span style={{color: '#3578e5'}}>【已删除】</span>文件夹，此处并非<u><span style={{color: '#e67c00'}}>彻底删除</span></u>。
-    - **<span style={{color: '#3578e5'}}>操作</span>** ：邮件右上角点击<span style={{color: '#3578e5'}}>【更多】</span>，并选择<span style={{color: '#3578e5'}}>【删除】</span>。
+  - **<span style={{color: '#3578e5'}}>操作</span>** ：邮件右上角点击<span style={{color: '#3578e5'}}>【更多】</span>，并选择<span style={{color: '#3578e5'}}>【删除】</span>。
 
 ![删除邮件的操作示意](https://cos.files.maozhishi.com/data/web/web-files/img/1729511054180_d.png)
 
 _图示：展示了通过"更多"菜单删除邮件（移至已删除文件夹）的操作。_
 
 - **<span style={{color: '#8e44ad'}}>彻底删除</span>** ：把邮件从系统中<u><span style={{color: '#e67c00'}}>永久移除</span></u>。
-    - **<span style={{color: '#3578e5'}}>操作</span>** ：进入<span style={{color: '#3578e5'}}>【已删除】</span>文件夹，找到要彻底删除的邮件，点击右上角的<span style={{color: '#3578e5'}}>【更多】</span>，选择<span style={{color: '#3578e5'}}>【彻底删除】</span>。
+  - **<span style={{color: '#3578e5'}}>操作</span>** ：进入<span style={{color: '#3578e5'}}>【已删除】</span>文件夹，找到要彻底删除的邮件，点击右上角的<span style={{color: '#3578e5'}}>【更多】</span>，选择<span style={{color: '#3578e5'}}>【彻底删除】</span>。
 
 ![彻底删除邮件的操作示意](https://cos.files.maozhishi.com/data/web/web-files/img/20241021195008.png)
 
@@ -126,14 +137,14 @@ _图示：在"已删除"文件夹中，选择邮件并进行彻底删除的操�
 处理垃圾邮件和不受欢迎的邮件。
 
 - **<span style={{color: '#8e44ad'}}>拒收邮件</span>** ：被拒收后，发信人发送的邮件将无法进入<u><span style={{color: '#e67c00'}}>收件箱</span></u>，历史邮件也会被拉入<span style={{color: '#3578e5'}}>【垃圾邮件】</span>文件夹。
-    - **<span style={{color: '#3578e5'}}>操作</span>** ：邮件右上角，点击<span style={{color: '#3578e5'}}>【更多】</span>，选择<span style={{color: '#3578e5'}}>【拒收】</span>，确定信息无误后，点击<span style={{color: '#3578e5'}}>【确定】</span>。
+  - **<span style={{color: '#3578e5'}}>操作</span>** ：邮件右上角，点击<span style={{color: '#3578e5'}}>【更多】</span>，选择<span style={{color: '#3578e5'}}>【拒收】</span>，确定信息无误后，点击<span style={{color: '#3578e5'}}>【确定】</span>。
 
 ![拒收邮件的操作界面](https://cos.files.maozhishi.com/data/web/web-files/img/1729511617226_d.png)
 
 _图示：选择拒收某发件人的邮件并确认操作的界面。_
 
 - **<span style={{color: '#8e44ad'}}>举报邮件</span>** ：被举报的邮件将被提交到系统后台进行<u><span style={{color: '#e67c00'}}>审查</span></u>，同时你可以将对方拉入<u><span style={{color: '#e67c00'}}>收信黑名单</span></u>、<u><span style={{color: '#e67c00'}}>发信黑名单</span></u>，以及把历史邮件移入<span style={{color: '#3578e5'}}>【垃圾邮件】</span>。
-    - **<span style={{color: '#3578e5'}}>操作</span>** ：邮件右上角，点击<span style={{color: '#3578e5'}}>【举报】</span>，确认信息后点击<span style={{color: '#3578e5'}}>【确认举报】</span>。
+  - **<span style={{color: '#3578e5'}}>操作</span>** ：邮件右上角，点击<span style={{color: '#3578e5'}}>【举报】</span>，确认信息后点击<span style={{color: '#3578e5'}}>【确认举报】</span>。
 
 ![举报邮件的操作界面](https://cos.files.maozhishi.com/data/web/web-files/img/1729511912106_d.png)
 
@@ -165,16 +176,16 @@ _图示：点击跳转后，弹出输入目标页码的对话框。_
 根据条件快速定位一批邮件。
 
 - **<span style={{color: '#3578e5'}}>按阅读状态</span>**
-    - **<span style={{color: '#3578e5'}}>全部邮件</span>** ：包含<u><span style={{color: '#e67c00'}}>未读</span></u>和<u><span style={{color: '#e67c00'}}>已读</span></u>。
-    - **<span style={{color: '#3578e5'}}>已读邮件</span>** ：筛选状态为<u><span style={{color: '#e67c00'}}>已读</span></u>的邮件。
-    - **<span style={{color: '#3578e5'}}>未读邮件</span>** ：筛选状态为<u><span style={{color: '#e67c00'}}>未读</span></u>的邮件。
+  - **<span style={{color: '#3578e5'}}>全部邮件</span>** ：包含<u><span style={{color: '#e67c00'}}>未读</span></u>和<u><span style={{color: '#e67c00'}}>已读</span></u>。
+  - **<span style={{color: '#3578e5'}}>已读邮件</span>** ：筛选状态为<u><span style={{color: '#e67c00'}}>已读</span></u>的邮件。
+  - **<span style={{color: '#3578e5'}}>未读邮件</span>** ：筛选状态为<u><span style={{color: '#e67c00'}}>未读</span></u>的邮件。
 
 ![按阅读状态筛选邮件的选项](https://cos.files.maozhishi.com/data/web/web-files/img/1729512477310_d.png)
 
 _图示：邮件列表提供的按阅读状态（全部、已读、未读）筛选邮件的选项。_
 
 - **<span style={{color: '#3578e5'}}>按归属人员</span>**
-    - 在<u><span style={{color: '#e67c00'}}>企业版</span></u>中，可以通过<span style={{color: '#3578e5'}}>【归属】</span>进行筛选 👉 ⚠️ **<span style={{color: '#d93025'}}>仅限企业版</span>**。
+  - 在<u><span style={{color: '#e67c00'}}>企业版</span></u>中，可以通过<span style={{color: '#3578e5'}}>【归属】</span>进行筛选 👉 ⚠️ **<span style={{color: '#d93025'}}>仅限企业版</span>**。
 
 ![按归属人员筛选邮件的选项（企业版功能）](https://cos.files.maozhishi.com/data/web/web-files/img/1729512546447_d.png)
 
@@ -185,8 +196,8 @@ _图示：企业版特有的按邮件归属人员进行筛选的功能。_
 灵活选择需要操作的邮件。
 
 - **<span style={{color: '#8e44ad'}}>选择邮件</span>**
-    - 1️⃣ **<span style={{color: '#3578e5'}}>选择当前页</span>** ：选择<u><span style={{color: '#e67c00'}}>当前页面</span></u>的邮件。
-    - 2️⃣ **<span style={{color: '#3578e5'}}>选择所有</span>** ：选择<u><span style={{color: '#e67c00'}}>文件夹下</span></u>的所有邮件。
+  - 1️⃣ **<span style={{color: '#3578e5'}}>选择当前页</span>** ：选择<u><span style={{color: '#e67c00'}}>当前页面</span></u>的邮件。
+  - 2️⃣ **<span style={{color: '#3578e5'}}>选择所有</span>** ：选择<u><span style={{color: '#e67c00'}}>文件夹下</span></u>的所有邮件。
 
 ![选择邮件进行批量操作的选项](https://cos.files.maozhishi.com/data/web/web-files/img/1729513151835_d.png)
 
@@ -197,7 +208,7 @@ _图示：批量选择邮件时，可选择当前页或所有邮件。_
 选中邮件后，统一处理。
 
 - 选择邮件后，在右侧可以进行<u><span style={{color: '#e67c00'}}>批量操作</span></u>。
-    - **<span style={{color: '#8e44ad'}}>功能演示</span>** ：点击<span style={{color: '#3578e5'}}>【加入黑名单】</span>，选择黑名单类型 (<u><span style={{color: '#e67c00'}}>邮箱提取</span></u>/<u><span style={{color: '#e67c00'}}>邮件发送</span></u>)，点击<span style={{color: '#3578e5'}}>【提交】</span>进行确认。
+  - **<span style={{color: '#8e44ad'}}>功能演示</span>** ：点击<span style={{color: '#3578e5'}}>【加入黑名单】</span>，选择黑名单类型 (<u><span style={{color: '#e67c00'}}>邮箱提取</span></u>/<u><span style={{color: '#e67c00'}}>邮件发送</span></u>)，点击<span style={{color: '#3578e5'}}>【提交】</span>进行确认。
 
 ![批量操作邮件的演示（加入黑名单）](https://cos.files.maozhishi.com/data/web/web-files/img/1729513386156_d.png)
 
@@ -212,9 +223,11 @@ _图示：选中多封邮件后，进行批量加入黑名单的操作演示。_
 ### 1. 常见问题 {#faq}
 
 - **❓ 如何快速定位到某一封很久以前的邮件？**
+
   > - 答：善用**<span style={{color: '#8e44ad'}}>搜索功能</span>**是关键。您可以尝试使用<u><span style={{color: '#e67c00'}}>发件人</span></u>、<u><span style={{color: '#e67c00'}}>收件人</span></u>、<u><span style={{color: '#e67c00'}}>邮件主题</span></u>中的关键词，或者邮件的<u><span style={{color: '#e67c00'}}>大致日期范围</span></u>（如果系统支持）进行搜索。
 
 - **❓ 邮件分类和邮箱标签有什么区别？**
+
   > - 答：**<span style={{color: '#8e44ad'}}>邮件分类</span>**通常是针对邮件本身的归档和整理，比如按项目、客户、紧急程度等。**<span style={{color: '#8e44ad'}}>邮箱标签</span>**（在👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com)中）更多是关联到<u><span style={{color: '#e67c00'}}>联系人</span></u>的属性，方便您管理客户信息和进行客户分群。
 
 - **❓ 批量操作时，如果误操作了怎么办？**

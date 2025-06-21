@@ -27,18 +27,18 @@ keywords:
 
 心动了吗？你可以先去它的官网看看，对它有个大概的了解。
 
--   **Lark 官网地址**：[https://www.larksuite.com](https://www.larksuite.com)
-:::
+- **Lark 官网地址**：[https://www.larksuite.com](https://www.larksuite.com)
+  :::
 
 它最吸引人的地方，就是给咱们中小团队的 **<span style={{color: '#8e44ad'}}>免费福利</span>** 非常大方：
 
--   ✅ **100G 超大容量**：海量邮件和附件，随便存，不怕满。
--   ✅ **每天 450 封发信额度**：足够满足你和客户的日常沟通需求。
--   ✅ **20 个共享邮箱**：可以轻松设置 `info@`，`sales@` 等团队邮箱，协作超方便。
+- ✅ **100G 超大容量**：海量邮件和附件，随便存，不怕满。
+- ✅ **每天 450 封发信额度**：足够满足你和客户的日常沟通需求。
+- ✅ **20 个共享邮箱**：可以轻松设置 `info@`，`sales@` 等团队邮箱，协作超方便。
 
 心动了吗？你可以先去它的官网看看，对它有个大概的了解。
 
--   **Lark 官网地址**：[https://www.larksuite.com](https://www.larksuite.com)
+- **Lark 官网地址**：[https://www.larksuite.com](https://www.larksuite.com)
 
 ---
 
@@ -55,7 +55,7 @@ keywords:
 ### 2. 准备好网络环境 {#prepare-network-environment}
 
 :::warning
-⚠️ **关键一步** 
+⚠️ **关键一步**
 在注册和设置过程中，你需要 **<span style={{color: '#d93025'}}>开启全局网络代理</span>** ，不然可能会遇到无法注册或访问失败的问题。
 :::
 
@@ -228,8 +228,8 @@ _图示：允许第三方邮箱客户端登录_
 
 要生成专用密码，我们需要在 Lark 的电脑客户端上操作。
 
--   **下载地址**： `https://www.larksuite.com/zh_cn/download`
--   下载后安装并登录你的 Lark 账户。
+- **下载地址**： `https://www.larksuite.com/zh_cn/download`
+- 下载后安装并登录你的 Lark 账户。
 
 ![Lark客户端下载页面示意图](https://cos.files.maozhishi.com/data/web/web-files/img/20241213171533.png)
 
@@ -311,13 +311,15 @@ _图示：在 Foxmail 中完成邮箱配置_
 ### 常见问题 {#faq}
 
 - **❓ 为什么我注册时提示"你的所在地暂不支持"？**
-> - 答：这是因为你没有开启全局网络代理。请返回 [第一步](#getting-started)，检查并确认你的网络环境设置正确后再试一次。
+
+  > - 答：这是因为你没有开启全局网络代理。请返回 [第一步](#getting-started)，检查并确认你的网络环境设置正确后再试一次。
 
 - **❓ "专用密码"是什么，为什么需要它？**
-> - 答：专用密码是为了安全。它让你可以在第三方软件（比如 Foxmail）里登录邮箱，而不需要暴露你真正的 Lark 登录密码。即使这个密码泄露了，你的 Lark 账户本身也是安全的。
+
+  > - 答：专用密码是为了安全。它让你可以在第三方软件（比如 Foxmail）里登录邮箱，而不需要暴露你真正的 Lark 登录密码。即使这个密码泄露了，你的 Lark 账户本身也是安全的。
 
 - **❓ Lark 企业邮箱真的完全免费吗？有什么限制吗？**
-> - 答：是的，对于中小团队来说，它的免费权益非常充足。目前免费版提供 100G 容量，每天可以发 450 封邮件，支持 20 个共享邮箱，完全够我们日常使用了。
+  > - 答：是的，对于中小团队来说，它的免费权益非常充足。目前免费版提供 100G 容量，每天可以发 450 封邮件，支持 20 个共享邮箱，完全够我们日常使用了。
 
 ### 学习建议 {#learning-suggestions}
 
@@ -328,12 +330,12 @@ _图示：在 Foxmail 中完成邮箱配置_
 ### 相关阅读 {#related-reading}
 
 - 📚 [节前催单怕尴尬？5个邮件模板让客户主动下单](../email/national-day-holiday-push-orders-foreign-trade-peoples-emergency-action-guide)
-> 学习如何用专业的邮件模板，在节假日来临前，巧妙地提醒客户 <u><span style={{color: '#e67c00'}}>及时下单</span></u>，避免 <u><span style={{color: '#e67c00'}}>生产延误</span></u>。
+
+  > 学习如何用专业的邮件模板，在节假日来临前，巧妙地提醒客户 <u><span style={{color: '#e67c00'}}>及时下单</span></u>，避免 <u><span style={{color: '#e67c00'}}>生产延误</span></u>。
 
 - 📚 [谷歌地图插件使用入门](../../chajian/google-maps-plugin-welcome)
-> 探索如何使用谷歌地图插件，一个帮你高效 <u><span style={{color: '#e67c00'}}>开发客户</span></u> 的强大工具。
+  > 探索如何使用谷歌地图插件，一个帮你高效 <u><span style={{color: '#e67c00'}}>开发客户</span></u> 的强大工具。
 
 🔗 **本文永久链接：** https://laifa.xin/share/mailbox/free-enterprise-email-larksuite
-
 
 <!--@include: ../parts/document-signature.md-->

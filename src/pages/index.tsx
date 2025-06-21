@@ -1,17 +1,17 @@
-import type { ReactNode } from "react";
-import clsx from "clsx";
-import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import Layout from "@theme/Layout";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
-import Heading from "@theme/Heading";
+import type { ReactNode } from 'react';
+import clsx from 'clsx';
+import Link from '@docusaurus/Link';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import Layout from '@theme/Layout';
+import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Heading from '@theme/Heading';
 
-import styles from "./index.module.css";
+import styles from './index.module.css';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero", styles.heroBanner)}>
+    <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
         <div className={styles.headerContainer}>
           <div className={styles.heroText}>
@@ -22,9 +22,7 @@ function HomepageHeader() {
               <br />
               销的一站式服务平台
             </h1>
-            <p className={styles.heroSubtitle}>
-              为业务出海提供高性价比选择，助力拓展全球市场
-            </p>
+            <p className={styles.heroSubtitle}>为业务出海提供高性价比选择，助力拓展全球市场</p>
             <div className={styles.buttonsContainer}>
               {/* 更换跳转链接 */}
               <Link className={styles.buttonPrimary} href="https://web.laifaxin.com/">
@@ -57,10 +55,7 @@ function HomepageHeader() {
 export default function Home(): ReactNode {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={`${siteConfig.tagline}`}
-      description="让外贸企业开发客户更简单高效！<head />"
-    >
+    <Layout title={`${siteConfig.tagline}`} description="让外贸企业开发客户更简单高效！<head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

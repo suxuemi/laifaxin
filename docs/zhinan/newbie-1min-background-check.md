@@ -33,26 +33,29 @@ keywords: [背景调查, 客户信息, 公司详情, 批量背调, 域名搜客,
     _图示：客户详细信息面板概览_
 
 3.  **快速浏览核心信息**：
-    -   **企业信息概览**：
-        -   一眼看尽 <span style={{color: '#3578e5'}}>公司名称</span>、<span style={{color: '#3578e5'}}>官网</span>、<span style={{color: '#3578e5'}}>联系电话</span>、<span style={{color: '#3578e5'}}>社媒链接</span> （LinkedIn, Facebook等）。
-        -   快速了解其 <span style={{color: '#3578e5'}}>所属行业</span>、<span style={{color: '#3578e5'}}>员工数量</span>、<span style={{color: '#3578e5'}}>成立时间</span>、<span style={{color: '#3578e5'}}>国家地区</span> 及 <span style={{color: '#3578e5'}}>详细地址</span>。
-        -   更有 <span style={{color: '#3578e5'}}>公司简介</span>、<span style={{color: '#3578e5'}}>网站SEO信息</span> （标题、描述、关键词）、<span style={{color: '#3578e5'}}>相关技术</span> 等深度信息。
 
-        ![客户企业基础信息展示截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240707224857.png)
+    - **企业信息概览**：
 
-        _图示：客户企业基础信息部分_
+      - 一眼看尽 <span style={{color: '#3578e5'}}>公司名称</span>、<span style={{color: '#3578e5'}}>官网</span>、<span style={{color: '#3578e5'}}>联系电话</span>、<span style={{color: '#3578e5'}}>社媒链接</span> （LinkedIn, Facebook等）。
+      - 快速了解其 <span style={{color: '#3578e5'}}>所属行业</span>、<span style={{color: '#3578e5'}}>员工数量</span>、<span style={{color: '#3578e5'}}>成立时间</span>、<span style={{color: '#3578e5'}}>国家地区</span> 及 <span style={{color: '#3578e5'}}>详细地址</span>。
+      - 更有 <span style={{color: '#3578e5'}}>公司简介</span>、<span style={{color: '#3578e5'}}>网站SEO信息</span> （标题、描述、关键词）、<span style={{color: '#3578e5'}}>相关技术</span> 等深度信息。
 
-    -   **邮箱与联系人信息**：
-        -   切换到 <span style={{color: '#3578e5'}}>【邮箱】</span> 标签页。
-        -   这里清晰展示了三类邮箱：
-            -   🎯 **<span style={{color: '#8e44ad'}}>精准邮箱</span>**：通常来自LinkedIn，包含 **<span style={{color: '#8e44ad'}}>员工姓名、职位、邮箱、社媒链接</span>**，助您直达关键决策人！
-            -   🔎 **<span style={{color: '#8e44ad'}}>潜客邮箱</span>**：来自全网大数据，可能是 **<span style={{color: '#8e44ad'}}>公司其他部门或相关人员</span>** 的邮箱。
-            -   🏬 **<span style={{color: '#8e44ad'}}>官网邮箱</span>**：直接从 **<span style={{color: '#8e44ad'}}>客户官网</span>** 上抓取的邮箱。
-        -   *不了解三类邮箱的区别？请参考：📚[三类邮箱类型对比](./comparison-of-three-types-of-mailboxes)*
+      ![客户企业基础信息展示截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240707224857.png)
 
-        ![客户邮箱信息标签页截图，展示精准、潜客、官网三类邮箱](https://cos.files.maozhishi.com/data/web/web-files/img/20240705000012.png)
+      _图示：客户企业基础信息部分_
 
-        _图示：客户邮箱信息，助您多渠道联系_
+    - **邮箱与联系人信息**：
+
+      - 切换到 <span style={{color: '#3578e5'}}>【邮箱】</span> 标签页。
+      - 这里清晰展示了三类邮箱：
+        - 🎯 **<span style={{color: '#8e44ad'}}>精准邮箱</span>**：通常来自LinkedIn，包含 **<span style={{color: '#8e44ad'}}>员工姓名、职位、邮箱、社媒链接</span>**，助您直达关键决策人！
+        - 🔎 **<span style={{color: '#8e44ad'}}>潜客邮箱</span>**：来自全网大数据，可能是 **<span style={{color: '#8e44ad'}}>公司其他部门或相关人员</span>** 的邮箱。
+        - 🏬 **<span style={{color: '#8e44ad'}}>官网邮箱</span>**：直接从 **<span style={{color: '#8e44ad'}}>客户官网</span>** 上抓取的邮箱。
+      - _不了解三类邮箱的区别？请参考：📚[三类邮箱类型对比](./comparison-of-three-types-of-mailboxes)_
+
+      ![客户邮箱信息标签页截图，展示精准、潜客、官网三类邮箱](https://cos.files.maozhishi.com/data/web/web-files/img/20240705000012.png)
+
+      _图示：客户邮箱信息，助您多渠道联系_
 
 :::tip[是不是很简单？]
 只需一次点击，客户的关键信息尽在掌握！这对于快速判断客户质量、制定初步联系策略非常有帮助。
@@ -63,35 +66,39 @@ keywords: [背景调查, 客户信息, 公司详情, 批量背调, 域名搜客,
 如果您手头有一批客户的网站域名（例如，来自展会名片、行业名录，或者您自己整理的客户列表），👉 [**<span style={{color: '#e67c00'}}>公司域名搜客</span>**](./customer-website-search) 功能，能帮您实现闪电般的 **<span style={{color: '#8e44ad'}}>批量背景调查</span>**！
 
 1.  **进入功能**：
-    -   在左侧导航栏点击 <span style={{color: '#3578e5'}}>客户搜索</span> > <span style={{color: '#3578e5'}}>公司域名搜客</span>。
-    -   或者直接访问：[https://web.laifaxin.com/search/domain-engine](https://web.laifaxin.com/search/domain-engine)
+
+    - 在左侧导航栏点击 <span style={{color: '#3578e5'}}>客户搜索</span> > <span style={{color: '#3578e5'}}>公司域名搜客</span>。
+    - 或者直接访问：[https://web.laifaxin.com/search/domain-engine](https://web.laifaxin.com/search/domain-engine)
 
     ![来发信“公司域名搜客”功能入口界面](https://cos.files.maozhishi.com/data/web/web-files/img/20240707223812.png)
 
     _图示：公司域名搜客功能入口_
 
 2.  **发起批量任务**：
-    -   点击页面上方的 <span style={{color: '#3578e5'}}>【批量域名搜索】</span> 按钮。
-    -   在弹出的输入框中，将您的 **客户网站域名列表** （一行一个）粘贴进去。
-    -   给任务起一个您能识别的 “**任务备注**” （例如：“广交会客户背调第一批”）。
-    -   点击 <span style={{color: '#3578e5'}}>【提交】</span>！
+
+    - 点击页面上方的 <span style={{color: '#3578e5'}}>【批量域名搜索】</span> 按钮。
+    - 在弹出的输入框中，将您的 **客户网站域名列表** （一行一个）粘贴进去。
+    - 给任务起一个您能识别的 “**任务备注**” （例如：“广交会客户背调第一批”）。
+    - 点击 <span style={{color: '#3578e5'}}>【提交】</span>！
 
     ![公司域名搜客批量搜索任务创建界面动图](https://cos.files.maozhishi.com/data/web/web-files/img/1720365656081.gif)
 
     _图示：创建批量域名搜索任务_
 
 3.  **见证效率奇迹**：
-    -   系统会自动开始批量处理您的域名列表。
-    -   **<span style={{color: '#8e44ad'}}>30分钟处理上万个域名</span>** 不是梦！
+
+    - 系统会自动开始批量处理您的域名列表。
+    - **<span style={{color: '#8e44ad'}}>30分钟处理上万个域名</span>** 不是梦！
 
     ![批量域名搜索任务列表动图，显示任务进度](https://cos.files.maozhishi.com/data/web/web-files/img/1720366147235.gif)
 
     _图示：批量任务高效运行中_
 
 4.  **查看批量背调结果**：
-    -   任务完成后，在“批量搜客任务”列表中找到您的任务，点击 <span style={{color: '#3578e5'}}>【结果】</span>。
-    -   您将看到所有成功匹配并获取到信息的公司列表，每一家公司的详细信息都与单个客户背调时看到的一样丰富！
-    -   ⚠️ **重要提示**： 搜索和匹配结果并非100%精准，务必结合后续的 📚[结果筛选](./filter-search-results) 进行甄别。
+
+    - 任务完成后，在“批量搜客任务”列表中找到您的任务，点击 <span style={{color: '#3578e5'}}>【结果】</span>。
+    - 您将看到所有成功匹配并获取到信息的公司列表，每一家公司的详细信息都与单个客户背调时看到的一样丰富！
+    - ⚠️ **重要提示**： 搜索和匹配结果并非100%精准，务必结合后续的 📚[结果筛选](./filter-search-results) 进行甄别。
 
     ![批量域名搜索任务结果列表截图](https://cos.files.maozhishi.com/data/web/web-files/img/20240708004857.png)
 
@@ -110,13 +117,15 @@ keywords: [背景调查, 客户信息, 公司详情, 批量背调, 域名搜客,
 ### 1. 常见问题 {#faq}
 
 - **❓ 单个背调和批量背调有什么区别？**
-> - 答：**<span style={{color: '#8e44ad'}}>单个背调</span>** 适用于在搜索结果中快速预览和判断客户，操作即时。**<span style={{color: '#8e44ad'}}>批量背调</span>** 适用于您已有域名列表的情况，通过创建异步任务来处理大量数据，更侧重效率。
+
+  > - 答：**<span style={{color: '#8e44ad'}}>单个背调</span>** 适用于在搜索结果中快速预览和判断客户，操作即时。**<span style={{color: '#8e44ad'}}>批量背调</span>** 适用于您已有域名列表的情况，通过创建异步任务来处理大量数据，更侧重效率。
 
 - **❓ 批量背调搜不到任何信息是什么原因？**
-> - 答：可能的原因有：1) 您提供的 **<span style={{color: '#8e44ad'}}>域名不准确</span>**；2) 该公司在互联网上的 **<span style={{color: '#8e44ad'}}>公开信息极少</span>**；3) 我们的数据库暂时未能覆盖。建议检查域名拼写或尝试其他搜客方式。
+
+  > - 答：可能的原因有：1) 您提供的 **<span style={{color: '#8e44ad'}}>域名不准确</span>**；2) 该公司在互联网上的 **<span style={{color: '#8e44ad'}}>公开信息极少</span>**；3) 我们的数据库暂时未能覆盖。建议检查域名拼写或尝试其他搜客方式。
 
 - **❓ 背景调查消耗的是什么额度？**
-> - 答：客户背景调查消耗的是 **<span style={{color: '#8e44ad'}}>搜客点数</span>**。每成功查询并展示一家公司的详细信息，会计为一次查询。
+  > - 答：客户背景调查消耗的是 **<span style={{color: '#8e44ad'}}>搜客点数</span>**。每成功查询并展示一家公司的详细信息，会计为一次查询。
 
 ### 2. 学习建议 {#learning-suggestions}
 

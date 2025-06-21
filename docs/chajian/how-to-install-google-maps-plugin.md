@@ -9,9 +9,10 @@ keywords: [谷歌地图插件, 安装教程, Chrome插件, Edge插件, 开发者
 # ✨ 如何安装谷歌地图插件？
 
 :::warning 🔔 开始之前请注意
+
 - 1️⃣ **浏览器支持**：本插件仅支持 <u><span style={{color: '#e67c00'}}>Chrome</span></u> 内核的浏览器，如 <span style={{color: '#3578e5'}}>Edge</span>, <span style={{color: '#3578e5'}}>Chrome</span>, <span style={{color: '#3578e5'}}>QQ浏览器</span>, <span style={{color: '#3578e5'}}>百分浏览器</span> 等。
 - 2️⃣ **开启开发者模式**：为确保顺利安装，您必须在浏览器的扩展管理页面中开启 <u><span style={{color: '#e67c00'}}>开发者模式</span></u>。
-:::
+  :::
 
 观看我们的三分钟快速安装视频，轻松上手谷歌地图商家采集插件。
 
@@ -24,19 +25,20 @@ keywords: [谷歌地图插件, 安装教程, Chrome插件, Edge插件, 开发者
 ### 1. 下载插件 {#download-plugin}
 
 :::tip 👉 最新版 - 0.8.21
+
 - **下载链接**：[https://lfx-files.laifayun.com/chajian/download/laifaxin-chajian-ditu-0.8.21-chrome.zip](https://lfx-files.laifayun.com/chajian/download/laifaxin-chajian-ditu-0.8.21-chrome.zip)
-:::
+  :::
 
 ### 2. 支持的浏览器 {#supported-browsers}
 
 我们推荐使用以下对扩展插件支持较好的浏览器。
 
-| 浏览器名称 | 官方网站 | Windows | Mac |
-|:---:|:---:|:---:|:---:|
-| Edge | [下载Edge浏览器](https://www.microsoft.com/zh-cn/edge) | ✅ | ✅ |
-| Chrome | [下载Chrome浏览器](https://google.cn/chrome/) | ✅ | ✅ |
-| QQ浏览器 | [下载QQ浏览器](https://browser.qq.com/) | ✅ | ✅ |
-| 百分浏览器 | [下载百分浏览器](https://www.centbrowser.cn/) | ✅ | 🔲 |
+| 浏览器名称 |                        官方网站                        | Windows | Mac |
+| :--------: | :----------------------------------------------------: | :-----: | :-: |
+|    Edge    | [下载Edge浏览器](https://www.microsoft.com/zh-cn/edge) |   ✅    | ✅  |
+|   Chrome   |     [下载Chrome浏览器](https://google.cn/chrome/)      |   ✅    | ✅  |
+|  QQ浏览器  |        [下载QQ浏览器](https://browser.qq.com/)         |   ✅    | ✅  |
+| 百分浏览器 |     [下载百分浏览器](https://www.centbrowser.cn/)      |   ✅    | 🔲  |
 
 - **特别推荐**：如果您是Windows用户，我们强烈推荐 👉 [**<span style={{color: '#e67c00'}}>百分浏览器</span>**](https://www.centbrowser.cn/)，它对插件的兼容性和性能表现优异。建议下载 [64位便携版](https://www.centbrowser.cn/history.html)。
 
@@ -123,10 +125,11 @@ _图示：通过"加载已解压的扩展程序"按钮选择插件文件夹进�
 ### 1. 常见问题
 
 - **❓ 安装时报错 `Invalid value for 'web_accessible_resources[0]'` 是什么原因？**
-> - 答：这个错误通常意味着您的浏览器 **<span style={{color: '#8e44ad'}}>内核版本过低</span>**。我们建议您更新到当前浏览器的最新版本，或者直接使用我们推荐的 📚[百分浏览器](#supported-browsers)。
+
+  > - 答：这个错误通常意味着您的浏览器 **<span style={{color: '#8e44ad'}}>内核版本过低</span>**。我们建议您更新到当前浏览器的最新版本，或者直接使用我们推荐的 📚[百分浏览器](#supported-browsers)。
 
 - **❓ 为什么QQ浏览器拖拽安装时提示 `Could not create temporary directory for zipped extension`？**
-> - 答：<u><span style={{color: '#e67c00'}}>QQ浏览器</span></u> 的特定版本可能不支持拖拽安装。如果遇到此问题，请使用备选的 📚[加载已解压的扩展](#load-unpacked-installation) 方式进行安装。
+  > - 答：<u><span style={{color: '#e67c00'}}>QQ浏览器</span></u> 的特定版本可能不支持拖拽安装。如果遇到此问题，请使用备选的 📚[加载已解压的扩展](#load-unpacked-installation) 方式进行安装。
 
 ### 2. 学习建议
 
@@ -143,4 +146,3 @@ _图示：通过"加载已解压的扩展程序"按钮选择插件文件夹进�
 ---
 
 🔗 **本文永久链接：** https://laifa.xin/chajian/how-to-install-google-maps-plugin
-

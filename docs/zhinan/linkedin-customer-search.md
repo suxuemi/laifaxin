@@ -33,8 +33,9 @@ _图示：在关键词输入框中输入“LED lighting solutions”，并开启
 
 :::tip
 只搜索关键词，可能出来很多不相关的行业，加上行业限制，可以让目标更精准。
+
 - **行业定位**：👉 [如何快速定位目标客户的行业，让结果更准？](#how-to-locate-target-customer-industries)
-:::
+  :::
 
 > - 1️⃣ **关键词**：输入 <u><span style={{color: '#e67c00'}}>LED lighting solutions</span></u> (LED照明解决方案)。
 > - 2️⃣ **选择行业**：在“行业”下拉菜单中选择 <u><span style={{color: '#e67c00'}}>appliances, electrical, & electronics manufacturing</span></u>。
@@ -223,9 +224,11 @@ _图示：批量保存联系人设置，包括邮箱类型、数量、标签和�
 #### ① 如何寻找搜索关键词？ {#how-to-find-search-keywords}
 
 - 答：以这个客户为例（需要使用科学上网工具，在隐私模式下复制链接到浏览器打开）：
+
   ```
   https://www.linkedin.com/company/unity-microelectronics-inc./about/?_l=en_US
   ```
+
   从客户的 <span style={{color: '#3578e5'}}>名称</span>、<span style={{color: '#3578e5'}}>简介</span>、<span style={{color: '#3578e5'}}>网址</span>、<span style={{color: '#3578e5'}}>行业</span>、<span style={{color: '#3578e5'}}>主营业务</span> 这五个方面提取关键词：
 
 - **主营业务**：<u><span style={{color: '#e67c00'}}>LED Lighting Solutions</span></u> 和 <u><span style={{color: '#e67c00'}}>LED Manufacturing</span></u>
@@ -289,4 +292,3 @@ _图示：点击关键词输入框前的齿轮图标，设置关键词搜索范�
 🔗 **本文永久链接：** https://laifa.xin/zhinan/linkedIn-customer-search
 
 <!--@include: ../parts/document-signature.md-->
-

@@ -24,7 +24,7 @@
   justify-content: center;
 }
 
-.headerContainer{
+.headerContainer {
   display: flex;
 }
 
@@ -56,7 +56,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   padding-bottom: 0.3rem;
-  display: inline-block; 
+  display: inline-block;
 }
 
 .heroSubtitle {
@@ -72,32 +72,32 @@
 }
 
 .buttonPrimary {
-  background-color: #5672CD;
+  background-color: #5672cd;
   color: white;
   font-weight: 600;
   border: none;
-  padding:10px 20px;
+  padding: 10px 20px;
   border-radius: 8px;
 }
 
 .buttonPrimary:hover {
-  background-color: #3A5CCC;
+  background-color: #3a5ccc;
   color: white;
   cursor: pointer;
   text-decoration: none;
 }
 
 .buttonGeneral {
-  background-color: #EBEBEF;
+  background-color: #ebebef;
   color: #444950;
   font-weight: 600;
   border: none;
-  padding:10px 20px;
+  padding: 10px 20px;
   border-radius: 8px;
 }
 
 .buttonGeneral:hover {
-  background-color: #D1D1D6;
+  background-color: #d1d1d6;
   color: #444950;
   cursor: pointer;
   text-decoration: none;
@@ -137,7 +137,7 @@
   background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
   filter: blur(100px);
   z-index: 1;
-  transform: scale(0.65)
+  transform: scale(0.65);
 }
 
 .heroImageContainer {
@@ -155,29 +155,29 @@
   height: 400px;
   width: 400px;
   min-width: 400px;
-  pointer-events: none; 
+  pointer-events: none;
 }
-  @media (max-width: 950px) {
-    .headerContainer {
-      flex-direction: column-reverse; /* 关键：垂直排列，并且反转顺序 */
-    }
-
-    .heroText,
-    .heroImageContainer {
-      flex-basis: 100%; /* 在垂直排列时，让它们占据全部宽度 */
-    }
-
-    .heroText {
-      align-items: center;
-      text-align: center;
-    }
-
-    .heroImage {
-      height: 300px;
-      width: 300px;
-      min-width: 300px;
-    }
+@media (max-width: 950px) {
+  .headerContainer {
+    flex-direction: column-reverse; /* 关键：垂直排列，并且反转顺序 */
   }
+
+  .heroText,
+  .heroImageContainer {
+    flex-basis: 100%; /* 在垂直排列时，让它们占据全部宽度 */
+  }
+
+  .heroText {
+    align-items: center;
+    text-align: center;
+  }
+
+  .heroImage {
+    height: 300px;
+    width: 300px;
+    min-width: 300px;
+  }
+}
 
 /* 禁止图片的默认点击行为 */
 /* img {

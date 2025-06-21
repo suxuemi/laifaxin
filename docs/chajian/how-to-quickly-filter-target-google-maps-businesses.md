@@ -56,9 +56,9 @@ _图示：视图的初始状态，未设置任何筛选条件。_
 _图示：准备为视图添加筛选规则。_
 
 - 3️⃣ **设置筛选规则**：
-    - **选择字段**：选择 <span style={{color: '#3578e5'}}>【分类】</span>。
-    - **设置条件**：选择 <span style={{color: '#3578e5'}}>【包含】</span>。
-    - **输入关键词**：输入 <u><span style={{color: '#e67c00'}}>Beauty supply store</span></u>，然后点击 <span style={{color: '#3578e5'}}>【确定】</span>。
+  - **选择字段**：选择 <span style={{color: '#3578e5'}}>【分类】</span>。
+  - **设置条件**：选择 <span style={{color: '#3578e5'}}>【包含】</span>。
+  - **输入关键词**：输入 <u><span style={{color: '#e67c00'}}>Beauty supply store</span></u>，然后点击 <span style={{color: '#3578e5'}}>【确定】</span>。
 
 ![三个步骤完成设置](https://cos.files.maozhishi.com/data/web/web-files/img/20241010194351.png)
 
@@ -117,10 +117,11 @@ _图示：设置筛选条件为"创建时间"在"1"天之内。_
 ### 常见问题
 
 - **❓ 筛选和搜索有什么区别？**
-> - 答：**<span style={{color: '#8e44ad'}}>搜索</span>** 是一个一次性的动作，用于在 **<span style={{color: '#8e44ad'}}>当前所有数据</span>** 中查找。而 **<span style={{color: '#8e44ad'}}>视图筛选</span>** 是一个 **<span style={{color: '#8e44ad'}}>持续生效的规则</span>**，它不仅会筛选现有数据，还会自动归类未来新增的、符合规则的数据。
+
+  > - 答：**<span style={{color: '#8e44ad'}}>搜索</span>** 是一个一次性的动作，用于在 **<span style={{color: '#8e44ad'}}>当前所有数据</span>** 中查找。而 **<span style={{color: '#8e44ad'}}>视图筛选</span>** 是一个 **<span style={{color: '#8e44ad'}}>持续生效的规则</span>**，它不仅会筛选现有数据，还会自动归类未来新增的、符合规则的数据。
 
 - **❓ 我可以组合多个条件吗？**
-> - 答：可以。您可以添加多个筛选条件，并设置它们之间的逻辑关系（<span style={{color: '#3578e5'}}>【并且】</span> / <span style={{color: '#3578e5'}}>【或者】</span>），以构建非常精确的目标客户画像。例如，筛选出"美国的"并且"分类包含 restaurant"的商家。
+  > - 答：可以。您可以添加多个筛选条件，并设置它们之间的逻辑关系（<span style={{color: '#3578e5'}}>【并且】</span> / <span style={{color: '#3578e5'}}>【或者】</span>），以构建非常精确的目标客户画像。例如，筛选出"美国的"并且"分类包含 restaurant"的商家。
 
 ### 学习建议
 
@@ -139,8 +140,3 @@ _图示：设置筛选条件为"创建时间"在"1"天之内。_
 🔗 **本文永久链接：** https://laifa.xin/chajian/how-to-quickly-filter-target-google-maps-businesses
 
 <!--@include: ../parts/document-signature.md-->
-
-
-
-
-

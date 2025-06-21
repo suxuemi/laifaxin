@@ -12,6 +12,7 @@ Gmail 是由 Google 提供的流行电子邮件服务，分为免费的 <u><span
 
 :::warning
 为成功绑定个人谷歌邮箱，您必须完成以下两个核心步骤：
+
 1.  在您的 Google 账户中 **启用两步验证**。
 2.  为 👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com) 生成一个专用的 **<span style={{color: '#8e44ad'}}>应用密码</span>**，并使用此密码进行登录。
 
@@ -26,10 +27,10 @@ Gmail 是由 Google 提供的流行电子邮件服务，分为免费的 <u><span
 
 ## 二、核心参数配置 {#core-parameters-configuration}
 
-| **类型** | **服务器地址** | **SSL端口** |
-| :---: | :---: | :---: |
-| <span style={{color: '#3578e5'}}>IMAP收信服务器</span> | `imap.gmail.com` | `993` |
-| <span style={{color: '#3578e5'}}>SMTP发信服务器</span> | `smtp.gmail.com` | `465` |
+|                        **类型**                        |  **服务器地址**  | **SSL端口** |
+| :----------------------------------------------------: | :--------------: | :---------: |
+| <span style={{color: '#3578e5'}}>IMAP收信服务器</span> | `imap.gmail.com` |    `993`    |
+| <span style={{color: '#3578e5'}}>SMTP发信服务器</span> | `smtp.gmail.com` |    `465`    |
 
 ## 三、开启两步验证 {#enable-two-step-verification}
 
@@ -112,10 +113,11 @@ _图示：在密码框中粘贴16位应用密码_
 ### 常见问题 {#faq}
 
 - **❓ 为什么绑定时提示 “IMAP not enabled”？**
-> - 答：这是因为您的 Gmail 账户尚未开启 IMAP 协议。您需要访问 📚[Gmail 转发和 POP/IMAP 设置页面](https://mail.google.com/mail/u/0/#settings/fwdandpop)，在 <u><span style={{color: '#e67c00'}}>IMAP access</span></u> 部分，选择 <span style={{color: '#3578e5'}}>【Enable IMAP】</span>，最后点击 <span style={{color: '#3578e5'}}>【Save Changes】</span>。
+
+  > - 答：这是因为您的 Gmail 账户尚未开启 IMAP 协议。您需要访问 📚[Gmail 转发和 POP/IMAP 设置页面](https://mail.google.com/mail/u/0/#settings/fwdandpop)，在 <u><span style={{color: '#e67c00'}}>IMAP access</span></u> 部分，选择 <span style={{color: '#3578e5'}}>【Enable IMAP】</span>，最后点击 <span style={{color: '#3578e5'}}>【Save Changes】</span>。
 
 - **❓ 我可以不使用“应用密码”，直接用登录密码吗？**
-> - 答：技术上可以，但这需要您在 Google 账户中开启 **<span style={{color: '#8e44ad'}}>“允许安全性较低的应用”</span>** 访问权限。我们 <u><span style={{color: '#d93025'}}>强烈不推荐</span></u> 这样做，因为它会使您的账户面临更高的安全风险。
+  > - 答：技术上可以，但这需要您在 Google 账户中开启 **<span style={{color: '#8e44ad'}}>“允许安全性较低的应用”</span>** 访问权限。我们 <u><span style={{color: '#d93025'}}>强烈不推荐</span></u> 这样做，因为它会使您的账户面临更高的安全风险。
 
 ### 学习建议 {#learning-suggestions}
 
@@ -131,4 +133,3 @@ _图示：在密码框中粘贴16位应用密码_
   - 学习如何在 👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com) 中添加、暂停、编辑或删除已连接的 **<span style={{color: '#8e44ad'}}>邮箱账号</span>**，实现对所有邮箱的集中管理。
 
 🔗 **本文永久链接：** https://laifa.xin/youxiang/101-guge-gmailyouxiang-google-personal-email
-

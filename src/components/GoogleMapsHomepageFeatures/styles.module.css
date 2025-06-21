@@ -14,7 +14,7 @@
 .customFeatureIcon {
   height: 48px;
   width: 48px;
-  background-color: rgba(142, 150, 170, .14);
+  background-color: rgba(142, 150, 170, 0.14);
   border-radius: 6px;
   margin-bottom: 10px;
 }

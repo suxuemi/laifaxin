@@ -3,7 +3,8 @@ title: 谷歌地图插件常见问题
 id: google-maps-plugin-faq
 description: 解答谷歌地图插件使用中的常见问题，包括搜索不准、任务中断、会员权益、浏览器兼容性、数据提取和采集速度慢等，并提供解决方案。
 tags: [谷歌地图插件, 常见问题, FAQ, 故障排查, 使用技巧, 提取邮箱]
-keywords: [谷歌地图, 插件, 搜索不准, 任务中断, 采集速度, 会员权益, 百分浏览器, 数据采集, 提取邮箱, 切换语言]
+keywords:
+  [谷歌地图, 插件, 搜索不准, 任务中断, 采集速度, 会员权益, 百分浏览器, 数据采集, 提取邮箱, 切换语言]
 ---
 
 # 谷歌地图插件常见问题
@@ -16,9 +17,9 @@ keywords: [谷歌地图, 插件, 搜索不准, 任务中断, 采集速度, 会�
 
 - **🎯 核心原因**：搜索结果的准确性主要取决于您使用的 <u><span style={{color: '#e67c00'}}>关键词</span></u>。一个好的关键词策略是高效采集的基础。
 - **✅ 解决方案**：
-    - 请确保您的 <u><span style={{color: '#e67c00'}}>关键词</span></u> 来源于客户在 **<span style={{color: '#e67c00'}}>谷歌地图</span>** 上的官方 <u><span style={{color: '#e67c00'}}>商家名称</span></u> 或 <u><span style={{color: '#e67c00'}}>商家分类</span></u>。
-    - 如果结果不佳，建议先手动筛选出 10-20 个精准的商家样本，分析其 <u><span style={{color: '#e67c00'}}>名称</span></u> 和 <u><span style={{color: '#e67c00'}}>分类</span></u> 的共同特征。
-    - 使用这些共性特征词作为新的 <u><span style={{color: '#e67c00'}}>关键词</span></u> 再次进行搜索。更详细的客户开发策略，请参考 📚[如何使用谷歌地图进行客户开发](./how-to-use-google-maps-for-customer-development)。
+  - 请确保您的 <u><span style={{color: '#e67c00'}}>关键词</span></u> 来源于客户在 **<span style={{color: '#e67c00'}}>谷歌地图</span>** 上的官方 <u><span style={{color: '#e67c00'}}>商家名称</span></u> 或 <u><span style={{color: '#e67c00'}}>商家分类</span></u>。
+  - 如果结果不佳，建议先手动筛选出 10-20 个精准的商家样本，分析其 <u><span style={{color: '#e67c00'}}>名称</span></u> 和 <u><span style={{color: '#e67c00'}}>分类</span></u> 的共同特征。
+  - 使用这些共性特征词作为新的 <u><span style={{color: '#e67c00'}}>关键词</span></u> 再次进行搜索。更详细的客户开发策略，请参考 📚[如何使用谷歌地图进行客户开发](./how-to-use-google-maps-for-customer-development)。
 
 ## 二、浏览器关闭后任务能否继续？ {#can-the-task-be-resumed-after-restarting-the-browser}
 
@@ -29,10 +30,10 @@ keywords: [谷歌地图, 插件, 搜索不准, 任务中断, 采集速度, 会�
 
 升级为付费会员可享受更多高级功能，具体权益对比如下表所示：
 
-| 权限 | 1️⃣ 未注册用户 | 2️⃣ 免费注册用户 | 3️⃣ 付费会员 |
-|:---:|:---:|:---:|:---:|
-| **<span style={{color: '#8e44ad'}}>单次采集上限</span>** | 1,000 | 2,000 | **无限制** |
-| **<span style={{color: '#8e44ad'}}>导出数据权限</span>** | 🔲 不支持 | 🔲 不支持 | ✅ [**支持**](./how-to-use-google-maps-plugin#ke-xuan-dao-chu-zi-duan-de-shuo-ming) |
+|                           权限                           | 1️⃣ 未注册用户 | 2️⃣ 免费注册用户 |                                     3️⃣ 付费会员                                     |
+| :------------------------------------------------------: | :-----------: | :-------------: | :---------------------------------------------------------------------------------: |
+| **<span style={{color: '#8e44ad'}}>单次采集上限</span>** |     1,000     |      2,000      |                                     **无限制**                                      |
+| **<span style={{color: '#8e44ad'}}>导出数据权限</span>** |   🔲 不支持   |    🔲 不支持    | ✅ [**支持**](./how-to-use-google-maps-plugin#ke-xuan-dao-chu-zi-duan-de-shuo-ming) |
 
 ## 四、如何从商家信息中提取邮箱？ {#how-to-extract-emails-from-business-information}
 
@@ -52,8 +53,8 @@ keywords: [谷歌地图, 插件, 搜索不准, 任务中断, 采集速度, 会�
 
 - **⚠️ 原因分析**：浏览器窗口最小化后，操作系统和浏览器本身会降低其资源分配，导致页面加载不完整或被挂起。插件在等待数据加载超时后才会翻页，因此采集速度会显著下降。
 - **💡 解决方案**：
-    - **1️⃣ 推荐浏览器**：我们强烈推荐使用 [**百分浏览器**](https://www.centbrowser.cn/)，并下载其 [64位便携版](https://static.centbrowser.cn/win_stable/5.1.1130.129/centbrowser_5.1.1130.129_x64_portable.exe)。
-    - **2️⃣ 保持窗口**：请确保运行采集任务的浏览器窗口处于 <u><span style={{color: '#d93025'}}>非最小化</span></u> 状态。您可以将其置于其他窗口的下方，但不要最小化它。
+  - **1️⃣ 推荐浏览器**：我们强烈推荐使用 [**百分浏览器**](https://www.centbrowser.cn/)，并下载其 [64位便携版](https://static.centbrowser.cn/win_stable/5.1.1130.129/centbrowser_5.1.1130.129_x64_portable.exe)。
+  - **2️⃣ 保持窗口**：请确保运行采集任务的浏览器窗口处于 <u><span style={{color: '#d93025'}}>非最小化</span></u> 状态。您可以将其置于其他窗口的下方，但不要最小化它。
 
 <br/>
 
@@ -78,13 +79,15 @@ _图示：为保证采集效率，请将采集窗口置于桌面，不要最小�
 ### 常见问题
 
 - **❓ 如何安装插件？**
-> - 答：请参考我们的 📚[谷歌地图插件安装指南](./how-to-install-google-maps-plugin)，其中包含详细的图文步骤。
+
+  > - 答：请参考我们的 📚[谷歌地图插件安装指南](./how-to-install-google-maps-plugin)，其中包含详细的图文步骤。
 
 - **❓ 采集的数据如何进行云端同步？**
-> - 答：数据采集后，您可以利用我们的 📚[云端同步与数据管理](./cloud-synchronize-merchants-and-centralized-data-management) 功能，将数据统一存储，方便管理和协作。
+
+  > - 答：数据采集后，您可以利用我们的 📚[云端同步与数据管理](./cloud-synchronize-merchants-and-centralized-data-management) 功能，将数据统一存储，方便管理和协作。
 
 - **❓ 如何提升数据采集的效率？**
-> - 答：除了上文提到的保持浏览器窗口，您还可以通过 📚[聚焦热门城市](./improve-google-maps-data-collection-efficiency-focus-on-popular-cities) 或 📚[多开插件](./how-to-multi-open-google-maps-plugin) 的方式来提升效率。
+  > - 答：除了上文提到的保持浏览器窗口，您还可以通过 📚[聚焦热门城市](./improve-google-maps-data-collection-efficiency-focus-on-popular-cities) 或 📚[多开插件](./how-to-multi-open-google-maps-plugin) 的方式来提升效率。
 
 ### 学习建议
 
@@ -95,18 +98,14 @@ _图示：为保证采集效率，请将采集窗口置于桌面，不要最小�
 ### 相关阅读
 
 - 📚 [如何从谷歌地图中提取邮箱](./how-to-extract-email-from-google-maps)
-    - 本指南详细解释了如何配置和使用 <u><span style={{color: '#e67c00'}}>邮箱提取</span></u> 功能，帮助您获取更有价值的联系信息。
+  - 本指南详细解释了如何配置和使用 <u><span style={{color: '#e67c00'}}>邮箱提取</span></u> 功能，帮助您获取更有价值的联系信息。
 - 📚 [将谷歌地图界面语言显示为英文](./how-to-display-google-maps-interface-language-as-english)
-    - 学习如何将地图界面设置为 <u><span style={{color: '#e67c00'}}>英文</span></u>，以适应特定的采集需求或解决地区语言显示问题。
+  - 学习如何将地图界面设置为 <u><span style={{color: '#e67c00'}}>英文</span></u>，以适应特定的采集需求或解决地区语言显示问题。
 - 📚 [云端同步商家数据与集中化管理](./cloud-synchronize-merchants-and-centralized-data-management)
-    -  了解如何将采集到的 <u><span style={{color: '#e67c00'}}>商家数据</span></u> 同步到云端，实现团队共享和统一管理，保障数据安全。
+  - 了解如何将采集到的 <u><span style={{color: '#e67c00'}}>商家数据</span></u> 同步到云端，实现团队共享和统一管理，保障数据安全。
 - 📚 [如何快速筛选目标谷歌地图商家](./how-to-quickly-filter-target-google-maps-businesses)
-    -  学习使用插件内置的 <u><span style={{color: '#e67c00'}}>筛选功能</span></u>，根据国家、关键词、评分等多种条件快速定位您的目标客户。
+  - 学习使用插件内置的 <u><span style={{color: '#e67c00'}}>筛选功能</span></u>，根据国家、关键词、评分等多种条件快速定位您的目标客户。
 
 ---
 
 🔗 **本文永久链接：** https://laifa.xin/chajian/google-maps-plugin-faq
-
-
-
-

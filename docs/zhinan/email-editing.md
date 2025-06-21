@@ -2,8 +2,19 @@
 id: email-editing
 title: ✨ 邮件编辑指南
 description: 本文详细介绍了邮件编辑中常用功能，包括复制、粘贴、剪切、撤销、重做，加粗、斜体、下划线、删除线等文字格式处理方法，以及字体、字号、颜色处理和插入图片等操作步骤。通过视频演示和文字说明，让您轻松掌握邮件编辑的技巧和要点。
-tags: ["邮件编辑", "富文本编辑器", "邮件格式化", "文本操作", "图片插入", "附件管理", "来发信"]
-keywords: ["邮件编辑器功能", "复制粘贴", "文字加粗", "字体颜色", "插入图片", "插入附件", "HTML邮件", "邮件模板使用", "来发信教程"]
+tags: ['邮件编辑', '富文本编辑器', '邮件格式化', '文本操作', '图片插入', '附件管理', '来发信']
+keywords:
+  [
+    '邮件编辑器功能',
+    '复制粘贴',
+    '文字加粗',
+    '字体颜色',
+    '插入图片',
+    '插入附件',
+    'HTML邮件',
+    '邮件模板使用',
+    '来发信教程',
+  ]
 ---
 
 # ✨ 邮件编辑指南
@@ -15,12 +26,10 @@ keywords: ["邮件编辑器功能", "复制粘贴", "文字加粗", "字体颜�
 ### 1. 基础操作：复制、粘贴与撤销 {#basic-operations-copy-paste-undo}
 
 - **5个常用操作** ：<u><span style={{color: '#e67c00'}}>复制</span></u>、<u><span style={{color: '#e67c00'}}>粘贴</span></u>、<u><span style={{color: '#e67c00'}}>剪切</span></u>、<u><span style={{color: '#e67c00'}}>撤销</span></u>、<u><span style={{color: '#e67c00'}}>重做</span></u>。
-    - **<span style={{color: '#3578e5'}}>复制/粘贴/剪切</span>** ：选择要复制的内容，右击即可看到功能按钮。
-    - **<span style={{color: '#3578e5'}}>撤销/重做</span>** ：在顶部工具栏可以看到这两个按钮。
-
+  - **<span style={{color: '#3578e5'}}>复制/粘贴/剪切</span>** ：选择要复制的内容，右击即可看到功能按钮。
+  - **<span style={{color: '#3578e5'}}>撤销/重做</span>** ：在顶部工具栏可以看到这两个按钮。
 
 <video src="https://cos.files.maozhishi.com/data/web/web-files/mp4/yjbj-1-copy.mp4" controls></video>
-
 
 _图示：复制、粘贴、剪切、撤销和重做功能操作演示。_
 
@@ -29,7 +38,7 @@ _图示：复制、粘贴、剪切、撤销和重做功能操作演示。_
 ### 2. 文本格式：加粗、斜体与划线 {#text-formatting-emphasis}
 
 - **4个常用格式** ：**<span style={{color: '#e67c00'}}>加粗</span>** 、<u><span style={{color: '#e67c00'}}>斜体</span></u>、<u><span style={{color: '#e67c00'}}>下划线</span></u>、<u><span style={{color: '#e67c00'}}>删除线</span></u>。
-    - **👉 如何操作** ：选择要操作的文字，点击功能栏上对应的<span style={{color: '#3578e5'}}>按钮</span>即可。
+  - **👉 如何操作** ：选择要操作的文字，点击功能栏上对应的<span style={{color: '#3578e5'}}>按钮</span>即可。
 
 <div style={{textAlign: 'center'}}>
     <video src="https://cos.files.maozhishi.com/data/web/web-files/mp4/yjbj-2-bold.mp4" controls></video>
@@ -42,6 +51,7 @@ _图示：文本加粗、斜体、下划线和删除线功能操作演示。_
 ### 3. 文字美化：字体与字号调整 {#font-styling-type-size}
 
 **<span style={{color: '#8e44ad'}}>文字处理</span>** ：需要在<span style={{color: '#3578e5'}}>【更多】</span>中设置<u><span style={{color: '#e67c00'}}>字体</span></u>和<u><span style={{color: '#e67c00'}}>字号</span></u>。
+
 - 1️⃣ **<span style={{color: '#3578e5'}}>字体</span>** ：选择文字后，点击对应的字体。
 - 2️⃣ **<span style={{color: '#3578e5'}}>字号</span>** ：选择文字选择对应的字号即可。
 
@@ -56,6 +66,7 @@ _图示：字体和字号调整功能操作演示。_
 ### 4. 色彩点缀：文字与背景颜色 {#color-customization-text-background}
 
 **<span style={{color: '#8e44ad'}}>颜色处理</span>** ：
+
 - 1️⃣ **<span style={{color: '#3578e5'}}>字体颜色</span>** ：选择文字后，可以修改文字的颜色。
 - 2️⃣ **<span style={{color: '#3578e5'}}>背景颜色</span>** ：文字背景的颜色。
 
@@ -70,6 +81,7 @@ _图示：文字颜色和背景颜色设置功能操作演示。_
 ### 5. 插入图片：本地与网络来源 {#inserting-images-local-url}
 
 **<span style={{color: '#8e44ad'}}>插入图片</span>** ：
+
 - 1️⃣ **<span style={{color: '#3578e5'}}>插入本地图片</span>** ：选择<u><span style={{color: '#e67c00'}}>本地图片</span></u>并上传云端后插入邮件。
 - 2️⃣ **<span style={{color: '#3578e5'}}>插入网络图片</span>** ：贴入要插入的<u><span style={{color: '#e67c00'}}>图片链接</span></u>并插入邮件中。
 
@@ -84,6 +96,7 @@ _图示：插入本地图片和网络图片功能操作演示。_
 ### 6. 添加附件：本地与云端文件 {#attaching-files-local-cloud}
 
 **<span style={{color: '#8e44ad'}}>插入附件</span>** ：
+
 - 1️⃣ **<span style={{color: '#3578e5'}}>插入本地附件</span>** ：点击工具栏上的<span style={{color: '#3578e5'}}>【附件】</span>，并点击<span style={{color: '#3578e5'}}>【本地上传】</span>，选择本地文件即可。
 - 2️⃣ **<span style={{color: '#3578e5'}}>插入云端附件</span>** ：点击工具栏上的<span style={{color: '#3578e5'}}>【附件】</span>，并点击<span style={{color: '#3578e5'}}>【现有附件】</span>，选择云端文件并确定插入。
 
@@ -98,6 +111,7 @@ _图示：插入本地附件和云端附件功能操作演示。_
 ### 7. 内容对齐：左、中、右对齐 {#text-alignment-options}
 
 **4种<span style={{color: '#8e44ad'}}>对齐方式</span>** ：
+
 - 1️⃣ **<span style={{color: '#3578e5'}}>靠左对齐</span>** ：选择的内容靠编辑看<u><span style={{color: '#e67c00'}}>左侧</span></u>对齐。
 - 2️⃣ **<span style={{color: '#3578e5'}}>居中对齐</span>** ：选择的内容居于编辑框<u><span style={{color: '#e67c00'}}>中间</span></u>。
 - 3️⃣ **<span style={{color: '#3578e5'}}>靠右对齐</span>** ：选择的内容靠编辑看<u><span style={{color: '#e67c00'}}>右侧</span></u>对齐。
@@ -113,6 +127,7 @@ _图示：文本对齐方式（左对齐、居中对齐、右对齐）功能操�
 ### 8. 段落缩进：调整文本层级 {#paragraph-indentation}
 
 **<span style={{color: '#8e44ad'}}>缩进方式</span>** ：
+
 - 1️⃣ **<span style={{color: '#3578e5'}}>增加缩进</span>** ：以左侧为准，往右缩进。
 - 2️⃣ **<span style={{color: '#3578e5'}}>减少缩进</span>** ：与<u><span style={{color: '#e67c00'}}>增加缩进</span></u>相反。
 
@@ -141,8 +156,8 @@ _图示：插入表格功能操作演示。_
 #### ② 超链接创建 {#creating-hyperlinks}
 
 - **<span style={{color: '#3578e5'}}>插入链接</span>** ：为<u><span style={{color: '#e67c00'}}>文字</span></u>或者<u><span style={{color: '#e67c00'}}>图片</span></u>插入链接。
-    - 1️⃣ **为文字插入链接** ：选择<u><span style={{color: '#e67c00'}}>文字</span></u>并点击<span style={{color: '#3578e5'}}>【链接】</span>，在弹窗的<span style={{color: '#3578e5'}}>地址</span>中输入目标链接。
-    - 2️⃣ **为图片插入链接** ：选择<u><span style={{color: '#e67c00'}}>图片</span></u>并点击<span style={{color: '#3578e5'}}>【链接】</span>，在弹窗的<span style={{color: '#3578e5'}}>地址</span>中输入目标链接。
+  - 1️⃣ **为文字插入链接** ：选择<u><span style={{color: '#e67c00'}}>文字</span></u>并点击<span style={{color: '#3578e5'}}>【链接】</span>，在弹窗的<span style={{color: '#3578e5'}}>地址</span>中输入目标链接。
+  - 2️⃣ **为图片插入链接** ：选择<u><span style={{color: '#e67c00'}}>图片</span></u>并点击<span style={{color: '#3578e5'}}>【链接】</span>，在弹窗的<span style={{color: '#3578e5'}}>地址</span>中输入目标链接。
 
 <div style={{textAlign: 'center'}}>
     <video src="https://cos.files.maozhishi.com/data/web/web-files/mp4/yjbj-9-2.mp4" controls></video>
@@ -155,6 +170,7 @@ _图示：为文字和图片插入超链接功能操作演示。_
 #### ③ 邮件模板运用 {#using-email-templates}
 
 **<span style={{color: '#8e44ad'}}>邮件模板</span>** ：
+
 - **1️⃣ <span style={{color: '#3578e5'}}>模板管理</span>** ：新建与管理模板。**<span style={{color: '#8e44ad'}}>功能入口</span>** ：[<span style={{color: '#3578e5'}}>【访问邮件模板设置】</span>](https://web.laifaxin.com/settings/templets)；**<span style={{color: '#8e44ad'}}>教程查看</span>** ：📚[邮件模板指南](./email-templates)。
 - **2️⃣ <span style={{color: '#3578e5'}}>切换模板</span>** ：点击<span style={{color: '#3578e5'}}>【模板】</span>按钮，选择要切换的模板即可。
 
@@ -224,11 +240,8 @@ _图示：使用引用区块功能操作演示。_
 ```html
 <h1>这是标题</h1>
 <p>这是段落-1</p>
-<p>这是段落-2第1行
-<br>这是段落-2第2行</p>
-<p>这是段落-3第1行
-<br>这是段落-3第2行
-<br>这是段落-3第3行</p>
+<p>这是段落-2第1行 <br />这是段落-2第2行</p>
+<p>这是段落-3第1行 <br />这是段落-3第2行 <br />这是段落-3第3行</p>
 ```
 
 <div style={{textAlign: 'center'}}>
@@ -242,10 +255,10 @@ _图示：HTML源码编辑模式操作演示。_
 #### ① 通过HTML快速构建邮件 {#rapid-email-construction-with-html}
 
 - **<span style={{color: '#8e44ad'}}>快速编辑邮件</span>** ：
-    - 1️⃣ **<span style={{color: '#3578e5'}}>复制代码</span>** ：从AI生成的界面直接复制代码。
-    - 2️⃣ **<span style={{color: '#3578e5'}}>进入编辑</span>** ：在👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com) 的编辑器中点击<span style={{color: '#3578e5'}}>【源代码】</span>进入编辑页面。
-    - 3️⃣ **<span style={{color: '#3578e5'}}>输入内容</span>** ：在源代码编辑界面粘贴复制的HTML代码。
-    - 4️⃣ **<span style={{color: '#3578e5'}}>内容预览</span>** ：最终的开发信内容生成预览。
+  - 1️⃣ **<span style={{color: '#3578e5'}}>复制代码</span>** ：从AI生成的界面直接复制代码。
+  - 2️⃣ **<span style={{color: '#3578e5'}}>进入编辑</span>** ：在👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com) 的编辑器中点击<span style={{color: '#3578e5'}}>【源代码】</span>进入编辑页面。
+  - 3️⃣ **<span style={{color: '#3578e5'}}>输入内容</span>** ：在源代码编辑界面粘贴复制的HTML代码。
+  - 4️⃣ **<span style={{color: '#3578e5'}}>内容预览</span>** ：最终的开发信内容生成预览。
 
 ![通过HTML代码快速生成邮件流程](https://cos.files.maozhishi.com/data/web/web-files/img/20241111183548.png)
 
@@ -280,9 +293,11 @@ _图示：展示了使用AI工具（如ChatGPT）根据特定指令优化邮件�
 ### 1. 常见问题 {#faq}
 
 - **❓ 邮件编辑器中的快捷键有哪些？**
+
   > - 答：常用的快捷键如 <kbd>Ctrl</kbd>+<kbd>C</kbd> (<u><span style={{color: '#e67c00'}}>复制</span></u>), <kbd>Ctrl</kbd>+<kbd>V</kbd> (<u><span style={{color: '#e67c00'}}>粘贴</span></u>), <kbd>Ctrl</kbd>+<kbd>X</kbd> (<u><span style={{color: '#e67c00'}}>剪切</span></u>), <kbd>Ctrl</kbd>+<kbd>Z</kbd> (<u><span style={{color: '#e67c00'}}>撤销</span></u>), <kbd>Ctrl</kbd>+<kbd>Y</kbd> (<u><span style={{color: '#e67c00'}}>重做</span></u>) 通常都支持。具体可参考编辑器本身的<span style={{color: '#3578e5'}}>帮助文档</span>或<span style={{color: '#3578e5'}}>提示</span>。
 
 - **❓ 如何确保我插入的图片在所有邮箱客户端都能正常显示？**
+
   > - 答：建议使用<u><span style={{color: '#e67c00'}}>广泛支持的图片格式</span></u>（如 JPG, PNG），并注意<u><span style={{color: '#e67c00'}}>图片大小</span></u>，过大的图片可能加载缓慢或被拦截。使用<u><span style={{color: '#e67c00'}}>网络图片链接</span></u>时，确保链接的<u><span style={{color: '#e67c00'}}>长期有效性</span></u>。
 
 - **❓ 使用HTML代码编辑邮件时有什么注意事项？**

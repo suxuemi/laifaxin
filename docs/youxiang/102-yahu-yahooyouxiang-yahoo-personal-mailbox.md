@@ -20,10 +20,10 @@ keywords: ['雅虎邮箱', 'Yahoo', '应用程式密码', 'IMAP', 'SMTP', '第�
 
 ## 一、核心参数配置 {#core-parameters-configuration}
 
-| **类型** | **服务器地址** | **SSL端口** |
-| :---: | :---: | :---: |
-| <span style={{color: '#3578e5'}}>IMAP收信服务器</span> | `imap.mail.yahoo.com` | `993` |
-| <span style={{color: '#3578e5'}}>SMTP发信服务器</span> | `smtp.mail.yahoo.com` | `465` |
+|                        **类型**                        |    **服务器地址**     | **SSL端口** |
+| :----------------------------------------------------: | :-------------------: | :---------: |
+| <span style={{color: '#3578e5'}}>IMAP收信服务器</span> | `imap.mail.yahoo.com` |    `993`    |
+| <span style={{color: '#3578e5'}}>SMTP发信服务器</span> | `smtp.mail.yahoo.com` |    `465`    |
 
 ## 二、生成应用程式密码 {#generate-app-password}
 
@@ -78,10 +78,11 @@ _图示：邮箱状态显示正常，表示绑定成功_
 ### 常见问题 {#faq}
 
 - **❓ 为什么我找不到"产生应用程式密码"的选项？**
-> - 答：这通常意味着您的账户尚未启用 **<span style={{color: '#8e44ad'}}>两步验证</span>**。雅虎要求必须先开启两步验证，才能生成应用程式密码。请先在 <span style={{color: '#3578e5'}}>【账户安全性】</span> 页面完成两步验证的设置。
+
+  > - 答：这通常意味着您的账户尚未启用 **<span style={{color: '#8e44ad'}}>两步验证</span>**。雅虎要求必须先开启两步验证，才能生成应用程式密码。请先在 <span style={{color: '#3578e5'}}>【账户安全性】</span> 页面完成两步验证的设置。
 
 - **❓ 应用程式密码和我的登录密码有什么区别？**
-> - 答：**<span style={{color: '#8e44ad'}}>应用程式密码</span>** 是专门为第三方应用设计的独立密码，它允许应用访问您的邮箱，而无需暴露您的主登录密码。这是一种更安全的方式，即使应用密码泄露，您的主账户依然安全。
+  > - 答：**<span style={{color: '#8e44ad'}}>应用程式密码</span>** 是专门为第三方应用设计的独立密码，它允许应用访问您的邮箱，而无需暴露您的主登录密码。这是一种更安全的方式，即使应用密码泄露，您的主账户依然安全。
 
 ### 学习建议 {#learning-suggestions}
 
@@ -101,4 +102,3 @@ _图示：邮箱状态显示正常，表示绑定成功_
   - 学习如何在 👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com) 中添加、暂停、编辑或删除已连接的 **<span style={{color: '#8e44ad'}}>邮箱账号</span>**，实现对所有邮箱的集中管理。
 
 🔗 **本文永久链接：** https://laifa.xin/youxiang/102-yahu-yahooyouxiang-yahoo-personal-mailbox
-

@@ -30,7 +30,7 @@
 }
 
 .right-content {
-    /* width: 50%; */
+  /* width: 50%; */
   pointer-events: none;
 }
 
@@ -248,7 +248,6 @@
 .contact-contact:hover {
   color: #445a89;
 }
-
 
 .last-section {
   margin-bottom: 0px;

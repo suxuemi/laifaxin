@@ -2,8 +2,8 @@
 
 video {
   max-width: 100%; /* 确保视频宽度不超过其容器 */
-  height: auto;    /* 高度自动调整以保持宽高比 */
-  display: block;  /* 确保视频作为块级元素，可以设置边距等 */
+  height: auto; /* 高度自动调整以保持宽高比 */
+  display: block; /* 确保视频作为块级元素，可以设置边距等 */
   margin-bottom: 1rem; /* 在视频下方添加一些间距，可选 */
 }
 
