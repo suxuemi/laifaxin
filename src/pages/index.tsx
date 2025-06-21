@@ -43,7 +43,7 @@ function HomepageHeader() {
             <div className={styles.heroImageContainer}>
               <img
                 className={styles.heroImage}
-                src="/img/lfx-logo.png"
+                src="https://cos.files.maozhishi.com/data/web/web-files/lfx-logo.png"
                 alt="LFX Logo"
               />
             </div>
