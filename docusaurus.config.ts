@@ -20,7 +20,7 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
-  // trailingSlash: false, // <--- 添加或修改此行 URL 将以 .html 结尾
+  trailingSlash: false, // <-- 设置为 false，URL 将不以 / 结尾
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
