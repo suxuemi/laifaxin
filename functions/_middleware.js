@@ -1,5 +1,5 @@
-// A map of static redirects.
-// All keys are normalized to not have a trailing slash.
+// 静态重定向的映射。
+// 所有的键都经过规范化，不带末尾的斜杠。
 const staticRedirects = {
   "/web-503-yinxiaoshuju-marketing-data":
     "https://www.laifa.xin/zhinan/email-mass-sending.html#marketing-data",
@@ -198,26 +198,32 @@ const staticRedirects = {
 export async function onRequest(context) {
   const { request } = context;
   const url = new URL(request.url);
+  const { pathname } = url;
 
-  // Normalize pathname by removing trailing slash (if not root)
-  let { pathname } = url;
+  // 规则1：如果路径名有末尾的斜杠（并且不是根目录），则重定向。
+  // 这应该是第一条规则，以确保一致性。
   if (pathname.length > 1 && pathname.endsWith("/")) {
-    pathname = pathname.slice(0, -1);
+    const destination = url.href.slice(0, -1);
+    return Response.redirect(destination, 301);
   }
 
-  // Rule 1: Handle static redirects from the map using the normalized path.
+  // 处理完末尾斜杠后，后续规则的 `pathname`
+  // 将不带末尾斜杠。我们直接使用 `pathname` 进行查找。
+  // 原始代码对路径进行了规范化，但由于我们首先进行重定向，
+  // 我们可以简化逻辑。
+
+  // 规则2：处理来自映射的静态重定向。
   if (pathname in staticRedirects) {
     const destination = staticRedirects[pathname];
     return Response.redirect(destination, 301);
   }
 
-  // Rule 2: Remove .html extension.
-  // This check is independent of the trailing slash normalization.
-  if (url.pathname.endsWith(".html")) {
+  // 规则3：移除 .html 扩展名。
+  if (pathname.endsWith(".html")) {
     const destination = url.href.slice(0, -5); // "https://.../path.html" -> "https://.../path"
     return Response.redirect(destination, 301);
   }
 
-  // If no rules match, continue to the requested page.
+  // 如果没有规则匹配，则继续访问请求的页面。
   return context.next();
 }
