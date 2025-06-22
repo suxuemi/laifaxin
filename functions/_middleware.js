@@ -33,8 +33,5 @@ export async function onRequest(context) {
   }
 
   // 如果没有规则匹配，则继续访问请求的页面。
-  // 在返回响应前，添加一个自定义的调试头，以验证中间件是否运行。
-  const response = await context.next();
-  response.headers.set("X-Debug-Middleware-Ran", "Yes");
-  return response;
+  return context.next();
 }
