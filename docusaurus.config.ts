@@ -22,6 +22,8 @@ const config = {
 
   trailingSlash: false, // <-- 设置为 false，URL 将不以 / 结尾
 
+  scripts: ["/js/redirects.js"],
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "suxuemi", // Usually your GitHub org/user name.
