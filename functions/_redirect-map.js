@@ -1,4 +1,5 @@
 export const staticRedirects = {
+  "/zhinan/what-is-laifaxin": "https://www.laifa.xin/zhinan/meet-laifaxin",
   "/web-503-yinxiaoshuju-marketing-data":
     "https://www.laifa.xin/zhinan/email-mass-sending#marketing-data",
   "/web-502-youjianzhuizong-mail-tracking":
