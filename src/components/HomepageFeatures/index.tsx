@@ -18,8 +18,7 @@ const FeatureList = [
     Svg: require("@site/static/svg/verification.svg").default,
     description: (
       <>
-        免费：邮箱验证服务完全免费 批量：单日可验证上百万邮箱
-        准确：全球邮箱验证准确率99%+
+        免费：邮箱验证服务完全免费；批量：单日可验证上百万邮箱；准确：全球邮箱验证准确率99%+
       </>
     ),
   },
@@ -28,8 +27,7 @@ const FeatureList = [
     Svg: require("@site/static/svg/market.svg").default,
     description: (
       <>
-        支持邮件追踪，随时客户最新动态 支持数据统计，一图了解发送效果
-        低成本，个性化，免费试用，上手快
+        支持邮件追踪，随时获取客户最新动态，支持数据统计，一图了解发送效果，低成本，个性化，免费试用
       </>
     ),
   },
