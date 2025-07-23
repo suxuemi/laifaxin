@@ -18,9 +18,7 @@ function HomepageHeader() {
             <h1 className={styles.heroTitle}>
               <span className={styles.heroTitleText1}>来发信</span>
               <br />
-              为外贸企业提供全球营
-              <br />
-              销的一站式服务平台
+              为外贸企业提供全球营销的一站式服务平台
             </h1>
             <p className={styles.heroSubtitle}>
               为业务出海提供高性价比选择，助力拓展全球市场
@@ -52,7 +50,7 @@ function HomepageHeader() {
             <div className={styles.heroImageContainer}>
               <img
                 className={styles.heroImage}
-                src="https://cos.files.maozhishi.com/data/web/web-files/lfx-logo.png"
+                src="/img/lfx-logo.png"
                 alt="LFX Logo"
               />
             </div>
