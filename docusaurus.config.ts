@@ -95,6 +95,7 @@ const config = {
 
   // 搜索插件支持中文  使用 npm run serve 运行项目测试搜索
   themes: [
+    // 搜索主题
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
@@ -104,7 +105,13 @@ const config = {
         docsRouteBasePath: "/",
       },
     ],
+    // Mermaid 主题
+    require.resolve('@docusaurus/theme-mermaid'),
   ],
+
+  markdown: {
+    mermaid: true,
+  },
 
   themeConfig: {
     // Replace with your project's social card
@@ -254,6 +261,11 @@ const config = {
             {
               label: "客户篇（待更新）",
               href: "#",
+            },
+            {
+              label: "建站篇",
+              type: "doc",
+              docId: "share/website/ai-powered-website-in-10-minutes",
             },
           ],
         },

@@ -28,6 +28,7 @@ keywords:
 
 ---
 
+
 ## 二、解你困境之忧！ {#core-advantages}
 
 |                ⚠️外贸人常见困境⚠️                 | 🎁来发信的优势🎁                                                                                                                                                                |
@@ -40,6 +41,7 @@ keywords:
 |       **客户管理混乱**<br/>_信息多，跟进难_       | **<span style={{color: '#8e44ad'}}>精细化客户管理(CRM)</span>**，高效协作！<br/><u><span style={{color: '#e67c00'}}>百万级客户轻松管理</span></u>，标签视图分类清晰。           |
 
 ## 三、核心功能一览 {#core-features}
+
 
 - **🎯 全球客户智能搜索**
 

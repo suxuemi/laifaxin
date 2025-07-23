@@ -562,6 +562,11 @@ const sidebars: SidebarsConfig = {
               label: "腾讯元宝打造cold email",
               id: "share/email/Create-High-Response-Foreign-Trade-Development-Letters-with-Tencent-Yuanbao",
             },
+            {
+              type: "doc",
+              label: "10分钟打造精美落地页",
+              id: "share/website/ai-powered-website-in-10-minutes",
+            },
           ],
         },
         {
