@@ -562,11 +562,6 @@ const sidebars: SidebarsConfig = {
               label: "腾讯元宝打造cold email",
               id: "share/email/Create-High-Response-Foreign-Trade-Development-Letters-with-Tencent-Yuanbao",
             },
-            {
-              type: "doc",
-              label: "10分钟打造精美落地页",
-              id: "share/website/ai-powered-website-in-10-minutes",
-            },
           ],
         },
         {
@@ -578,6 +573,29 @@ const sidebars: SidebarsConfig = {
               type: "link",
               label: "更新中",
               href: "#",
+            },
+          ],
+        },
+      ],
+    },
+    {
+      type: "category",
+      label: "教程",
+      items: [
+        {
+          type: "category",
+          label: "建站篇",
+          collapsed: true,
+          items: [
+            {
+              type: "doc",
+              label: "10分钟打造精美落地页",
+              id: "share/website/ai-powered-website-in-10-minutes",
+            },
+            {
+              type: "doc",
+              label: "图床批量转移指南-小书匠",
+              id: "share/website/story-writer-github-image-hosting-guide",
             },
           ],
         },

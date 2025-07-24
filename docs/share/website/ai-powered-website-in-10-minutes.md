@@ -29,7 +29,7 @@ keywords: [AI生成网站, 产品落地页, 外贸数字营销, 零代码建站,
 
 ---
 
-## **一、整体流程概览：10分钟搞定，就这几步**
+## **一、流程概览：10分钟搞定，就这几步**
 
 为了让你心中有数，我把整个过程画成了一张图，跟着走就行。
 
@@ -67,13 +67,13 @@ graph TD
 
 ---
 
-## 三、实战开始：从一个62M的PPT到询盘网站
+## 三、实战开始：从PPT到询盘网站
 
 我们今天的案例，就是要把下面这个62M的产品PPT，变成一个在线的、能收询盘的落地页。
 
 ![这是一个62M大小的产品目录PPT文件，我们将以此为起点，开启10分钟建站挑战](https://cos.files.maozhishi.com/data/web/web-files/img/20250723130828.png)
 
-### **步骤1：文件格式转换 (WPS)**
+### 步骤1：文件格式转换 (WPS)
 
 用WPS打开PPT，先另存为PDF。
 
@@ -106,7 +106,7 @@ Markdown链接：`https://www.yuque.com/qiudiss/lqafye/xhvd4kxgygg5fkwe/markdown
 
 ![在浏览器中访问文档的Markdown版本，页面会显示纯文本的Markdown代码，这是我们下一步的“原料”](https://cos.files.maozhishi.com/data/web/web-files/img/20250723002833.png)
 
-### **步骤3：批量处理图片链接 (小书匠)**
+### 步骤3：批量处理图片链接 (小书匠)
 
 语雀的图片链接有“防盗链”，直接用在其他网站上会裂开。必须替换掉。
 *下载地址：`https://soft.xiaoshujiang.com/download/` (如果下载困难，**进群我直接发你安装包**)*
@@ -115,7 +115,7 @@ Markdown链接：`https://www.yuque.com/qiudiss/lqafye/xhvd4kxgygg5fkwe/markdown
 
 ![在小书匠编辑器中，使用其强大的图床转换功能，批量处理Markdown中的语雀图片链接](https://cos.files.maozhishi.com/data/web/web-files/img/20250723002710.png)
 
-### **步骤4：AI梳理内容 (Google AI Studio)**
+### 步骤4：AI梳理内容(AI Studio)
 
 处理完图片后，内容依然是“毛坯房”。现在轮到AI精装修了。
 打开 `https://aistudio.google.com/`，用下面的Prompt，让AI帮我们把杂乱的文字整理成有逻辑的网站文案。
@@ -135,7 +135,7 @@ Markdown链接：`https://www.yuque.com/qiudiss/lqafye/xhvd4kxgygg5fkwe/markdown
 
 ![AI处理完成后，仔细核对输出的内容，确保产品名称、规格等关键信息准确无误](https://cos.files.maozhishi.com/data/web/web-files/img/20250723112838.png)
 
-### **步骤5：AI生成落地页 (Bolt.new)**
+### 步骤5：AI生成落地页 (Bolt)
 
 最激动人心的时刻！我们将用AI一句话建站。
 **请务必通过我的专属邀请链接注册，你我都能获得更多的免费额度。你获得的额度越多，我能做的测试和教程就越多，这是一个正向循环，我们一起薅羊毛，一起成长！**
@@ -156,7 +156,7 @@ Markdown链接：`https://www.yuque.com/qiudiss/lqafye/xhvd4kxgygg5fkwe/markdown
 
 ![将详细要求和产品信息粘贴到Bolt的输入框中，准备让AI大展身手](https://cos.files.maozhishi.com/data/web/web-files/img/20250723113620.png)
 
-点击生成，AI开始7x24小时为你打工...
+点击生成，AI开始为你打工...
 
 ![AI正在根据我们的指令，实时编写代码并生成网页预览，过程完全自动化](https://cos.files.maozhishi.com/data/web/web-files/img/20250723113726.png)
 
@@ -180,7 +180,7 @@ AI甚至还贴心地设计了产品分类切换的功能，交互体验很棒！
 
 ![新页面中的产品展示区，带有可点击的tab，用户可以方便地切换查看不同系列的产品](https://cos.files.maozhishi.com/data/web/web-files/img/20250723115449.png)
 
-### **步骤6：让询盘表单“活”起来 (Pixeltrack)**
+### 步骤6：让询盘表单“活”起来
 
 现在网站底部的表单还只是个摆设，无法接收询盘。我们需要 `https://pixeltrack.laifa.xin/` 这个系统来盘活它。它能帮你收询盘，还能发邮件通知你。
 
