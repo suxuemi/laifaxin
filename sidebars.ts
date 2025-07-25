@@ -597,6 +597,11 @@ const sidebars: SidebarsConfig = {
               label: "图床批量转移指南-小书匠",
               id: "share/website/story-writer-github-image-hosting-guide",
             },
+            {
+              type: "doc",
+              label: "Bolt Token不够用？带你薅！",
+              id: "share/website/bolt-token-referral-guide",
+            },
           ],
         },
       ],
