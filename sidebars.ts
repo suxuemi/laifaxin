@@ -589,8 +589,13 @@ const sidebars: SidebarsConfig = {
           items: [
             {
               type: "doc",
-              label: "10分钟打造精美落地页",
+              label: "10分钟打造精美落地页-bolt",
               id: "share/website/ai-powered-website-in-10-minutes",
+            },
+            {
+              type: "doc",
+              label: "10分钟打造精美落地页-v0",
+              id: "share/website/vercel-v0-ai-website-guide",
             },
             {
               type: "doc",
