@@ -608,6 +608,11 @@ const sidebars: SidebarsConfig = {
               label: "Bolt Token不够用？带你薅！",
               id: "share/website/bolt-token-referral-guide",
             },
+            {
+              type: "doc",
+              label: "SEO不焦虑！带你从0到1询盘！",
+              id: "share/website/indie-site-seo-guide-for-newbies",
+            },
           ],
         },
       ],
