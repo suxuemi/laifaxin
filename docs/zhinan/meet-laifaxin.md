@@ -40,7 +40,59 @@ keywords:
 |    **邮件营销效率低**<br/>_易进垃圾箱，回复少_    | **<span style={{color: '#8e44ad'}}>智能邮件营销</span>**，提升送达与回复！<br/>群发、个性模板、📚[追踪邮件效果](./email-tracking)、📚[自动过滤无效邮箱](./email-verification)。 |
 |       **客户管理混乱**<br/>_信息多，跟进难_       | **<span style={{color: '#8e44ad'}}>精细化客户管理(CRM)</span>**，高效协作！<br/><u><span style={{color: '#e67c00'}}>百万级客户轻松管理</span></u>，标签视图分类清晰。           |
 
-## 三、核心功能一览 {#core-features}
+- 还在为客户难寻、转化率低而烦恼？
+- 来发信将外贸开发化繁为简。我们独创的“五步询盘法”，助您轻松解锁询盘密码！
+
+```mermaid
+graph TD
+    subgraph " "
+        direction TB
+        A("<strong>🎯 终极目标</strong><br>获取源源不断的有效询盘！") --> B;
+
+        subgraph "<strong>第1步：知己知彼 (准备)</strong>"
+            B("<strong>客户画像 & 特征提取</strong><br>明确你要找谁，他们有什么特点")
+        end
+
+        B --> C;
+
+        subgraph "<strong>第2步：主动出击 (五步询盘法)</strong>"
+            direction LR
+            C("<strong>搜 (Search)</strong> - 全球寻宝<br>10分钟搜9999+潜在客户") --> D("<strong>筛 (Filter)</strong> - 沙里淘金<br>从9999+中筛出1000精准目标");
+            D --> E("<strong>存 (Save)</strong> - 精准入库<br>一键保存10000+买家邮箱");
+            E --> F("<strong>管 (Manage)</strong> - 运筹帷幄<br>轻松管理100万级客户");
+            F --> G("<strong>发 (Market)</strong> - 高效触达<br>每天发送10000+开发信");
+        end
+
+        G --> H("<strong>🎉 恭喜！🎉</strong><br>收获询盘！");
+        H --> I;
+
+        subgraph "<strong>第3步：持续优化 (循环增长)</strong>"
+            I("<strong>增长引擎</strong><br>利用新询盘，找到更多同类客户")
+        end
+
+        I --> B;
+    end
+
+    classDef startNode fill:#e67c00,stroke:#333,stroke-width:2px,color:#fff;
+    classDef stepNode fill:#8e44ad,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef workflowNode fill:#3578e5,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef successNode fill:#27ae60,stroke:#fff,stroke-width:2px,color:#fff;
+
+    class A startNode;
+    class B,I stepNode;
+    class C,D,E,F,G workflowNode;
+    class H successNode;
+
+    click B "./customer-profiling-section" "点击查看如何进行客户画像分析"
+    click C "./customer-search" "点击查看如何搜索全球客户"
+    click D "./filter-search-results" "点击查看如何筛选搜索结果"
+    click E "./save-customer-emails" "点击查看如何保存客户资料"
+    click F "./customer-management" "点击查看如何管理客户"
+    click G "./email-mass-sending" "点击查看如何进行邮件营销"
+    click I "./search-logic-section" "点击查看如何利用新询盘开启增长飞轮"
+```
+
+## 四、核心功能一览 {#core-features}
 
 
 - **🎯 全球客户智能搜索**
