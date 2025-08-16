@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/pages/markdown-page.md",
-                "mode": "preview",
+                "file": "docs/zhinan/contacts-tags-views.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "markdown-page"
+              "title": "contacts-tags-views"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "google-maps-plugin-welcome",
+                "query": "视图",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/pages/markdown-page.md",
+                "file": "docs/zhinan/contacts-tags-views.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "markdown-page 的大纲"
+              "title": "contacts-tags-views 的大纲"
             }
           }
         ],
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 521.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,6 +170,17 @@
   },
   "active": "78910004ce4d474c",
   "lastOpenFiles": [
+    "docs/zhinan/contacts-tags-views-01.md",
+    "docs/zhinan/contacts-tags-views.md",
+    "backup/docs/contacts-tags-views.md",
+    "backup/docs/email-1.md",
+    "docs/zhinan/contact-us.md",
+    "docs/zhinan/tag-management.md",
+    "backup/标签与视图-2.md",
+    "backup/标签与视图-1.md",
+    "backup/标签与视图-3.md",
+    "backup/标签与视图.md",
+    "src/pages/markdown-page.md",
     "build/chajian/what-is-google-maps-business-collection.html",
     "build/chajian/what-are-the-benefits-of-inviting-friends-to-use-the-google-maps-plugin.html",
     "build/chajian/improve-google-maps-data-collection-efficiency-focus-on-popular-cities.html",
@@ -180,7 +191,6 @@
     "build/chajian/how-to-extract-restaurant-list-in-new-york-area-from-google-maps.html",
     "build/chajian/how-to-extract-phone-number-from-google-maps.html",
     "build/chajian/how-to-install-google-maps-plugin.html",
-    "build/chajian/how-to-extract-longitude-and-latitude-from-google-maps.html",
     "build/en/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg",
     "build/en/svg/verification.svg",
     "build/en/svg/trace.svg",
@@ -205,8 +215,6 @@
     "node_modules/@fortawesome/fontawesome-common-types/README.md",
     "docs/chajian/google-maps-plugin-welcome.md",
     "docs/chajian/how-to-extract-restaurant-list-in-new-york-area-from-google-maps.md",
-    "docs/chajian/how-to-extract-phone-number-from-google-maps.md",
-    "docs/zhinan/add-contacts.md",
-    "docs/zhinan/add-company.md"
+    "docs/chajian/how-to-extract-phone-number-from-google-maps.md"
   ]
 }
