@@ -187,35 +187,53 @@ graph LR
 
 ### 任务一：基础准备 - 建立标签体系
 
+**🎯 本任务目标：** 为所有客户打上清晰、统一的“名片”，这是后续所有自动化操作的基础。整个过程分为三个核心步骤：
+
 ```mermaid
 graph LR
-    A["<b>起点</b><br>fa:fa-users 客户数据"] --> B["<b>任务一：建立标签体系</b><br>fa:fa-tags 为数据赋予含义"];
-    style A fill:#f5f5f5,stroke:#ccc
-    style B fill:#e6f2ff,stroke:#b3d9ff,stroke-width:2px
+    subgraph sg1 [<b>第1步: 搭建分类框架</b>]
+        direction TB
+        A["fa:fa-folder-open <b>操作:</b><br>创建标签分组"] --> B["<b>产出 (标签框架):</b><br>1️⃣ 客户<br>2️⃣ 意向<br>3️⃣ 风险"];
+    end
+
+    subgraph sg2 [<b>第2步: 标记客户属性</b>]
+        direction TB
+        C["fa:fa-tags <b>操作:</b><br>遵循“黄金公式”创建标签"] --> D["<b>产出 (客群标签):</b><br><i>英语-美国-皮筏艇-经销商</i><br><i>德语-德国-汽车配件-工厂</i><br><i>英语-英国-皮筏艇-经销商</i>"];
+    end
+
+    subgraph sg3 [<b>第3步: 应用“名片”</b>]
+        direction TB
+        E["fa:fa-user-plus <b>操作:</b><br>保存/导入客户时选择标签"] --> F["<b>产出 (已标签的客户):</b><br><br>大量打好标签的联系人<br><br>"];
+    end
+
+    sg1 --> sg2 --> sg3;
+
+    %% Styling
+    style A fill:#e6f2ff,stroke:#b3d9ff
+    style B fill:#f0fff0,stroke:#cce5cc
+    style C fill:#e6f2ff,stroke:#b3d9ff
+    style D fill:#f0fff0,stroke:#cce5cc
+    style E fill:#e6f2ff,stroke:#b3d9ff
+    style F fill:#f0fff0,stroke:#cce5cc
 ```
-**本任务目标：** 为所有客户打上清晰、统一的“名片”，这是后续所有自动化操作的基础。
 
-#### 1. 创建标签分组
 
-首先，我们需要为“名片”建立分类档案盒。
+---
+
+#### **具体操作分解**
+
+**1. 创建标签分组 (搭建“标签框架”)**
 - **操作路径**：进入 **[标签管理](https://web.laifaxin.com/settings/tags)** 页面。
-- **执行动作**：点击“新建分组”，依次创建以下三个核心分组：
-  - `客户` (用于存放描述性标签)
-  - `意向` (用于标记客户跟进状态)
-  - `风险` (用于标记需要排除的客户)
+- **执行动作**：点击“新建分组”，依次创建 `客户`、`意向`、`风险` 三个核心分组。
 
 ![在“标签管理”页面成功创建“客户”、“意向”、“风险”三个分组的截图。](https://cos.files.maozhishi.com/data/web/web-files/img/20250817151457.png)
 
-#### 2. 创建客户标签
-
-接下来，为你的主要客户群体定制“名片”模板。
+**2. 创建客户标签 (体现“客群属性”)**
 - **操作路径**：在 `客户` 分组下，点击“新建标签”。
 - **执行动作**：遵循“**黄金公式**” (`语言-国家-产品-角色`)，创建几个你最常用的客户标签。
   - **示例**：`英语-美国-皮筏艇-经销商`、`德语-德国-汽车配件-工厂`
 
-#### 3. 保存客户&标签应用
-
-现在，将客户资料入库，并为他们派发“名片”。
+**3. 保存客户 & 标签应用 (关联“客户属性”)**
 - **操作路径**：从 **[搜客系统](https://web.laifaxin.com/search/global-engine)** 保存或在 **[联系人管理](https://web.laifaxin.com/contacts/contacts)** 页面导入。
 - **执行动作**：在保存或导入时，直接为客户选择对应的描述性标签。
   - **核心原则**：**放心大胆地一次性保存所有目标联系人**。后续的邮件序列会自动控制发送频率，无需担心骚扰问题。
