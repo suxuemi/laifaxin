@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zhinan/contacts-tags-views.md",
+                "file": "backup/标签与视图-3.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "contacts-tags-views"
+              "title": "标签与视图-3"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "视图",
+                "query": "contacts-tags-views",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 494.5
   },
   "right": {
     "id": "64cfc46a0d7e3253",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/chajian/google-maps-plugin-welcome.md",
+                "file": "backup/标签与视图-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "google-maps-plugin-welcome 的反向链接列表"
+              "title": "标签与视图-3 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/chajian/google-maps-plugin-welcome.md",
+                "file": "backup/标签与视图-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "google-maps-plugin-welcome 的出链列表"
+              "title": "标签与视图-3 的出链列表"
             }
           },
           {
@@ -142,17 +142,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zhinan/contacts-tags-views.md",
+                "file": "backup/标签与视图-3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "contacts-tags-views 的大纲"
+              "title": "标签与视图-3 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,15 +169,31 @@
   },
   "active": "78910004ce4d474c",
   "lastOpenFiles": [
-    "docs/zhinan/contacts-tags-views-01.md",
-    "docs/zhinan/contacts-tags-views.md",
+    "docs/_archive.md",
+    "backup/标签与视图-3.md",
+    "backup/标签与视图-1.md",
     "backup/docs/contacts-tags-views.md",
+    "docs/_archive/zhinan/email-sequence-guide-1.md",
+    "backup/docs/email-5.md",
+    "docs/_archive/zhinan/contacts-tags-views.md",
+    "backup/docs/customer-management-section.md",
+    "docs/zhinan/check-new-emails.md",
+    "docs/_archive/zhinan/customer-management-section.md",
+    "docs/_archive/zhinan",
+    "docs/zhinan/contacts-tags-views.md",
+    "docs/_archive/zhinan/customer-management-section-2025-08-17.md",
+    "docs/_archive",
+    "docs/zhinan/customer-management-section.md",
+    "docs/zhinan/customer-profiling-section.md",
+    "docs/zhinan/control-quantity-cost-reduction-and-efficiency-enhancement.md",
+    "docs/zhinan/customer-management.md",
+    "docs/zhinan/customer-management-section-02.md",
+    "docs/zhinan/email-sequence-guide.md",
+    "docs/zhinan/contacts-tags-views-01.md",
     "backup/docs/email-1.md",
     "docs/zhinan/contact-us.md",
     "docs/zhinan/tag-management.md",
     "backup/标签与视图-2.md",
-    "backup/标签与视图-1.md",
-    "backup/标签与视图-3.md",
     "backup/标签与视图.md",
     "src/pages/markdown-page.md",
     "build/chajian/what-is-google-maps-business-collection.html",
@@ -189,8 +204,6 @@
     "build/chajian/how-to-quickly-filter-target-google-maps-businesses.html",
     "build/chajian/how-to-multi-open-google-maps-plugin.html",
     "build/chajian/how-to-extract-restaurant-list-in-new-york-area-from-google-maps.html",
-    "build/chajian/how-to-extract-phone-number-from-google-maps.html",
-    "build/chajian/how-to-install-google-maps-plugin.html",
     "build/en/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg",
     "build/en/svg/verification.svg",
     "build/en/svg/trace.svg",
@@ -201,20 +214,6 @@
     "build/en/svg/market.svg",
     "build/en/svg/mail.svg",
     "build/en/svg/features.svg",
-    "docs/share/mailbox/从无人问津到30天斩获8个合作伙伴！.md",
-    "docs/share/mailbox/free-enterprise-email-larksuite.md",
-    "docs/share/tutorial/广交会数据的正确使用姿势.md",
-    "docs/share/mailbox/apply-for-free-email.md",
-    "docs/share/email/Optimize-Your-Cold-Emails-with-AI.md",
-    "docs/share/email/Create-High-Response-Foreign-Trade-Development-Letters-with-Tencent-Yuanbao.md",
-    "docs/share/email/national-day-holiday-push-orders-foreign-trade-peoples-emergency-action-guide.md",
-    "docs/share/mailbox/2大步骤，让你轻松获取谷歌地图会员.md",
-    "docs/share/30-day-transformation-cleverly-using-Google-Maps-to-secure-10-overseas-partners.md",
-    "node_modules/@fortawesome/free-solid-svg-icons/README.md",
-    "node_modules/@fortawesome/react-fontawesome/README.md",
-    "node_modules/@fortawesome/fontawesome-common-types/README.md",
-    "docs/chajian/google-maps-plugin-welcome.md",
-    "docs/chajian/how-to-extract-restaurant-list-in-new-york-area-from-google-maps.md",
-    "docs/chajian/how-to-extract-phone-number-from-google-maps.md"
+    "docs/share/mailbox/从无人问津到30天斩获8个合作伙伴！.md"
   ]
 }
