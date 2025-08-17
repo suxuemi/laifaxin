@@ -84,11 +84,11 @@ graph LR
     end
 
     subgraph V [<b>第二步：筛选</b>]
-        Views["fa:fa-filter <b>工具二：视图 (Views)</b><br><i>创建可自动更新的智能筛选器</i><br><br><b>解决问题:</b><br>难以快速找到目标客户"]
+        Views["fa:fa-filter <b>工具二：视图 (Views)</b><br><i>创建自动更新的智能筛选器</i><br><br><b>解决问题:</b><br>难以快速找到目标客户"]
     end
 
     subgraph S [<b>第三步：执行</b>]
-        Sequences["fa:fa-cogs <b>工具三：邮件序列 (Sequences)</b><br><i>设计不知疲倦的自动化跟进流程</i><br><br><b>解决问题:</b><br>手动跟进效率低、易遗忘"]
+        Sequences["fa:fa-cogs <b>工具三：邮件序列 (Sequences)</b><br><i>设计自动化跟进流程</i><br><br><b>解决问题:</b><br>手动跟进效率低、易遗忘"]
     end
 
     T --> V --> S
@@ -203,21 +203,102 @@ graph LR
 - **视图二：`排除-风险客户`**
   - **筛选条件**：`标签` `任意包含` `同行❌`, `退订🚫`, `其他⛔`
 
-#### 2. 目标客群视图 (锁定“营销目标”)
 
-接下来，我们创建视图来锁定不同层级的营销目标。
+#### 2. 锁定营销目标：创建两层客群视图
 
-- **视图三：`[All]英语-皮筏艇-经销商`** (所有潜在目标)
-  - **用途**：圈定所有符合我们初步开发条件的“静默客户”群体。
+接下来，我们将创建两个关键的视图，构建一个从广泛触达到精准培育的“客户筛选漏斗”。
+
+```mermaid
+graph LR
+    subgraph " "
+        A[fa:fa-database 你的所有联系人]
+    end
+
+    subgraph " "
+        B("<b>[All] 英语-皮筏艇-经销商</b><br><i>所有潜在目标</i>")
+    end
+    
+    subgraph " "
+        C("<b>[Read] 英语-皮筏艇-经销商</b><br><i>已表现出兴趣的目标</i>")
+    end
+
+    A -- "<b>筛选条件:</b><br>关联标签<br>'客户群体'标签" --> B
+    B -- "<b>筛选条件:</b><br>增加条件<br>'阅读次数 > 0'" --> C
+
+    style A fill:#f5f5f5,stroke:#ccc
+    style B fill:#e6f2ff,stroke:#b3d9ff,stroke-width:2px
+    style C fill:#fffbe6,stroke:#ffe580,stroke-width:2px
+```
+
+上图清晰地展示了我们的筛选逻辑：
+- 首先，从所有联系人中筛选出符合条件的**全部潜在客户 (`[All]`)**；
+- 然后，再从这个群体中，进一步筛选出有过阅读行为的**高意向客户 (`[Read]`)**。
+
+---
+
+**▶︎ 第一个视图：创建 `[All]` 视图，圈定所有潜在目标**
+
+**🎯 目标：** 从你所有的客户中，筛选出符合特定产品/市场画像的**全部**潜在客户。
+
+```mermaid
+graph TD
+    subgraph " "
+        A["<b>条件:</b><br>fa:fa-tags 你已创建的客户标签"] -- 包含 --> B{<b>处理:<br>设置筛选条件</b>};
+        C["
+            <i>英语-美国-皮筏艇-经销商</i><br>
+            <i>英语-英国-皮筏艇-经销商</i><br>
+            <i>英语-澳大利亚-皮筏艇-经销商</i><br>
+            <i>... (所有相关标签)</i>
+        "] --> B;
+    end
+
+    subgraph " "
+        B -- "<b>逻辑:</b> 任意包含" --> D["<b>输出 (视图):</b><br>fa:fa-bullseye <i>[All]英语-皮筏艇-经销商</i>"];
+    end
+
+    style A fill:#f5f5f5,stroke:#ccc
+    style C fill:#f5f5f5,stroke:#ccc
+    style B fill:#e6ffed,stroke:#b3ffc6
+    style D fill:#e6f2ff,stroke:#b3d9ff,stroke-width:2px
+```
+- **用途**：这个视图将作为“**静默客户唤醒序列**”的收件人来源。
+- **操作**：
+  - **视图名称**：`[All]英语-皮筏艇-经销商`
   - **筛选条件**：`标签` `任意包含` `英语-美国-皮筏艇-经销商`, `英语-英国-皮筏艇-经销商`, `英语-澳大利亚-皮筏艇-经销商` ... (添加所有相关的标签)
 
-- **视图四：`[Read]英语-皮筏艇-经销商`** (已表现出兴趣的目标)
-  - **用途**：自动筛选出上述群体中，所有有过阅读行为的“已读客户”。
-  - **操作**：创建此视图时，你需要设置两个筛选条件，并将它们的逻辑关系设为`并且`。
-    - **条件 1**：`阅读次数` `大于` `0`
-    - **条件 2**：`标签` `任意包含` `英语-美国-皮筏艇-经销商`, `英语-英国-皮筏艇-经销商`, `英语-澳大利亚-皮筏艇-经销商` ... (在这里，**手动复制并粘贴**上一个视图 `[All]英语-皮筏艇-经销商` 中所有的标签条件)
+![image.png](https://cos.files.maozhishi.com/data/web/web-files/img/20250817193256.png)
 
-![相对于all，read视图多了一个条件：阅读次数大于0](https://cos.files.maozhishi.com/data/web/web-files/img/20250817155736.png)
+
+---
+
+**▶︎ 第二个视图：创建 `[Read]` 视图，筛选高意向目标**
+
+**🎯 目标：** 在上一步圈定的所有潜在客户中，进一步筛选出那些**有过阅读行为**的高价值客户。
+
+```mermaid
+graph TD
+    subgraph " "
+        A["<b>条件 1:</b><br>fa:fa-bullseye <i>[All]英语-皮筏艇-经销商</i><br>(所有潜在客户)"] --> C{"<b>处理:<br>设置筛选条件<br>(逻辑: 并且)</b>"};
+        B["<b>条件 2:</b><br>fa:fa-eye 客户阅读行为"] --> C;
+    end
+
+    subgraph " "
+        C -- "<b>条件 1:</b> 阅读次数 > 0<br><b>条件 2:</b> 包含在[All]视图中" --> D["<b>输出 (视图):</b><br>fa:fa-fire <i>[Read]英语-皮筏艇-经销商</i>"];
+    end
+
+    style A fill:#e6f2ff,stroke:#b3d9ff
+    style B fill:#f5f5f5,stroke:#ccc
+    style C fill:#e6ffed,stroke:#b3ffc6
+    style D fill:#fffbe6,stroke:#ffe580,stroke-width:2px
+```
+- **用途**：这个视图将作为“**已读客户培育序列**”的收件人来源。
+- **操作**：
+  - **视图名称**：`[Read]英语-皮筏艇-经销商`
+  - **逻辑关系**：`并且`
+  - **筛选条件 1**：`阅读次数` `大于` `0`
+  - **筛选条件 2**：`标签` `任意包含` ... (在这里，**手动复制并粘贴**上一个视图 `[All]英语-皮筏艇-经销商` 中所有的标签条件)
+
+![相对于all，read视图多了一个条件：阅读次数大于0](https://cos.files.maozhishi.com/data/web/web-files/img/20250817193447.png)
 
 
 ---
@@ -277,12 +358,26 @@ graph LR
 **恭喜你！** 你已经成功搭建了一个可以自动区分客户“冷暖”，并采取不同策略进行持续跟进的自动化营销系统。
 
 **现在，你的系统将这样自动运转：**
-1.  所有新的皮筏艇经销商，都会被自动加入到低频的“**唤醒序列**”中。
-2.  一旦有人打开邮件，`[Read]`视图就会立刻**自动捕获**他。
-3.  他会被自动加入到高频的“**培育序列**”中，接受更密集的跟进。
-4.  如果他中途回复或成交，系统会**自动停止**对他的所有自动化邮件。
 
-现在，系统将7x24小时为你工作，而你只需专注于那些真正产生意向的客户。
+```mermaid
+graph TD
+    A[fa:fa-user-plus 一个新客户被添加] --> B{fa:fa-question-circle 客户是否有互动?};
+
+    B -- "<b>否 (静默)</b>" --> C["fa:fa-snowflake-o 持续留在<br><b>“唤醒序列”</b><br><i>(低频, 20-30天/步)</i>"];
+    C --> B;
+
+    B -- "<b>是 (打开邮件)</b><br><i>触发: *[Read]* 视图捕获</i>" --> D["fa:fa-fire 进入<br><b>“培育序列”</b><br><i>(高频, 7-10天/步)</i>"];
+    
+    D --> E{fa:fa-question-circle 是否回复邮件?};
+    E -- "<b>否 (持续阅读)</b>" --> D;
+    E -- "<b>是 (回复/询盘)</b><br><i>触发: 自动停止规则</i>" --> F[fa:fa-star <b>序列停止</b><br>转为人工一对一跟进];
+
+    style A fill:#f5f5f5,stroke:#ccc
+    style C fill:#e6f2ff,stroke:#b3d9ff,stroke-width:2px
+    style D fill:#fffbe6,stroke:#ffe580,stroke-width:2px
+    style F fill:#e8f5e9,stroke:#a5d6a7,stroke-width:2px
+```
+现在，系统将7x24小时为你工作，而你只需专注于那些从自动化流程中“毕业”、需要你亲自沟通的**高意向客户**。
 
 ---
 

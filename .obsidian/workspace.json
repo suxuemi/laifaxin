@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_archive/zhinan/email-sequence-guide-1.md",
+                "file": "docs/zhinan/customer-management-section.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "email-sequence-guide-1"
+              "title": "customer-management-section"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.5
+    "width": 464.5
   },
   "right": {
     "id": "64cfc46a0d7e3253",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_archive/zhinan/email-sequence-guide-1.md",
+                "file": "docs/zhinan/customer-management-section.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "email-sequence-guide-1 的反向链接列表"
+              "title": "customer-management-section 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_archive/zhinan/email-sequence-guide-1.md",
+                "file": "docs/zhinan/customer-management-section.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "email-sequence-guide-1 的出链列表"
+              "title": "customer-management-section 的出链列表"
             }
           },
           {
@@ -142,20 +142,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_archive/zhinan/email-sequence-guide-1.md",
+                "file": "docs/zhinan/customer-management-section.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "email-sequence-guide-1 的大纲"
+              "title": "customer-management-section 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 521.5
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,12 +169,14 @@
   },
   "active": "78910004ce4d474c",
   "lastOpenFiles": [
+    "docs/zhinan/contacts-tags-views.md",
+    "docs/zhinan/contact-us.md",
+    "docs/_archive/zhinan/contacts-tags-views.md",
+    "docs/_archive/zhinan/email-sequence-guide-1.md",
     "docs/zhinan/email-sequence-guide.md",
     "backup/标签与视图-3.md",
-    "docs/_archive/zhinan/email-sequence-guide-1.md",
     "docs/_archive/zhinan/customer-management-section-2025-08-17.md",
     "docs/_archive/zhinan/customer-management-section.md",
-    "docs/_archive/zhinan/contacts-tags-views.md",
     "docs/_archive.md",
     "backup/标签与视图-1.md",
     "backup/docs/contacts-tags-views.md",
@@ -182,7 +184,6 @@
     "backup/docs/customer-management-section.md",
     "docs/zhinan/check-new-emails.md",
     "docs/_archive/zhinan",
-    "docs/zhinan/contacts-tags-views.md",
     "docs/_archive",
     "docs/zhinan/customer-management-section.md",
     "docs/zhinan/customer-profiling-section.md",
@@ -191,7 +192,6 @@
     "docs/zhinan/customer-management-section-02.md",
     "docs/zhinan/contacts-tags-views-01.md",
     "backup/docs/email-1.md",
-    "docs/zhinan/contact-us.md",
     "docs/zhinan/tag-management.md",
     "backup/标签与视图-2.md",
     "backup/标签与视图.md",
