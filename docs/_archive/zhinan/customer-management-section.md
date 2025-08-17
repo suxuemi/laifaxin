@@ -5,6 +5,8 @@ description: 本文详细介绍了外贸客户管理的痛点和解决方案，�
 
 # 外贸客户开发8️⃣客户管理篇
 
+🔗 **本文最新教程：** https://laifa.xin/zhinan/customer-management-section
+
 - 通过前文，我们轻松搜索到 📈 **<font color="#C75C00"><u>几十乃至百万级客户</u></font>**，💡 <font color="#C75C00"><u>如何快速营销触达</u></font>？🤔 <font color="#C75C00"><u>如何管理这些客户</u></font>？
 - 借由 [**标签与视图**](docs/zhinan/contacts-tags-views.md)，**轻松管理百万级客户，可持续有序营销**
 

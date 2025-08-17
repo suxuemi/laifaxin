@@ -7,6 +7,7 @@ keywords: ["客户管理", "自动化营销", "客户分类", "客户筛选", "�
 
 # 管理与营销：搭建自动化客户开发系统
 
+🔗 **本文最新教程：** https://laifa.xin/zhinan/customer-management-section
 
 :::tip 写在前面
 **你的客户管理，是否也陷入了这样的困境？ 🤔**

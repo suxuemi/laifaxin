@@ -9,6 +9,8 @@ keywords:
 
 # 🏷️ 标签与视图，轻松管客户 {#getting-started-with-tags-and-views}
 
+🔗 **本文最新教程：** https://laifa.xin/zhinan/contacts-tags-views
+
 :::tip 我们为什么需要标签和视图？
 
 客户越来越多，感觉有点乱？别担心，👉 [**<span style={{color: '#e67c00'}}>来发信</span>**](https://laifaxin.com) 的 **<span style={{color: '#8e44ad'}}>标签</span>** 和 **<span style={{color: '#8e44ad'}}>视图</span>** 功能就是来帮你解决这个问题的！

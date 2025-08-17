@@ -7,6 +7,11 @@ keywords: [邮件序列, 自动化邮件, 客户开发, 邮件营销教程, EDM�
 ---
 # 邮件序列
 
+<div align="center">
+[👉本文最新教程👈](https://web.laifaxin.com/marketing/sequences)
+</div>
+
+
 邮件序列功能可以帮助您按照预设的时间和模板，自动向客户批量发送一系列邮件，实现自动化客户开发。
 
 - 系统入口：https://web.laifaxin.com/marketing/sequences

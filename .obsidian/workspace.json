@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backup/标签与视图-3.md",
+                "file": "docs/_archive/zhinan/email-sequence-guide-1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "标签与视图-3"
+              "title": "email-sequence-guide-1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backup/标签与视图-3.md",
+                "file": "docs/_archive/zhinan/email-sequence-guide-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "标签与视图-3 的反向链接列表"
+              "title": "email-sequence-guide-1 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backup/标签与视图-3.md",
+                "file": "docs/_archive/zhinan/email-sequence-guide-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "标签与视图-3 的出链列表"
+              "title": "email-sequence-guide-1 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backup/标签与视图-3.md",
+                "file": "docs/_archive/zhinan/email-sequence-guide-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "标签与视图-3 的大纲"
+              "title": "email-sequence-guide-1 的大纲"
             }
           }
         ]
@@ -169,26 +169,26 @@
   },
   "active": "78910004ce4d474c",
   "lastOpenFiles": [
-    "docs/_archive.md",
+    "docs/zhinan/email-sequence-guide.md",
     "backup/标签与视图-3.md",
+    "docs/_archive/zhinan/email-sequence-guide-1.md",
+    "docs/_archive/zhinan/customer-management-section-2025-08-17.md",
+    "docs/_archive/zhinan/customer-management-section.md",
+    "docs/_archive/zhinan/contacts-tags-views.md",
+    "docs/_archive.md",
     "backup/标签与视图-1.md",
     "backup/docs/contacts-tags-views.md",
-    "docs/_archive/zhinan/email-sequence-guide-1.md",
     "backup/docs/email-5.md",
-    "docs/_archive/zhinan/contacts-tags-views.md",
     "backup/docs/customer-management-section.md",
     "docs/zhinan/check-new-emails.md",
-    "docs/_archive/zhinan/customer-management-section.md",
     "docs/_archive/zhinan",
     "docs/zhinan/contacts-tags-views.md",
-    "docs/_archive/zhinan/customer-management-section-2025-08-17.md",
     "docs/_archive",
     "docs/zhinan/customer-management-section.md",
     "docs/zhinan/customer-profiling-section.md",
     "docs/zhinan/control-quantity-cost-reduction-and-efficiency-enhancement.md",
     "docs/zhinan/customer-management.md",
     "docs/zhinan/customer-management-section-02.md",
-    "docs/zhinan/email-sequence-guide.md",
     "docs/zhinan/contacts-tags-views-01.md",
     "backup/docs/email-1.md",
     "docs/zhinan/contact-us.md",
