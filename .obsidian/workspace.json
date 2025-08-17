@@ -151,7 +151,8 @@
               "title": "customer-management-section 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,6 +170,8 @@
   },
   "active": "78910004ce4d474c",
   "lastOpenFiles": [
+    "docs/_archive/zhinan/customer-management-section.md",
+    "docs/zhinan/customer-management-section.md",
     "docs/zhinan/contacts-tags-views.md",
     "docs/zhinan/contact-us.md",
     "docs/_archive/zhinan/contacts-tags-views.md",
@@ -176,7 +179,6 @@
     "docs/zhinan/email-sequence-guide.md",
     "backup/标签与视图-3.md",
     "docs/_archive/zhinan/customer-management-section-2025-08-17.md",
-    "docs/_archive/zhinan/customer-management-section.md",
     "docs/_archive.md",
     "backup/标签与视图-1.md",
     "backup/docs/contacts-tags-views.md",
@@ -185,7 +187,6 @@
     "docs/zhinan/check-new-emails.md",
     "docs/_archive/zhinan",
     "docs/_archive",
-    "docs/zhinan/customer-management-section.md",
     "docs/zhinan/customer-profiling-section.md",
     "docs/zhinan/control-quantity-cost-reduction-and-efficiency-enhancement.md",
     "docs/zhinan/customer-management.md",
