@@ -15,10 +15,52 @@
               "state": {
                 "file": "docs/zhinan/customer-management-section.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "customer-management-section"
+            }
+          },
+          {
+            "id": "1afd56d99d5ec434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/zhinan/contacts-tags-views.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "contacts-tags-views"
+            }
+          },
+          {
+            "id": "56aaa36f36e58517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/zhinan/contacts-tags-views.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "contacts-tags-views"
+            }
+          },
+          {
+            "id": "1f6c6eff7e9f7fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/zhinan/email-sequence-guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "email-sequence-guide"
             }
           }
         ]
@@ -78,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 345.5
   },
   "right": {
     "id": "64cfc46a0d7e3253",
@@ -170,13 +212,13 @@
   },
   "active": "78910004ce4d474c",
   "lastOpenFiles": [
-    "docs/_archive/zhinan/customer-management-section.md",
-    "docs/zhinan/customer-management-section.md",
     "docs/zhinan/contacts-tags-views.md",
+    "docs/zhinan/customer-management-section.md",
+    "docs/zhinan/email-sequence-guide.md",
+    "docs/_archive/zhinan/customer-management-section.md",
     "docs/zhinan/contact-us.md",
     "docs/_archive/zhinan/contacts-tags-views.md",
     "docs/_archive/zhinan/email-sequence-guide-1.md",
-    "docs/zhinan/email-sequence-guide.md",
     "backup/标签与视图-3.md",
     "docs/_archive/zhinan/customer-management-section-2025-08-17.md",
     "docs/_archive.md",
