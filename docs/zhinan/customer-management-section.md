@@ -315,20 +315,47 @@ graph LR
 
 **▶︎ 第一个视图：创建 `[All]` 视图，汇总潜在目标**
 
-- **🎯 目标：** 从客户池中，筛选出符合特定产品/市场画像的潜在客户，作为“**静默客户唤醒序列**”的收件人来源。
-```mermaid
-graph LR
-    subgraph "筛选**无阅读待营销**客户<br>**静默客户唤醒**:20~30天/轮"
-        direction LR  // <-- 关键在于在这里添加方向指令！
 
-        A["<b>条件:</b><br>fa:fa-tags 客户画像标签<br><i>... <br>英语-美国-皮筏艇-经销商</i><br><i>英语-英国-皮筏艇-经销商</i><br><i>英语-澳洲-皮筏艇-经销商</i><br><i>... (所有相关标签)</i>"] --> B{"<b>处理逻辑:</b><br>fa:fa-filter 标签 '任意包含'"};
-        B --> C["<b>筛选出 (视图):</b><br>fa:fa-bullseye '[All] 英语-皮筏艇-经销商'"];
+- **🎯 目标：** 从客户池中，筛选出符合特定产品/市场画像的潜在客户，作为“**静默客户唤醒序列**”的收件人来源。
+
+```mermaid
+---
+title: 创建·[All] 英语-皮筏艇-经销商·视图，汇总`无阅读待营销`客群
+---
+graph LR
+    subgraph "筛选**无阅读待营销**客户<br>**静默客户唤醒**：20~30天/轮"
+        direction LR
+
+        A["
+            <b>1️⃣新建视图1️⃣</b>
+            ---
+            **视图名称**
+            <u>'[All] 英语-皮筏艇-经销商'</u>
+        "]
+
+        B{"
+            <b>2️⃣设置条件2️⃣</b>
+            fa:fa-filter **关联相关标签**
+            <i>英语-美国-皮筏艇-经销商</i>
+            <i>英语-英国-皮筏艇-经销商</i>
+            ...
+            <i>(所有相关标签)</i>
+        "}
+
+        C["
+            <b>3️⃣自动汇总3️⃣<br>成果</b>
+            fa:fa-bullseye 一个动态更新的客户名单
+            <b>汇总到<br></b><u>'[All] 英语-皮筏艇-经销商'</u>
+        "]
+
+        A -- "**设置<br>规则**" --> B -- "**筛出<br>客群**" --> C
     end
 
     style A fill:#f5f5f5,stroke:#ccc
     style B fill:#e6ffed,stroke:#b3ffc6
     style C fill:#e6f2ff,stroke:#b3d9ff,stroke-width:2px
 ```
+
 *   📋 参照[📚设置视图条件](./contacts-tags-views#setting-view-filters)，新建`[All]英语-皮筏艇-经销商`，并添加相关标签(`英语-美国-皮筏艇-经销商`...)
 
 ![image.png](https://cos.files.maozhishi.com/data/web/web-files/img/20250817193256.png)
@@ -341,14 +368,57 @@ graph LR
 - **🎯 目标：** 在上一步基础上，筛选出**有阅读**的高价值客户，作为“**已读客户培育序列**”的收件人来源。
 
 ```mermaid
+---
+title: 创建·[Read] 英语-皮筏艇-经销商·视图，筛选`营销后有阅读`客群
+---
 graph LR
     subgraph "筛选**营销后有阅读**客户<br>**已读客户培育**：7~10天/轮"
-        direction LR  // <-- 关键在于在这里添加方向指令！
-        A["<b>条件 1: 画像标签</b><br>fa:fa-tags (复用 '[All]' 视图的条件)<br><i>... <br>英语-美国-皮筏艇-经销商</i><br><i>英语-美国-皮筏艇-经销商</i><br><i>英语-英国-皮筏艇-经销商</i><br><i>英语-澳洲-皮筏艇-经销商</i><br><i>... (所有相关标签)"] --> C;
-        B["<b>条件 2: 行为数据</b><br>fa:fa-eye 阅读次数 > 0"] --> C;
-        C{"<b>处理逻辑:</b><br>fa:fa-link 条件 '并且' (AND)"} --> D["<b>筛选出 (视图):</b><br>fa:fa-fire '[Read] 英语-皮筏艇-经销商'"];
+        direction LR
+
+        S["
+            <b>1️⃣新建视图1️⃣</b>
+            ---
+            **视图名称**
+            <u>'[Read] 英语-皮筏艇-经销商'</u>
+        "]
+
+        A["
+            <b>2️⃣设置条件1️⃣<br>画像标签</b>
+            ---
+            fa:fa-tags (复用 '[All]' 视图的条件)
+            <i>英语-美国-皮筏艇-经销商</i>
+            <i>英语-英国-皮筏艇-经销商</i>
+            ...
+            <i>(所有相关标签)</i>
+        "]
+
+        B["
+            <b>3️⃣设置条件2️⃣<br>行为数据</b>
+            ---
+            fa:fa-eye 阅读次数 > 0
+        "]
+
+        C{"
+            <b>4️⃣组合逻辑4️⃣</b>
+            ---
+            fa:fa-link 条件 '并且' (AND)
+        "}
+
+        D["
+            <b>5️⃣筛选成果5️⃣</b>
+            ---
+            fa:fa-fire 一个动态更新的已读客户名单
+            <b>汇总到<br></b><u>'[Read] 英语-皮筏艇-经销商'</u>
+        "]
+
+        S -- "配置<br>规则" --> A
+        S -- "配置<br>规则" --> B
+        A -- "输入<br>规则" --> C
+        B -- "输入<br>规则" --> C
+        C -- "筛出<br>客群" --> D
     end
 
+    style S fill:#f5f5f5,stroke:#ccc
     style A fill:#e6f2ff,stroke:#b3d9ff
     style B fill:#f5f5f5,stroke:#ccc
     style C fill:#e6ffed,stroke:#b3ffc6
