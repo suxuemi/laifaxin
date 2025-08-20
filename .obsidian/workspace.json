@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zhinan/email-sequence-guide.md",
+                "file": "blog/2025-08-20-🔥客户枯竭？教你1个方法，从1个客户挖出100个同行！.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "email-sequence-guide"
+              "title": "2025-08-20-🔥客户枯竭？教你1个方法，从1个客户挖出100个同行！"
             }
           },
           {
@@ -240,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zhinan/email-sequence-guide.md",
+                "file": "blog/2025-08-20-🔥客户枯竭？教你1个方法，从1个客户挖出100个同行！.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "email-sequence-guide 的大纲"
+              "title": "2025-08-20-🔥客户枯竭？教你1个方法，从1个客户挖出100个同行！ 的大纲"
             }
           }
         ],
@@ -254,10 +254,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -268,8 +269,14 @@
   },
   "active": "78910004ce4d474c",
   "lastOpenFiles": [
-    "docs/zhinan/customer-management-section.md",
+    "README.md",
+    "blog/2025-08-20-🔥客户枯竭？教你1个方法，从1个客户挖出100个同行！.md",
+    "blog/2019-05-29-long-blog-post.md",
+    "blog/2019-05-28-first-blog-post.md",
+    "blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
+    "blog/2021-08-26-welcome/index.md",
     "docs/zhinan/email-sequence-guide.md",
+    "docs/zhinan/customer-management-section.md",
     "backup/docs/未命名.md",
     "docs/zhinan/contacts-tags-views.md",
     "docs/_archive/zhinan/customer-management-section.md",
@@ -291,11 +298,6 @@
     "docs/zhinan/customer-management.md",
     "docs/zhinan/customer-management-section-02.md",
     "docs/zhinan/contacts-tags-views-01.md",
-    "backup/docs/email-1.md",
-    "docs/zhinan/tag-management.md",
-    "backup/标签与视图-2.md",
-    "backup/标签与视图.md",
-    "src/pages/markdown-page.md",
     "build/chajian/what-is-google-maps-business-collection.html",
     "build/chajian/what-are-the-benefits-of-inviting-friends-to-use-the-google-maps-plugin.html",
     "build/chajian/improve-google-maps-data-collection-efficiency-focus-on-popular-cities.html",
@@ -312,7 +314,6 @@
     "build/en/svg/search.svg",
     "build/en/svg/people.svg",
     "build/en/svg/market.svg",
-    "build/en/svg/mail.svg",
-    "build/en/svg/features.svg"
+    "build/en/svg/mail.svg"
   ]
 }
