@@ -8,73 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78910004ce4d474c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/2025-08-20-🔥客户枯竭？教你1个方法，从1个客户挖出100个同行！.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-20-🔥客户枯竭？教你1个方法，从1个客户挖出100个同行！"
-            }
-          },
-          {
-            "id": "38f4d855b3d0b621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/zhinan/contacts-tags-views.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "contacts-tags-views"
-            }
-          },
-          {
-            "id": "8d90b1b0d29764e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/zhinan/contacts-tags-views.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "contacts-tags-views"
-            }
-          },
-          {
-            "id": "9b0d985ec59e109d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/zhinan/contacts-tags-views.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "contacts-tags-views"
-            }
-          },
-          {
             "id": "094924818197f698",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zhinan/contacts-tags-views.md",
+                "file": "docs/chajian/ai-filter-google-maps-business.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contacts-tags-views"
+              "title": "ai-filter-google-maps-business"
             }
           },
           {
@@ -151,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "contacts-tags-views",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 549.5
   },
   "right": {
     "id": "64cfc46a0d7e3253",
@@ -240,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/2025-08-20-🔥客户枯竭？教你1个方法，从1个客户挖出100个同行！.md",
+                "file": "docs/chajian/ai-filter-google-maps-business.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-08-20-🔥客户枯竭？教你1个方法，从1个客户挖出100个同行！ 的大纲"
+              "title": "ai-filter-google-maps-business 的大纲"
             }
           }
         ],
@@ -254,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,45 +211,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "78910004ce4d474c",
+  "active": "094924818197f698",
   "lastOpenFiles": [
-    "README.md",
+    "docs/chajian/cloud-synchronize-merchants-and-centralized-data-management.md",
+    "docs/chajian/ai-filter-google-maps-business.md",
+    "docs/youxiang/203-aliyun-qiyeyouxiang-alibaba-cloud-enterprise-mailbox.md",
+    "backup/docs/test-products.json",
+    "backup/docs/test-1.json",
+    "docs/youxiang/202-263-qiyeyouxiang-263-business-mail.md",
+    "docs/youxiang/200-qiyeyouxiang-enterprise-mailbox.md",
+    "docs/youxiang/103-ali-aliyunyouxiang-ali-personal-email.md",
+    "docs/zhinan/contacts-tags-views.md",
+    "backup/标签与视图-3.md",
+    "backup/标签与视图-2.md",
+    "docs/zhinan/customer-management-section.md",
     "blog/2025-08-20-🔥客户枯竭？教你1个方法，从1个客户挖出100个同行！.md",
+    "docs/zhinan/bulk-search-task.md",
+    "docs/zhinan/basic-grammar-section.md",
+    "docs/zhinan/b2b-recruiter-syntax.md",
+    "docs/zhinan/whatsapp-search.md",
+    "blog/2025-08-20-🔥领英如何搞客户？.md",
+    "README.md",
     "blog/2019-05-29-long-blog-post.md",
     "blog/2019-05-28-first-blog-post.md",
     "blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
     "blog/2021-08-26-welcome/index.md",
     "docs/zhinan/email-sequence-guide.md",
-    "docs/zhinan/customer-management-section.md",
     "backup/docs/未命名.md",
-    "docs/zhinan/contacts-tags-views.md",
     "docs/_archive/zhinan/customer-management-section.md",
     "docs/zhinan/contact-us.md",
     "docs/_archive/zhinan/contacts-tags-views.md",
     "docs/_archive/zhinan/email-sequence-guide-1.md",
-    "backup/标签与视图-3.md",
-    "docs/_archive/zhinan/customer-management-section-2025-08-17.md",
-    "docs/_archive.md",
-    "backup/标签与视图-1.md",
-    "backup/docs/contacts-tags-views.md",
-    "backup/docs/email-5.md",
-    "backup/docs/customer-management-section.md",
-    "docs/zhinan/check-new-emails.md",
     "docs/_archive/zhinan",
     "docs/_archive",
-    "docs/zhinan/customer-profiling-section.md",
-    "docs/zhinan/control-quantity-cost-reduction-and-efficiency-enhancement.md",
-    "docs/zhinan/customer-management.md",
-    "docs/zhinan/customer-management-section-02.md",
-    "docs/zhinan/contacts-tags-views-01.md",
     "build/chajian/what-is-google-maps-business-collection.html",
     "build/chajian/what-are-the-benefits-of-inviting-friends-to-use-the-google-maps-plugin.html",
     "build/chajian/improve-google-maps-data-collection-efficiency-focus-on-popular-cities.html",
     "build/chajian/how-to-use-google-maps-plugin.html",
     "build/chajian/how-to-use-google-maps-for-customer-development.html",
     "build/chajian/how-to-quickly-filter-target-google-maps-businesses.html",
-    "build/chajian/how-to-multi-open-google-maps-plugin.html",
-    "build/chajian/how-to-extract-restaurant-list-in-new-york-area-from-google-maps.html",
     "build/en/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg",
     "build/en/svg/verification.svg",
     "build/en/svg/trace.svg",

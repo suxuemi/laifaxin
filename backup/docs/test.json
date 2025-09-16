@@ -1,0 +1,90 @@
+{
+    "data_confidence_level": {
+        "rating": "高",
+        "reasoning": "客户档案包含多源信息，包括Apollo数据库、LinkedIn专业资料、官网搜索结果及近一年外部新闻摘要，数据覆盖公司基本信息、业务范围、产品关键词及近期动态，信息一致性高且时效性强。"
+    },
+    "match_analysis": {
+        "detailed_breakdown": {
+            "business_relevance": {
+                "score": 75,
+                "reasoning": "RBA Group核心业务为商用浴室配件和 plumbing 产品，属于浴缸所属的卫浴产品大类，但未明确提及浴缸产品，符合“Category Match”标准。其作为澳大利亚商用浴室设备主要供应商，业务覆盖学校、办公楼等项目场景，与浴缸的潜在应用场景存在交集。"
+            },
+            "supply_chain_role": {
+                "score": 90,
+                "reasoning": "RBA Group是澳大利亚商用浴室设备的主要进口商和分销商，直接面向项目客户（如学校、办公楼）提供产品，符合“理想直接客户”定义，即品牌所有者和大型零售商的角色定位。"
+            },
+            "brand_fit": {
+                "score": 70,
+                "reasoning": "RBA Group专注于商用不锈钢卫浴设备，强调工业强度和设计美学，与“浴缸”产品的商用市场定位存在战术性契合，但未明确体现高端或特定品牌协同效应。"
+            },
+            "company_scale_fit": {
+                "score": 60,
+                "reasoning": "RBA Group员工规模32人，年收入约3679万澳元，属于中小型企业。由于“我的画像”未明确目标客户规模，默认中型企业匹配度中等，存在一定规模差距。"
+            },
+            "operational_activity": {
+                "score": 85,
+                "reasoning": "近一年内，RBA Group持续推出新产品（如Elouera集成洗手系统）、更新产品系列（淋浴杆、传感器水龙头）并发布行业趋势文章，官网和外部渠道活动频繁，显示其业务活跃且处于健康发展状态。"
+            },
+            "synergy_and_hook_point": {
+                "score": 80,
+                "reasoning": "RBA Group核心业务为商用浴室产品，且近期扩展淋浴产品线，与浴缸同属卫浴设备，存在产品组合扩展的隐含需求。其作为进口商，有从海外采购优质卫浴产品的明确渠道和动机。"
+            }
+        },
+        "base_score_calculated": 76.75,
+        "match_score": 81.75,
+        "match_rating": {
+            "rating_tier": "/",
+            "call_to_action": "/",
+            "decisive_factor": "高业务相关性与供应链角色匹配，叠加近期产品扩展动态"
+        },
+        "analysis_summary": "RBA Group作为澳大利亚领先的商用浴室设备分销商，其业务范围与浴缸产品存在明确的品类匹配，且具备理想的供应链采购角色。公司近期持续推出卫浴新品，显示出积极的业务扩展态势，为浴缸产品的引入提供了潜在机会。建议优先建立联系，探讨产品互补可能性。",
+        "key_matching_points": {
+            "positives": [
+                "商用卫浴产品核心供应商，业务覆盖澳大利亚主要城市",
+                "近一年产品更新频繁，推出淋浴等相关产品线",
+                "明确的进口渠道和采购需求，匹配浴缸出口场景",
+                "服务项目类型（学校、办公楼）与浴缸应用场景重叠"
+            ],
+            "risks": [
+                "未明确提及浴缸产品，需验证具体采购需求",
+                "中小型企业规模，可能影响单次采购量"
+            ]
+        },
+        "actionable_recommendations": {
+            "next_step": "通过邮件联系RBA Group采购部门，介绍浴缸产品的商用适配性",
+            "strategic_objective": "将浴缸纳入其商用卫浴产品组合，成为其海外供应商",
+            "key_question_to_validate": "RBA Group当前是否有浴缸产品的采购渠道，或是否计划扩展该品类",
+            "communication_starters": {
+                "email_subject_ideas": [
+                    "为RBA Group商用项目提供高品质浴缸解决方案",
+                    "探讨浴缸产品与您现有卫浴产品线的互补性"
+                ],
+                "opening_line_ideas": [
+                    "注意到贵司近期扩展了淋浴产品线，我们的商用浴缸或许能完善您的卫浴解决方案。",
+                    "作为澳大利亚领先的商用卫浴供应商，RBA Group是否考虑引入高品质浴缸产品以丰富项目配套选项？"
+                ]
+            },
+            "unconventional_opportunity": "结合RBA Group的不锈钢加工能力，探讨浴缸产品的本地化组装合作，降低进口成本并提升市场响应速度"
+        }
+    },
+    "customer_profile": {
+        "company_identity": {
+            "official_name": "RBA Group",
+            "parent_company": "无",
+            "location_headquarters": "澳大利亚新南威尔士州OATLEY",
+            "scale_tier": "中小型企业（11-50员工）"
+        },
+        "business_focus": {
+            "business_model": "进口+分销+轻加工",
+            "supply_chain_role": "商用卫浴产品进口商与分销商",
+            "core_products_services": "不锈钢浴室配件、水龙头、婴儿护理台、饮水器等商用卫浴设备",
+            "target_customer": "学校、办公楼、公共设施、酒店等项目客户"
+        },
+        "market_signals": {
+            "geographical_focus": "澳大利亚全国市场，总部悉尼，分支覆盖墨尔本、布里斯班",
+            "public_reputation": "澳大利亚市场领先的商用卫浴品牌，拥有多个国际品牌代理权",
+            "recent_moves": "2024-2025年推出Elouera集成洗手系统、扩展淋浴产品线、强调健康卫浴设计趋势",
+            "competitive_advantage": "产品种类丰富（超1000种）、本地化仓储与配送能力、多品牌组合"
+        }
+    }
+}

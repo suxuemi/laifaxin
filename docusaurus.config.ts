@@ -289,7 +289,12 @@ const config = {
               docId: "chajian/how-to-use-google-maps-plugin",
             },
             {
-              label: "4️⃣邮箱抓取",
+              label: "4️⃣AI筛选商家",
+              type: "doc",
+              docId: "chajian/ai-filter-google-maps-business",
+            },
+            {
+              label: "5️⃣邮箱抓取",
               type: "doc",
               docId: "chajian/how-to-extract-email-from-google-maps",
             },

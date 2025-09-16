@@ -749,6 +749,11 @@ const sidebars: SidebarsConfig = {
             },
             {
               type: "doc",
+              label: "AI快又准筛选谷歌地图商家",
+              id: "chajian/ai-filter-google-maps-business",
+            },
+            {
+              type: "doc",
               label: "快速筛选目标商家列表",
               id: "chajian/how-to-quickly-filter-target-google-maps-businesses",
             },

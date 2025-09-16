@@ -1,0 +1,291 @@
+{
+  "type": "json_schema",
+  "json_schema": {
+    "name": "score_schema",
+    "strict": true,
+    "schema": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "data_confidence_level": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "rating": { "type": "string", "description": "数据可信度评级", "enum": ["高", "中", "低"] },
+            "reasoning": { "type": "string", "description": "可信度等级的依据，精炼短语" }
+          },
+          "required": ["rating", "reasoning"]
+        },
+        "match_analysis": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "detailed_breakdown": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "business_relevance": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "properties": {
+                    "score": {
+                      "type": "number",
+                      "description": "分数, 0到100的整数"
+                    },
+                    "reasoning": { "type": "string", "description": "业务相关性评分依据" }
+                  },
+                  "required": ["score", "reasoning"]
+                },
+                "supply_chain_role": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "properties": {
+                    "score": {
+                      "type": "number",
+                      "description": "分数, 0到100的整数"
+                    },
+                    "reasoning": { "type": "string", "description": "供应链角色评分依据" }
+                  },
+                  "required": ["score", "reasoning"]
+                },
+                "brand_fit": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "properties": {
+                    "score": {
+                      "type": "number",
+                      "description": "分数, 0到100的整数"
+                    },
+                    "reasoning": { "type": "string", "description": "品牌契合度评分依据" }
+                  },
+                  "required": ["score", "reasoning"]
+                },
+                "company_scale_fit": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "properties": {
+                    "score": {
+                      "type": "number",
+                      "description": "分数, 0到100的整数"
+                    },
+                    "reasoning": { "type": "string", "description": "规模匹配度评分依据" }
+                  },
+                  "required": ["score", "reasoning"]
+                },
+                "operational_activity": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "properties": {
+                    "score": {
+                      "type": "number",
+                      "description": "分数, 0到100的整数"
+                    },
+                    "reasoning": { "type": "string", "description": "运营活跃度评分依据。触发风险时注明。" }
+                  },
+                  "required": ["score", "reasoning"]
+                },
+                "synergy_and_hook_point": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "properties": {
+                    "score": {
+                      "type": "number",
+                      "description": "分数, 0到100的整数"
+                    },
+                    "reasoning": { "type": "string", "description": "协同切入点评分依据。触发风险时注明。" }
+                  },
+                  "required": ["score", "reasoning"]
+                }
+              },
+              "required": [
+                "business_relevance",
+                "supply_chain_role",
+                "brand_fit",
+                "company_scale_fit",
+                "operational_activity",
+                "synergy_and_hook_point"
+              ]
+            },
+            "base_score_calculated": { "type": "number" },
+            "match_score": {
+              "type": "number",
+              "description": "分数, 0到100的整数"
+            },
+            "match_rating": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "decisive_factor": {
+                  "type": "string",
+                  "description": "概括影响最终得分的核心洞察。必须先提供整体匹配度的简要总结，然后再突出致命风险点或机会触发点。例如：'概要：业务高度相关但规模错配。致命风险点：客户属明确排除类型。'"
+                }
+              },
+              "required": ["decisive_factor"]
+            },
+            "key_matching_points": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "positives": {
+                  "type": "array",
+                  "items": { "type": "string", "description": "优势点 (短语)" }
+                },
+                "risks": {
+                  "type": "array",
+                  "items": { "type": "string", "description": "风险点 (短语)" }
+                }
+              },
+              "required": ["positives", "risks"]
+            },
+            "actionable_recommendations": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "next_step": { "type": "string", "description": "建议的下一步具体行动" },
+                "strategic_objective": {
+                  "type": "string",
+                  "description": "本次接触的战略目标"
+                },
+                "key_question_to_validate": {
+                  "type": "string",
+                  "description": "需要通过沟通验证的关键问题"
+                },
+                "communication_starters": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "properties": {
+                    "tone_and_angle": {
+                      "type": "string",
+                      "description": "基于brand_fit和supply_chain_role得分建议沟通语气。例如：品牌高度契合，建议采用'战略伙伴'平等语气。"
+                    },
+                    "email_subject_ideas": {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "description": "邮件主题创意。"
+                      }
+                    },
+                    "opening_line_ideas": {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "description": "开场白创意。"
+                      }
+                    }
+                  },
+                  "required": ["tone_and_angle", "email_subject_ideas", "opening_line_ideas"]
+                },
+                "unconventional_opportunity": {
+                  "type": "string",
+                  "description": "使用1-2个完整的句子来清晰阐述商业逻辑：思考超越直接销售的价值主张。基于`我的画像`的独特能力，我们如何能帮助对方降本增效、进入新市场或提升其产品力？提出一个双赢的合作构想。"
+                }
+              },
+              "required": [
+                "next_step",
+                "strategic_objective",
+                "key_question_to_validate",
+                "communication_starters",
+                "unconventional_opportunity"
+              ]
+            }
+          },
+          "required": [
+            "detailed_breakdown",
+            "base_score_calculated",
+            "match_score",
+            "match_rating",
+            "key_matching_points",
+            "actionable_recommendations"
+          ]
+        },
+        "customer_profile": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "company_identity": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "official_name": {
+                  "type": "string",
+                  "description": "公司正式名称"
+                },
+                "parent_company": { "type": "string", "description": "母公司" },
+                "location_headquarters": {
+                  "type": "string",
+                  "description": "总部位置"
+                },
+                "scale_tier": { "type": "string", "description": "规模等级" }
+              },
+              "required": [
+                "official_name",
+                "parent_company",
+                "location_headquarters",
+                "scale_tier"
+              ]
+            },
+            "business_focus": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "business_model": {
+                  "type": "string",
+                  "description": "业务模型"
+                },
+                "supply_chain_role": {
+                  "type": "string",
+                  "description": "供应链角色"
+                },
+                "core_products_services": {
+                  "type": "string",
+                  "description": "核心产品/服务"
+                },
+                "target_customer": {
+                  "type": "string",
+                  "description": "目标客户"
+                }
+              },
+              "required": [
+                "business_model",
+                "supply_chain_role",
+                "core_products_services",
+                "target_customer"
+              ]
+            },
+            "market_signals": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "geographical_focus": {
+                  "type": "string",
+                  "description": "地理焦点"
+                },
+                "public_reputation": {
+                  "type": "string",
+                  "description": "公众声誉"
+                },
+                "recent_moves": { "type": "string", "description": "近期动态" },
+                "competitive_advantage": {
+                  "type": "string",
+                  "description": "竞争优势"
+                }
+              },
+              "required": [
+                "geographical_focus",
+                "public_reputation",
+                "recent_moves",
+                "competitive_advantage"
+              ]
+            }
+          },
+          "required": ["company_identity", "business_focus", "market_signals"]
+        }
+      },
+      "required": [
+        "data_confidence_level",
+        "match_analysis",
+        "customer_profile"
+      ]
+    }
+  }
+}
