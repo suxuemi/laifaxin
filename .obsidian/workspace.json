@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 549.5
+    "width": 297.5
   },
   "right": {
     "id": "64cfc46a0d7e3253",
@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 214.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +213,7 @@
   },
   "active": "094924818197f698",
   "lastOpenFiles": [
+    "static/8f7d206790cd4b781eaa9d13a912939e.txt",
     "docs/chajian/cloud-synchronize-merchants-and-centralized-data-management.md",
     "docs/chajian/ai-filter-google-maps-business.md",
     "docs/youxiang/203-aliyun-qiyeyouxiang-alibaba-cloud-enterprise-mailbox.md",
@@ -241,7 +242,6 @@
     "docs/_archive/zhinan/customer-management-section.md",
     "docs/zhinan/contact-us.md",
     "docs/_archive/zhinan/contacts-tags-views.md",
-    "docs/_archive/zhinan/email-sequence-guide-1.md",
     "docs/_archive/zhinan",
     "docs/_archive",
     "build/chajian/what-is-google-maps-business-collection.html",
