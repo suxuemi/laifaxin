@@ -173,6 +173,18 @@ const sidebars: SidebarsConfig = {
             },
           ],
         },
+        {
+          type: "category",
+          label: "8️⃣ 线索列表",
+          link: { type: "doc", id: "zhinan/ai-customer-screening-guide" },
+          items: [
+            {
+              type: "doc",
+              label: "① AI筛选",
+              id: "zhinan/ai-customer-screening-guide",
+            },
+          ],  
+        }, 
       ],
     },
     {
