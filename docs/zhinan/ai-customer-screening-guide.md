@@ -96,7 +96,7 @@ graph TD
     ![勾选客户进行筛选](https://cos.files.maozhishi.com/data/web/web-files/img/1764579427875.png)
 
 > 💡 **省钱小技巧**：建议先进行 **手动筛选**，排除明显不匹配的，再用 AI 筛选。
-> 🔗 **参考文档**：[手动筛选设置参考](./zhinan/common-filter-conditions-for-search-customers.html)
+> 🔗 **参考文档**：[手动筛选设置参考](./zhinan/common-filter-conditions-for-search-customers)
 
 ---
 
