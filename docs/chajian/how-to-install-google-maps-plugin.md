@@ -24,9 +24,9 @@ keywords: [谷歌地图插件, 安装教程, Chrome插件, Edge插件, 开发者
 
 ### 1. 下载插件 {#download-plugin}
 
-:::tip 👉 最新版 - 0.8.21
+:::tip 👉 最新版 - 0.8.31 **务必更新，其他版本已经失效**
 
-- **下载链接**：[https://lfx-files.laifayun.com/chajian/download/laifaxin-chajian-ditu-0.8.21-chrome.zip](https://lfx-files.laifayun.com/chajian/download/laifaxin-chajian-ditu-0.8.21-chrome.zip)
+- **下载链接**：[https://lfx-files.laifayun.com/chajian/download/laifaxin-chajian-ditu-0.8.31-chrome.zip](https://lfx-files.laifayun.com/chajian/download/laifaxin-chajian-ditu-0.8.31-chrome.zip)
   :::
 
 ### 2. 支持的浏览器 {#supported-browsers}
