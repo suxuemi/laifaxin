@@ -89,34 +89,24 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: "doc",
-          label: "1️⃣ 客户网站搜客",
+          label: "1️⃣ AI数据库",
+          id: "zhinan/refine-search-all",
+        },
+        {
+          type: "doc",
+          label: "2️⃣ 客户网站搜客",
           id: "zhinan/customer-website-search",
         },
         {
           type: "doc",
-          label: "2️⃣ 精准买家搜索",
-          id: "zhinan/precise-buyer-search",
-        },
-        {
-          type: "doc",
-          label: "3️⃣ 全球搜客引擎",
-          id: "zhinan/global-search-engine",
+          label: "3️⃣ 公司名称搜客",
+          id: "zhinan/company-name-search",
         },
         {
           type: "doc",
           label: "4️⃣ 领英客户搜索",
           id: "zhinan/linkedin-customer-search",
         },
-        {
-          type: "doc",
-          label: "5️⃣ 公司名称搜客",
-          id: "zhinan/company-name-search",
-        },
-        {
-          type: "doc",
-          label: "6️⃣ 企业数据库",
-          id: "zhinan/enterprise-database",
-        }, // Adjusted from ./enterprise-database.md
         {
           type: "category",
           label: "7️⃣ 批量客户搜索",
@@ -182,6 +172,28 @@ const sidebars: SidebarsConfig = {
               type: "doc",
               label: "① AI筛选",
               id: "zhinan/ai-customer-screening-guide",
+            },
+          ],  
+        }, 
+        {
+          type: "category",
+          label: "9️⃣ 历史功能",
+          link: { type: "doc", id: "zhinan/precise-buyer-search" },
+          items: [
+            {
+              type: "doc",
+              label: "精准买家搜索",
+              id: "zhinan/precise-buyer-search",
+            },
+            {
+              type: "doc",
+              label: "全球搜客引擎",
+              id: "zhinan/global-search-engine",
+            },
+            {
+              type: "doc",
+              label: "企业数据库",
+              id: "zhinan/enterprise-database",
             },
           ],  
         }, 
