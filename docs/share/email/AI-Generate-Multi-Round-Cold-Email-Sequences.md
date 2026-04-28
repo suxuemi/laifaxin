@@ -1,5 +1,5 @@
 ---
-id: AI-Generate-Multi-Round-Cold-Email-Sequences
+id: ai-generate-multi-round-cold-email-sequences
 title: 高阶进阶篇：AI 自动生成多轮开发信序列
 description: 本教程为您提供了一套专业的“多轮开发信 AI 指令”。只需将指令输入给 AI 工具（如腾讯元宝、ChatGPT等），即可根据业务信息自动生成逻辑严密、层层递进的邮件营销内容。文章还详细讲解了如何配置专属 AI 助手，并将生成的完美排版邮件导入来发信系统，助您大幅提升开发信转化率。
 tags: ["开发信", "AI工具", "邮件营销", "自动化营销", "外贸技巧"]

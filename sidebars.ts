@@ -578,22 +578,22 @@ const sidebars: SidebarsConfig = {
           ],
         },
         {
-          type: "category",
-          label: "开发篇",
-          collapsed: true,
-          link: {
-            type: "doc",
-            id: "share/email/AI-Generate-Multi-Round-Cold-Email-Sequences",
-          },
-          items: [
-            {
-              type: "doc",
-              label: "AI 自动生成多轮开发信",
-              id: "share/email/AI-Generate-Multi-Round-Cold-Email-Sequences",
-            },
-            {
-              type: "doc",
-              label: "腾讯元宝打造cold email",
+      type: "category",
+      label: "开发篇",
+      collapsed: true,
+      link: {
+        type: "doc",
+        id: "share/email/ai-generate-multi-round-cold-email-sequences",
+      },
+      items: [
+        {
+          type: "doc",
+          label: "AI 自动生成多轮开发信",
+          id: "share/email/ai-generate-multi-round-cold-email-sequences",
+        },
+        {
+          type: "doc",
+          label: "腾讯元宝打造cold email",
               id: "share/email/Create-High-Response-Foreign-Trade-Development-Letters-with-Tencent-Yuanbao",
             },
           ],

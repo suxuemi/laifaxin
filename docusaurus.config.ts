@@ -208,7 +208,7 @@ const config = {
             {
               label: "开发篇",
               type: "doc",
-              docId: "share/email/AI-Generate-Multi-Round-Cold-Email-Sequences",
+              docId: "share/email/ai-generate-multi-round-cold-email-sequences",
             },
             {
               label: "跟进篇（待更新）",
