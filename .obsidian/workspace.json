@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 483.5
   },
   "right": {
     "id": "64cfc46a0d7e3253",
@@ -215,6 +215,7 @@
   "active": "1f6c6eff7e9f7fd9",
   "lastOpenFiles": [
     "docs/share/email/ai-generate-multi-round-cold-email-sequences.md",
+    "docs/zhinan/email-sequence-guide.md",
     "docs/share/email/ai-wr.md",
     "docs/share/email/AI-Generate-Multi-Round-Cold-Email-Sequences.md",
     "static/images/ai-wr/dda1e9de0fecff862930b9254bca131f_MD5.png",
@@ -257,7 +258,6 @@
     "docs/zhinan/bulk-search-task.md",
     "docs/zhinan/basic-grammar-section.md",
     "docs/zhinan/b2b-recruiter-syntax.md",
-    "docs/zhinan/whatsapp-search.md",
     "docs/_archive/zhinan",
     "docs/_archive"
   ]
