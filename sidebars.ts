@@ -23,6 +23,11 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: "doc",
+          label: "🚀 10分钟速通",
+          id: "zhinan/quick-start-laifaxin-10min",
+        },
+        {
+          type: "doc",
           label: "1️⃣ 初识来发信⏱3min",
           id: "zhinan/meet-laifaxin",
         },

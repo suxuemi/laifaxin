@@ -143,6 +143,11 @@ const config = {
           label: "指南",
           items: [
             {
+              label: "🚀 10分钟速通",
+              type: "doc",
+              docId: "zhinan/quick-start-laifaxin-10min",
+            },
+            {
               label: "1️⃣ 快速上手",
               type: "doc",
               docId: "zhinan/meet-laifaxin", // Example docId, adjust as needed
