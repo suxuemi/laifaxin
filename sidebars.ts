@@ -178,8 +178,20 @@ const sidebars: SidebarsConfig = {
               label: "① AI筛选",
               id: "zhinan/ai-customer-screening-guide",
             },
-          ],  
-        }, 
+          ],
+        },
+        {
+          type: "category",
+          label: "🌟 搜索实战",
+          link: { type: "doc", id: "zhinan/exhibition-buyer-batch-search-marketing" },
+          items: [
+            {
+              type: "doc",
+              label: "① 展会采购商批量开发",
+              id: "zhinan/exhibition-buyer-batch-search-marketing",
+            },
+          ],
+        },
         {
           type: "category",
           label: "9️⃣ 历史功能",
