@@ -262,7 +262,7 @@ const sidebars: SidebarsConfig = {
       items: [
         { type: "doc", label: "🚀 邮件群发", id: "zhinan/email-mass-sending" },
         { type: "doc", label: "📊 追踪记录", id: "zhinan/tracking-logs" },
-        { type: "doc", label: "📧 邮件序列", id: "zhinan/email-sequence-guide" },
+        { type: "doc", label: "📧 智能跟进计划", id: "zhinan/email-sequence-guide" },
       ],
     },
     {
